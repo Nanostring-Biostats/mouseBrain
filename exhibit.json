@@ -10,54 +10,352 @@
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
-            "Masks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Internal capsule", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
-            "ActiveMasks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Internal capsule", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
+            "Masks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Corticospinal tract", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
+            "ActiveMasks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Corticospinal tract", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
             "Zoom": 0.42730637009654243, 
             "Pan": [0.5, 0.4999999999999999]
         },
-        {
-            "Name": "Detailed Brain Morphology", 
-            "Description": "(Mouse brain detailed morphology cartoon)", 
-            "Arrows": [], 
-            "Overlays": [], 
-            "Group": "All markers", 
-            "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil"], 
-            "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil"], 
-            "Zoom": 0.42730637009654243, 
-            "Pan": [0.5, 0.4999999999999999]
-        },  
         {
             "Name": "Linking Molecular and Imaging Data", 
             "Description": "(# of genes with expression over LOQ)", 
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
-            "Masks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Internal capsule", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
-            "ActiveMasks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Internal capsule", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
+            "Masks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Corticospinal tract", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
+            "ActiveMasks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Corticospinal tract", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
             "Zoom": 0.415575667912783, 
-            "Pan": [0.49999999999999956, 0.36650119957430205]
+            "Pan": [0.49999999999999956, 0.36650119957430205],
+            "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data": {
+                "url": "data/waypoint3secondary.csv"
+            },
+            "mark": {
+                "type": "point",
+                "filled": true
+            },
+            "encoding": {
+                "x": {
+                    "field": "x_axis",
+                    "type": "quantitative",
+                    "axis": {
+                        "labelExpr": "datum.label == 1 ? 'Amygdala' : datum.label == 2 ? 'Amygdala - NeuN+' : datum.label == 3 ? 'Amygdala - Neuropil' : datum.label == 4 ? 'Caudoputamen' : datum.label == 5 ? 'Caudoputamen - NeuN+' : datum.label == 6 ? 'Caudoputamen - Neuropil' : datum.label == 7 ? 'Cortex' : datum.label == 8 ? 'Cortex - NeuN+' : datum.label == 9 ? 'Cortex - Neuropil' : datum.label == 10 ? 'Epithalamus' : datum.label == 11 ? 'Hippocampus' : datum.label == 12 ? 'Hypothalamus' : datum.label == 13 ? 'Corticospinal tract' : datum.label == 14 ? 'Thalamus' : datum.label == 15 ? 'Choroid plexus' : null",
+                        "labelAngle": -90,
+                        "tickCount": 12,
+                        "grid": false
+                    },
+                    "scale": {"domain": [0, 16]},
+                    "title": null
+                },
+                "y": {
+                    "field": "GenesDetected",
+                    "type": "quantitative"
+                },
+                "shape": {
+                    "field": "CorticalLayer", 
+                    "type": "nominal",
+                    "legend": {
+                        "orient": "bottom",
+                        "direction": "vertical",
+                        "symbolFillColor": "white"
+                    },
+                    "scale": {
+                        "domain": ["Layer I", "Layer II/III", "Layer IV", "Layer V", "Layer VI"],
+                        "range": ["square", "cross", "diamond", "triangle-up", "triangle-down"]
+                    }
+                },
+                "color": {
+                    "field": "SecondaryLocation",
+                    "type": "nominal",
+                    "legend": {
+                        "orient": "bottom",
+                        "direction": "vertical"
+                    },
+                    "title": "ROI Category",
+                    "scale": {
+                        "domain": ["NeuN+", "Neuropil", "Amygdala", "Caudoputamen", "Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI", "Lateral habenula", "Medial habenula", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Choroid plexus", "Ventromedial hypothalamic nucleus", "Corticospinal tract",  "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"],
+                        "range": ["#f0e442", "#d55e00", "#5c581d", "#a34902", "#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48", "#737373", "#cbcbcb", "#b9f9e8", "#00ffba", "#009e73", "#01513b", "#beb532", "#fdae70", "#fff9ad", "#323232", "#784a64", "#be719c", "#f093c7", "#fec4e4"]
+                    }
+                }
+            }
+        }
         }, 
         {
             "Name": "Global Cell Type Deconvolution", 
-            "Description": "(cell type with all ROI categories)", 
+            "Description": "(cell type with all ROI categories)\n\nNOTE: I (Natalie) need to fix the alignment of the left column. It was bec time consuming so I will come back to it after I get more data visualizations in the story.", 
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
-            "Masks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Internal capsule", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
-            "ActiveMasks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Internal capsule", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
+            "Masks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Corticospinal tract", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
+            "ActiveMasks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Choroid plexus", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Corticospinal tract", "Lateral habenula", "Medial habenula", "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"], 
             "Zoom": 0.41152628245725137, 
-            "Pan": [0.5, 0.5000000000000001]
+            "Pan": [0.5, 0.5000000000000001],
+            "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null},
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "layer": 
+            [{
+               "mark": "bar",
+               "data": {"url": "data/global_cell_type_deconvolution.csv"},
+               "width": "container",
+               "encoding": {
+                     "x": {
+                           "field": "Proportion", 
+                           "type": "quantitative", 
+                           "stack": "normalize", 
+                           "title": "Proportion of Cell Type",
+                           "sort": null
+                     },
+                     "y": {
+                           "field": "Sample_ID", 
+                           "type": "nominal", 
+                           "title": null,
+                           "axis": {
+                               "labels": false,
+                               "ticks": false
+                           },
+                           "sort": null
+                     },
+                     "color": {
+                           "field": "Cell_type", 
+                           "type": "nominal",
+                           "legend": {"orient": "bottom", "direction": "vertical", "offset": 1800}, 
+                           "title": "Cell Type"
+                           },
+                   "tooltip": {
+                       "field": "Cell_type", "type":"nominal"
+                       }    
+                     }
+                     
+            },
+            {
+            "data": {
+                "values": [{
+                    "Sample_ID": "ROI", "order": "X", "name": "Choroid plexus", "type": "Choroid plexus", "percentage": 0.032634015},
+                    {"Sample_ID": "ROI", "order": "W", "name": "Corticospinal tract", "type": "Corticospinal tract", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "V", "name": "Cortex", "type": "Cortical layer I", "percentage": 0.021645022},
+                    {"Sample_ID": "ROI", "order": "U", "name": "Cortex", "type": "Cortical layer II/III", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "T", "name": "Cortex", "type": "Cortical layer II/III - NeuN+", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "S", "name": "Cortex", "type": "Cortical layer II/III - Neuropil", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "R", "name": "Cortex", "type": "Cortical layer IV", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "Q", "name": "Cortex", "type": "Cortical layer IV - NeuN+", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "P", "name": "Cortex", "type": "Cortical layer IV - Neuropil", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "O", "name": "Cortex", "type": "Cortical layer V", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "N", "name": "Cortex", "type": "Cortical layer V - NeuN+", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "M", "name": "Cortex", "type": "Cortical layer V - Neuropil", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "L", "name": "Cortex", "type": "Cortical layer VI", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "K", "name": "Cortex", "type": "Cortical layer VI - NeuN+", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "J", "name": "Cortex", "type": "Cortical layer VI - Neuropil", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "I", "name": "Hippocampus", "type": "Hippocampus CA1", "percentage": 0.021645022},
+                    {"Sample_ID": "ROI", "order": "H", "name": "Hippocampus", "type": "Hippocampus CA2", "percentage": 0.010656001},
+                    {"Sample_ID": "ROI", "order": "G", "name": "Hippocampus", "type": "Hippocampus CA3", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "F", "name": "Hippocampus", "type": "Hippocampus dentate gyrus", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "E", "name": "Amygdala", "type": "Amygdala", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "D", "name": "Amygdala", "type": "Amygdala - NeuN+", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "C", "name": "Amygdala", "type": "Amygdala - Neuropil", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "B", "name": "Caudoputamen", "type": "Caudoputamen", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "A", "name": "Caudoputamen", "type": "Caudoputamen - NeuN+", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "9", "name": "Caudoputamen", "type": "Caudoputamen - Neuropil", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "8", "name": "Hypothalamus", "type": "Hypothalamus", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "7", "name": "Hypothalamus", "type": "Ventromedial hypothalamic nucleus", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "6", "name": "Thalamus", "type": "Thalamus", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "5", "name": "Thalamus", "type": "Mediodorsal thalamus", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "4", "name": "Thalamus", "type": "Thalamic paraventricular nucleus", "percentage": 0.021645022},
+                    {"Sample_ID": "ROI", "order": "3", "name": "Thalamus", "type": "Thalamic ventral posteromedial nucleus", "percentage": 0.032634033},
+                    {"Sample_ID": "ROI", "order": "2", "name": "Epithalamus", "type": "Lateral habenula", "percentage": 0.021645022},
+                    {"Sample_ID": "ROI", "order": "1", "name": "Epithalamus", "type": "Medial habenula", "percentage": 0.021645022}
+                ]},
+                    "mark": {"type": "bar", "xOffset": -7},
+                    "width": 7,
+                    "height": 1820,
+                    "encoding": {
+                        "y": {
+                                "field": "percentage", 
+                                "type": "quantitative",
+                                "axis": {
+                                "labels": false,
+                                "ticks": false
+                                },
+                                "title": null
+                        },
+                        "x": {
+                                "field": "Sample_ID", 
+                                "type": "nominal",     
+                                "title": null,
+                                "axis": {
+                                "labels": false,
+                                "ticks": false
+                                }
+                            },
+                        "color": {
+                            "field": "name", 
+                            "type": "nominal",
+                            "sort": null,
+                            "legend": {"orient": "top", "direction": "vertical", "title": "Primary location"},
+                            "scale": {"domain": ["Choroid plexus", "Corticospinal tract", "Cortex", "Hippocampus", "Amygdala", "Caudoputamen", "Hypothalamus", "Thalamus", "Epithalamus"], 
+                                "range": ["#fdae70", "#323232", "#37a7e5", "#009e73", "#5c581d", "#a34902", "#beb532", "#fec4e4", "#A6A4A4"]}
+                        },
+                        "tooltip": {
+                            "field": "type", "type":"nominal"
+                        },         
+                        "order": {"field": "order"}
+                    }
+            }],
+          "resolve": {"scale": {"color": "independent"}}
+        }
         }, 
         {
             "Name": "Spatial mapping of Segmented ROIs", 
-            "Description": "(heatmap of NeuN+ vs Neuropil pathways)", 
+            "Description": "(heatmap of NeuN+ vs Neuropil pathways)\n\nNOTE: I (Natalie) will work on getting the indicator bars above the heatmap.", 
             "Arrows": [], 
             "Overlays": [], 
             "Group": "Nuclei", 
             "Masks": ["Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil"], 
             "ActiveMasks": ["Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil"], 
             "Zoom": 0.493396674584323, 
-            "Pan": [0.5000000000000014, 0.4883626682587922]
+            "Pan": [0.5000000000000014, 0.4883626682587922],
+            "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "layer": [{
+                "data": {"url": "data/wpt4_pathway_heatmap.csv"},
+                "mark": "rect",
+                "encoding": {
+                    "x": {
+                        "field": "ROI",
+                        "type": "nominal",
+                        "title": null,
+                        "sort": null,
+                        "axis": {
+                            "labels": false,
+                            "ticks": false
+                        }
+                    },
+                    "y": {
+                        "field": "path",
+                        "type": "nominal",
+                        "sort": null,
+                        "title": null
+                    },
+                    "color": {
+                        "field": "path_value",
+                        "bin": {"binned": true},
+                        "scale": {"range": ["#7D26CD", "#6B20AF", "#591B92", "#471575", "#351057", "#230A3A", "#11051D", "#000000", "#212100", "#434300", "#656500", "#888800", "#AAAA00", "#CBCB00", "#EEEE00"]},
+                        "legend": {"orient": "top"}, "title": null
+                    },
+                    "tooltip": {
+                        "field": "full_pathway_name",
+                        "type": "nominal"
+                    }
+                }
+            },
+        {
+            "data": {
+                "values":[
+                    {"bar": "one", "order": "A", "primaryLocation": "Cortex", "percentage": 0.02778333},
+                    {"bar": "one", "order": "B", "primaryLocation": "Caudoputamen", "percentage": 0.083283333},
+                    {"bar": "one", "order": "C", "primaryLocation": "Cortex", "percentage": 0.277783333},
+                    {"bar": "one", "order": "D", "primaryLocation": "Amygdala", "percentage": 0.083283333},
+                    {"bar": "one", "order": "E", "primaryLocation": "Cortex", "percentage": 0.305583333},
+                    {"bar": "one", "order": "F", "primaryLocation": "Amygdala", "percentage": 0.055583333},
+                    {"bar": "one", "order": "G", "primaryLocation": "Caudoputamen", "percentage": 0.02778333},
+                    {"bar": "one", "order": "H", "primaryLocation": "Cortex", "percentage": 0.02778333},
+                    {"bar": "one", "order": "I", "primaryLocation": "Caudoputamen", "percentage": 0.02778333},
+                    {"bar": "one", "order": "J", "primaryLocation": "Cortex", "percentage": 0.02778333},
+                    {"bar": "one", "order": "K", "primaryLocation": "Amygdala", "percentage": 0.02778333},
+                    {"bar": "one", "order": "L", "primaryLocation": "Caudoputamen", "percentage": 0.02778333}
+                ]
+            },
+            "mark": {
+                "type": "bar",
+                "yOffset": 300
+            },
+            "encoding": {
+                "x": {
+                    "field": "percentage",
+                    "type": "quantitative",
+                    "axis": {
+                        "labels": false,
+                        "ticks": false
+                    },
+                    "title": null
+                },
+                "y": {
+                    "field": "bar",
+                    "type": "nominal",
+                    "title": null,
+                    "axis": {
+                        "labels": false,
+                        "ticks": false
+                    }
+                },
+                "color": {
+                    "field": "primaryLocation",
+                    "type": "nominal",
+                    "sort":null,
+                    "legend": {
+                        "title": "Primary location",
+                        "offset":345,
+                        "orient": "bottom",
+                        "direction": "vertical"
+                    },
+                    "scale": {
+                        "domain": ["Cortex", "Caudoputamen", "Amygdala"],
+                        "range": ["#37a7e5", "#a34902", "#5c581d"]
+                    }
+                },
+                "order": {"field": "order"}
+                }
+        },
+        {
+            "data": {
+                "values":[
+                    {"bar": "two", "order": "A", "segmentation": "Neuoropil", "percentage": 0.0277778},
+                    {"bar": "two", "order": "B", "segmentation": "NeuN+", "percentage": 0.5},
+                    {"bar": "two", "order": "C", "segmentation": "Neuoropil", "percentage": 0.4722222}
+                ]
+            },
+            "mark": {
+                "type": "bar",
+                "yOffset": 318
+            },
+            "encoding": {
+                "x": {
+                    "field": "percentage",
+                    "type": "quantitative",
+                    "axis": {
+                        "labels": false,
+                        "ticks": false
+                    },
+                    "title": null
+                },
+                "y": {
+                    "field": "bar",
+                    "type": "nominal",
+                    "title": null,
+                    "axis": {
+                        "labels": false,
+                        "ticks": false
+                    }
+                },
+                "color": {
+                    "field": "segmentation",
+                    "type": "nominal",
+                    "sort":null,
+                    "legend": {
+                        "title": "Segmentation",
+                        "offset":345,
+                        "orient": "bottom",
+                        "direction": "vertical"
+                    },
+                    "scale": {
+                        "domain": ["Neuoropil", "NeuN+"],
+                        "range": ["#d55e00", "#f0e442"]
+                    }
+                },
+                "order": {"field": "order"}
+                }
+        }],
+        "resolve": {"scale": {"y": "independent"}}
+        }
         }, 
         {
             "Name": "Cortex Morphology", 
@@ -79,7 +377,51 @@
             "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil"], 
             "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil"], 
             "Zoom": 1.6461051298290055, 
-            "Pan": [0.3068811072299535, 0.6243367688909288]
+            "Pan": [0.3068811072299535, 0.6243367688909288],
+            "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data": {"url": "data/wpt6_cortex_pca.csv"},
+            "mark": {"type": "point", "filled": true, "size": 100},
+            "encoding": {
+                "x": {
+                    "field": "x_axis",
+                    "type": "quantitative",
+                    "title": "PCA 1 (25.669%)"
+                },
+                "y": {
+                    "field": "y_axis",
+                    "type": "quantitative",
+                    "title": "PCA 2 (6.144%)"
+                },
+                "shape": {
+                    "field": "layer", 
+                    "type": "nominal",
+                    "legend": {
+                        "orient": "bottom",
+                        "direction": "vertical",
+                        "symbolFillColor": "white"
+                    },
+                    "title": "Layer",
+                    "scale": {
+                        "domain": ["Layer I", "Layer II/III", "Layer IV", "Layer V", "Layer VI"],
+                        "range": ["square", "cross", "diamond", "triangle-up", "triangle-down"]
+                    }
+                },
+                "color": {
+                    "field": "ROItype",
+                    "type": "nominal",
+                    "legend": {
+                        "orient": "bottom",
+                        "direction": "vertical"
+                    },
+                    "title": "ROI Category",
+                    "scale": {
+                        "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI", "NeuN+", "Neuropil"],
+                        "range": ["#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48", "#f0e442", "#d55e00"]
+                    }
+                }
+            }
+        }
         }, 
         {
             "Name": "Cortical Cell Type Deconvolution", 
@@ -90,7 +432,99 @@
             "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil"], 
             "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil"], 
             "Zoom": 2.123385226554527, 
-            "Pan": [0.27105776403164267, 0.6282803389883898]
+            "Pan": [0.27105776403164267, 0.6282803389883898],
+            "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null},
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "layer": 
+            [{
+               "mark": "bar",
+               "data": {"url": "data/wpt7_cortex_decon.csv"},
+               "width": "container",
+               "encoding": {
+                     "x": {
+                           "field": "Proportion", 
+                           "type": "quantitative", 
+                           "stack": "normalize", 
+                           "title": "Proportion of Cell Type",
+                           "sort": null
+                     },
+                     "y": {
+                           "field": "Sample_ID", 
+                           "type": "nominal", 
+                           "title": null,
+                           "axis": {
+                               "labels": false,
+                               "ticks": false
+                           },
+                           "sort": null
+                     },
+                     "color": {
+                           "field": "Cell_type", 
+                           "type": "nominal",
+                           "legend": {"orient": "bottom", "direction": "vertical", "offset": 750}, 
+                           "title": "Cell Type"
+                           },
+                   "tooltip": {
+                       "field": "Cell_type", "type":"nominal"
+                       }    
+                     }
+                     
+            },
+            {
+            "data": {
+                "values": [
+                    {"Sample_ID": "ROI", "order": "M", "name": "Cortical layer I", "type": "Cortical layer I", "percentage": 0.052632},
+                    {"Sample_ID": "ROI", "order": "L", "name": "Cortical layer II/III", "type": "Cortical layer II/III", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "K", "name": "Cortical layer II/III", "type": "Cortical layer II/III - NeuN+", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "J", "name": "Cortical layer II/III", "type": "Cortical layer II/III - Neuropil", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "I", "name": "Cortical layer IV", "type": "Cortical layer IV", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "H", "name": "Cortical layer IV", "type": "Cortical layer IV - NeuN+", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "G", "name": "Cortical layer IV", "type": "Cortical layer IV - Neuropil", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "F", "name": "Cortical layer V", "type": "Cortical layer V", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "E", "name": "Cortical layer V", "type": "Cortical layer V - NeuN+", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "D", "name": "Cortical layer V", "type": "Cortical layer V - Neuropil", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "C", "name": "Cortical layer VI", "type": "Cortical layer VI", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "B", "name": "Cortical layer VI", "type": "Cortical layer VI - NeuN+", "percentage": 0.078947},
+                    {"Sample_ID": "ROI", "order": "A", "name": "Cortical layer VI", "type": "Cortical layer VI - Neuropil", "percentage": 0.078947}
+                ]},
+                    "mark": {"type": "bar", "xOffset": -7},
+                    "width": 7,
+                    "height": 760,
+                    "encoding": {
+                        "y": {
+                                "field": "percentage", 
+                                "type": "quantitative",
+                                "axis": {
+                                "labels": false,
+                                "ticks": false
+                                },
+                                "title": null
+                        },
+                        "x": {
+                                "field": "Sample_ID", 
+                                "type": "nominal",     
+                                "title": null,
+                                "axis": {
+                                "labels": false,
+                                "ticks": false
+                                }
+                            },
+                        "color": {
+                            "field": "name", 
+                            "type": "nominal",
+                            "sort": null,
+                            "legend": {"orient": "top", "direction": "vertical", "title": "Primary location"},
+                            "scale": {"domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI"], 
+                                "range": ["#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48"]}
+                        },
+                        "tooltip": {
+                            "field": "type", "type":"nominal"
+                        },         
+                        "order": {"field": "order"}
+                    }
+            }],
+          "resolve": {"scale": {"color": "independent"}}
+        }
         }, 
         {
             "Name": "Comparing Gene Expression in Cortical Layers", 
@@ -101,29 +535,226 @@
             "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI"], 
             "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI"], 
             "Zoom": 2.0190384, 
-            "Pan": [0.29276988293172485, 0.6293729646287849]
+            "Pan": [0.29276988293172485, 0.6293729646287849],
+            "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "layer": [{
+                "data": {"url": "data/gene_heatmap_fullRoi_cortex.csv"},
+                "mark": "rect",
+                "encoding": {
+                    "x": {
+                        "field": "ROI",
+                        "type": "nominal",
+                        "title": null,
+                        "sort": null,
+                        "axis": {
+                            "labels": false,
+                            "ticks": false
+                        }
+                    },
+                    "y": {
+                        "field": "gene",
+                        "type": "nominal",
+                        "sort": null,
+                        "title": null
+                    },
+                    "color": {
+                        "field": "gene_value",
+                        "bin": {"binned": true},
+                        "scale": {"range": ["#7D26CD", "#6B20AF", "#591B92", "#471575", "#351057", "#230A3A", "#11051D", "#000000", "#212100", "#434300", "#656500", "#888800", "#AAAA00", "#CBCB00", "#EEEE00"]},
+                        "legend": {"orient": "top"}, "title": null
+                    },
+                    "tooltip": {
+                        "field": "full_gene_name",
+                        "type": "nominal"
+                    }
+                }
+            },
+        {
+            "data": {
+                "values":[
+                    {"bar": "one", "order": "A", "type": "Cortical layer I", "percentage": 0.14256},
+                    {"bar": "one", "order": "B", "type": "Cortical layer II/III", "percentage": 0.21429},
+                    {"bar": "one", "order": "C", "type": "Cortical layer IV", "percentage": 0.21429},
+                    {"bar": "one", "order": "D", "type": "Cortical layer V", "percentage": 0.21429},
+                    {"bar": "one", "order": "E", "type": "Cortical layer VI", "percentage": 0.21429}
+                ]
+            },
+            "mark": {
+                "type": "bar",
+                "yOffset": 998
+            },
+            "encoding": {
+                "x": {
+                    "field": "percentage",
+                    "type": "quantitative",
+                    "axis": {
+                        "labels": false,
+                        "ticks": false
+                    },
+                    "title": null
+                },
+                "y": {
+                    "field": "bar",
+                    "type": "nominal",
+                    "title": null,
+                    "axis": {
+                        "labels": false,
+                        "ticks": false
+                    }
+                },
+                "color": {
+                    "field": "type",
+                    "type": "nominal",
+                    "sort":null,
+                    "legend": {
+                        "title": "Primary location",
+                        "offset":1020,
+                        "orient": "bottom",
+                        "direction": "vertical"
+                    },
+                    "scale": {
+                        "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI", "NeuN+", "Neuropil"],
+                        "range": ["#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48", "#f0e442", "#d55e00"]
+                    }
+                },
+                "order": {"field": "order"}
+                }
+        }],
+        "resolve": {"scale": {"y": "independent"}}
+        }
         }, 
         {
             "Name": "Validating Cortical Gene Expression with Protein Expression", 
-            "Description": "(Ighm gene expression plot)\n\n![image](img/geneExpressionBelgardeCropped.png)\n\n[*Image credit: Belgrade, et al.*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163272/)", 
+            "Description": "(Ighm gene expression plot)\n\nNOTE: The dark blue dots were very hard to see on the black background so I (Natalie) added a white line around them. Let me know if you would prefer a different fix.\n\n![image](img/geneExpressionBelgardeCropped.png)\n\n[*Image credit: Belgrade, et al.*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163272/)", 
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
             "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil"], 
             "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil"], 
             "Zoom": 1.7694876887954394, 
-            "Pan": [0.341172485935519, 0.6078795539285848]
+            "Pan": [0.341172485935519, 0.6078795539285848],
+            "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data": {"url": "data/scatter_plot_ighm_expression_cortex.csv"},
+            "mark": {"type": "point", "filled": true, "size": 100, "stroke": "white", "strokeWidth": 1},
+            "encoding": {
+                "x": {
+                    "field": "Structure",
+                    "type": "quantitative",
+                    "axis": {
+                        "labelExpr": "datum.label == 1 ? 'Layer I' : datum.label == 2 ? 'Layer II/III' : datum.label == 3 ? 'Layer IV' : datum.label == 4 ? 'Layer V' : datum.label == 5 ? 'Layer VI' : null",
+                        "labelAngle": -90,
+                        "tickCount": 6,
+                        "grid": false
+                    },
+                    "scale": {"domain": [0, 6]},
+                    "title": null
+                },
+                "y": {
+                    "field": "Ighm Expression",
+                    "type": "quantitative",
+                    "title": "Normalized Ighm Expression"
+                },
+                "color": {
+                    "field": "cortex_layer",
+                    "type": "nominal",
+                    "legend": {
+                        "orient": "bottom",
+                        "direction": "vertical"
+                    },
+                    "scale": {
+                        "domain": ["Layer I", "Layer II/III", "Layer IV", "Layer V", "Layer VI", "NeuN+", "Neuropil"],
+                        "range": ["#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48", "#f0e442", "#d55e00"]
+                    }
+                }
+            }
+        }
         }, 
         {
             "Name": "Differential Gene Expression", 
-            "Description": "(hippocampus DG vs caudoputamen. But which caudoputamen ROI categories??)", 
+            "Description": "(hippocampus DG vs caudoputamen. But which caudoputamen ROI categories??)\n\nQuestions from Natalie: Is there a pared list of genes to include on the plot or should I try to manually move these around so they don't overlap? Also, would you like the font size bigger (this will impact the text overlap)?", 
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
             "Masks": ["Hippocampus dentate gyrus", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil"], 
             "ActiveMasks": ["Hippocampus dentate gyrus", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil"], 
             "Zoom": 1.4168217281433753, 
-            "Pan": [0.42351612817930173, 0.5778537958106489]
+            "Pan": [0.42351612817930173, 0.5778537958106489],
+            "VisBarChart": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data":{
+                "url": "data/volcano_plot_DG_left_Caudo_right.csv"
+            },
+            "layer": [{
+                "mark": {"type": "point", "filled": true},
+                "encoding": {
+                    "x": {
+                        "field": "FC",
+                        "type": "quantitative",
+                        "title": "(DG) Hippocampus←log2(FC)→Caudoputamen",
+                        "axis": {
+                            "titleFontSize": 11
+                        }
+                    },
+                    "y": {
+                        "field": "Significance",
+                        "type": "quantitative",
+                        "title": "Significance, -log10(P)"
+                    },
+                    "color": {
+                        "field": "Color",
+                        "type": "nominal",
+                        "scale": null
+                    }
+                }
+            },
+            {
+                "mark": {"type": "rect", "fillOpacity": 0, "stroke": "red"},
+                "data": {"values": [{"type": "Hippocampus dentate gyrus"}]},
+                "encoding": {
+                    "y": {"datum": 1.3},
+                    "y2": {"datum": 6},
+                    "x": {"datum": -6},
+                    "x2": {"datum": -0.5}
+                }
+            },
+            {
+                "mark": {"type": "rect", "fillOpacity": 0, "stroke": "red"},
+                "data": {"values": [{"type": "Caudoputamen - NeuN+"}]},
+                "encoding": {
+                    "y": {"datum": 1.3},
+                    "y2": {"datum": 6},
+                    "x": {"datum": 0.5},
+                    "x2": {"datum": 7}
+                }
+            },
+            {
+                "mark": {
+                    "type": "text",
+                    "align": "left",
+                    "fontSize": 9,
+                    "angle": -35,
+                    "color": "white",
+                    "stroke": "black",
+                    "strokeWidth": 0.1,
+                    "baseline": "top"
+                },
+                "encoding": {
+                    "x": {
+                        "field": "FC",
+                        "type": "quantitative"
+                    },
+                    "y": {
+                        "field": "Significance",
+                        "type": "quantitative"
+                    },
+                    "text": {
+                        "field": "GeneNames"
+                    }
+                }
+            }
+        ]
+        }
         }, 
         {
             "Name": "Gene Expression Across Neuron-Rich ROIs", 
@@ -131,10 +762,60 @@
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
-            "Masks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus"], 
-            "ActiveMasks": ["Amygdala", "Amygdala - NeuN+", "Amygdala - Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer IV - NeuN+", "Cortical layer IV - Neuropil", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Neuropil", "Cortical layer VI", "Cortical layer VI - NeuN+", "Cortical layer VI - Neuropil", "Caudoputamen", "Caudoputamen - NeuN+", "Caudoputamen - Neuropil", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus"], 
+            "Masks": ["Amygdala - NeuN+", "Cortical layer II/III - NeuN+", "Cortical layer IV - NeuN+", "Cortical layer V - NeuN+", "Cortical layer VI - NeuN+", "Caudoputamen - NeuN+", "Hippocampus dentate gyrus"], 
+            "ActiveMasks": ["Amygdala - NeuN+", "Cortical layer II/III - NeuN+", "Cortical layer IV - NeuN+", "Cortical layer V - NeuN+", "Cortical layer VI - NeuN+", "Caudoputamen - NeuN+", "Hippocampus dentate gyrus"], 
             "Zoom": 0.8412659999999998, 
-            "Pan": [0.6418423136177476, 0.49112678437908874]
+            "Pan": [0.6418423136177476, 0.49112678437908874],
+            "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data": {"url": "data/scatter_plot_adora2a_expression_neuron_rich.csv"},
+            "mark": {"type": "point", "filled": true, "size": 100},
+            "encoding": {
+                "x": {
+                    "field": "Structure",
+                    "type": "quantitative",
+                    "axis": {
+                        "labelExpr": "datum.label == 1 ? 'Amygdala' : datum.label == 2 ? 'Caudoputamen' : datum.label == 3 ? 'Cortex' : datum.label == 4 ? 'Hippocampus' : null",
+                        "labelAngle": -90,
+                        "tickCount": 4,
+                        "grid": false
+                    },
+                    "scale": {"domain": [0, 5]},
+                    "title": null
+                },
+                "y": {
+                    "field": "Adora2a Expression",
+                    "type": "quantitative",
+                    "title": "Adora2a Expression"
+                },
+                "shape": {
+                    "field": "Layer", 
+                    "type": "nominal",
+                    "legend": {
+                        "orient": "bottom",
+                        "direction": "vertical",
+                        "symbolFillColor": "white"
+                    },
+                    "title": "Layer",
+                    "scale": {
+                        "domain": ["Coritical layer I", "Coritical layer II/III", "Coritical layer IV", "Coritical layer V", "Coritical layer VI"],
+                        "range": ["square", "cross", "diamond", "triangle-up", "triangle-down"]
+                    }
+                },
+                "color": {
+                    "field": "type",
+                    "type": "nominal",
+                    "legend": {
+                        "orient": "bottom",
+                        "direction": "vertical"
+                    },
+                    "scale": {
+                        "domain": ["Hippocampus dentate gyrus", "Amygdala - NeuN+", "Cortical layer II/III - NeuN+", "Cortical layer IV - NeuN+", "Cortical layer V - NeuN+", "Cortical layer VI - NeuN+", "Caudoputamen - NeuN+"],
+                        "range": ["#01513b", "#f0e442", "#f0e442", "#f0e442", "#f0e442", "#f0e442", "#f0e442"]
+                    }
+                }
+            }
+        }
         }
     ]}], 
     "Masks": [{
@@ -165,7 +846,7 @@
         {"Path": "Hippocampus-dentate-gyrus", "Name": "Hippocampus dentate gyrus", "Colors": ["01513b"], "Channels": ["Hippocampus dentate gyrus"]}, 
         {"Path": "Hypothalamus", "Name": "Hypothalamus", "Colors": ["beb532"], "Channels": ["Hypothalamus"]}, 
         {"Path": "Ventromedial-hypothalamic-nucleus", "Name": "Ventromedial hypothalamic nucleus", "Colors": ["fff9ad"], "Channels": ["Ventromedial hypothalamic nucleus"]}, 
-        {"Path": "Internal-capsule", "Name": "Internal capsule", "Colors": ["323232"], "Channels": ["Internal capsule"]}, 
+        {"Path": "Corticospinal-tract", "Name": "Corticospinal tract", "Colors": ["323232"], "Channels": ["Corticospinal tract"]}, 
         {"Path": "Lateral-habenula", "Name": "Lateral habenula", "Colors": ["737373"], "Channels": ["Lateral habenula"]}, 
         {"Path": "Medial-habenula", "Name": "Medial habenula", "Colors": ["cbcbcb"], "Channels": ["Medial habenula"]}, 
         {"Path": "Thalamic-paraventricular-nucleus", "Name": "Thalamic paraventricular nucleus", "Colors": ["784a64"], "Channels": ["Thalamic paraventricular nucleus"]}, 
