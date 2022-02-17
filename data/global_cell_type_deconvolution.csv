@@ -1,1002 +1,1002 @@
-Sample_ID,Cell_type,Proportion,X_position,Y_position,type
-D5761.(3).|.019.|.DNA,neuron,7.50127069292131e-05,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,micro,0.00965867820389497,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,astro,0,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,polyden,0.00288306272242671,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,macro,0.0178156125768036,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,endo_tip,0.343009110706862,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,endo_st,0.00727026582948314,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,choroid,0.614518225483375,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,oligod,0,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,ependym,0.000189682101550112,15346,18206,Choroid plexus
-D5761.(3).|.019.|.DNA,mural,0.00458034966867524,15346,18206,Choroid plexus
-D5761.(3).|.020.|.DNA,neuron,0,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,micro,0.0155996471823041,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,astro,0,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,polyden,0.00553986229990782,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,macro,0.0164721589724396,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,endo_tip,0.257976501358698,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,endo_st,0.008545177951944,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,choroid,0.684537466276886,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,oligod,0,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,ependym,0.00377066881500734,22414,16800,Choroid plexus
-D5761.(3).|.020.|.DNA,mural,0.0075585171428133,22414,16800,Choroid plexus
-D5761.(3).|.021.|.DNA,neuron,0,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,micro,0.0127500521403273,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,astro,0,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,polyden,0.00485332059907318,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,macro,0.00970150063006796,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,endo_tip,0.224746105920889,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,endo_st,0.00596191824693414,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,choroid,0.740817495106041,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,oligod,7.61569722215388e-05,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,ependym,0,7861,16010,Choroid plexus
-D5761.(3).|.021.|.DNA,mural,0.00109345038444628,7861,16010,Choroid plexus
-D5761.(3).|.008.|.Full.ROI,neuron,0.0637463745760885,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,micro,0.227177850130993,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,astro,0.059464689139622,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,polyden,0.138999553670741,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,macro,0.0965146545949143,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,endo_tip,0.0269460511091967,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,endo_st,0.0418849664043964,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,choroid,0,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,oligod,0.306042274990626,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,ependym,0.0294583342687092,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.008.|.Full.ROI,mural,0.00976525111471321,9486.3671875,13342.671875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,neuron,0.0364753271970267,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,micro,0.205859487621198,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,astro,0.0509025196215626,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,polyden,0.248459166362073,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,macro,0.0548928524129885,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,endo_tip,0.0980100142475953,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,endo_st,0.0284480519036381,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,choroid,0,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,oligod,0.24459564442246,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,ependym,0.0199159006593514,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.009.|.Full.ROI,mural,0.012441035552107,9974.6884765625,12617.3701171875,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,neuron,0.0225795363317931,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,micro,0.162041397063191,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,astro,0.0734398383844857,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,polyden,0.257364762144752,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,macro,0.114832226467345,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,endo_tip,0.0599220865538923,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,endo_st,0.0193115466580701,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,choroid,0,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,oligod,0.270203431179149,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,ependym,0.0116729632617929,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.010.|.Full.ROI,mural,0.00863221195552931,10664.083984375,11884.8876953125,Corticospinal tract
-D5761.(3).|.043.|.Full.ROI,neuron,0.165429069961393,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,micro,0.251101988085598,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,astro,0.208145307462492,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,polyden,0.00964690031122803,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,macro,0.132881166043837,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,endo_tip,0.132986518051977,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,endo_st,0.0869065344791876,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,choroid,0.000936759066873985,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,oligod,0,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,ependym,0.00406366021242427,5899,21442,Cortical layer I
-D5761.(3).|.043.|.Full.ROI,mural,0.00790209632498943,5899,21442,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,neuron,0.183171246412178,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,micro,0.252815449443,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,astro,0.250130577525863,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,polyden,0.058598388708145,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,macro,0.13406016816242,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,endo_tip,0.0269760366199051,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,endo_st,0.0836403042278023,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,choroid,0,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,oligod,0,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,ependym,0.000560899320791234,8852,23021,Cortical layer I
-D5761.(3).|.053.|.Full.ROI,mural,0.0100469295798955,8852,23021,Cortical layer I
-D5761.(3).|.044.|.Full.ROI,neuron,0.598053920630948,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,micro,0.15396936559683,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,astro,0.0937396483639022,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,polyden,0.0393042878108725,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,macro,0.0474960080671335,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,endo_tip,0.0353353599412355,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,endo_st,0.0276715715643878,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,choroid,0.000188590893068282,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,oligod,0,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,ependym,0.00424124713162158,6083,21055,Cortical layer II/III
-D5761.(3).|.044.|.Full.ROI,mural,0,6083,21055,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,neuron,0.638290554366418,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,micro,0.156906700294264,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,astro,0.10749779728242,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,polyden,0.0158116320849161,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,macro,0.029351452303538,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,endo_tip,0.0121822476255619,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,endo_st,0.0311223394042947,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,choroid,0.000114962822450127,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,oligod,0,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,ependym,0.00872231381613739,8968,22536,Cortical layer II/III
-D5761.(3).|.054.|.Full.ROI,mural,0,8968,22536,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,neuron,0.658262467976436,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,micro,0.144806444669543,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,astro,0.0799220314842296,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,polyden,0,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,macro,0.0272982829873376,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,endo_tip,0.0204314141383605,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,endo_st,0.0327860399335618,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,choroid,0,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,oligod,0,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,ependym,0.000440297338618144,4148,18512,Cortical layer II/III
-D5761.(3).|.064.|.Full.ROI,mural,0.0360530214719127,4148,18512,Cortical layer II/III
-D5761.(3).|.049.|.NeuN+,neuron,0.786732384086193,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,micro,0.110277608716113,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,astro,0.0227917799743185,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,polyden,0,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,macro,0.0525851627750445,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,endo_tip,0.00886811149043581,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,endo_st,0.00874318864360196,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,choroid,0,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,oligod,0,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,ependym,0.0100017643142935,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.NeuN+,mural,0,5038,19845,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,neuron,0.765187910807316,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,micro,0.078488161925594,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,astro,0.0355523046232446,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,polyden,0,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,macro,0.0198778730488401,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,endo_tip,0.0521013094555922,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,endo_st,0.017754460047076,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,choroid,0,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,oligod,0,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,ependym,0.0138802801545211,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.059.|.NeuN+,mural,0.017157699937816,7386,21866,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,neuron,0.824083991744832,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,micro,0.0723317040533758,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,astro,0.0175808668475586,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,polyden,0.0166500888301536,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,macro,0.0274178017829274,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,endo_tip,0.00052931745834994,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,endo_st,0.0191345900751839,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,choroid,0.000105288446172855,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,oligod,0,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,ependym,0.0208947909089116,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.069.|.NeuN+,mural,0.00127155985253416,10355,22958,Cortical layer II/III - NeuN+
-D5761.(3).|.049.|.DNA,neuron,0.334583426456816,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,micro,0.21732533886693,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,astro,0.220953032868335,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,polyden,0.0480077836442092,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,macro,0.0859203776277857,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,endo_tip,0,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,endo_st,0.0584338921765772,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,choroid,0,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,oligod,0.0154612064696353,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,ependym,0,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.049.|.DNA,mural,0.0193149418897127,5038,19845,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,neuron,0.396710313799132,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,micro,0.27727061751414,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,astro,0.254401164626606,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,polyden,0,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,macro,0,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,endo_tip,0,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,endo_st,0.05386592580275,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,choroid,0,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,oligod,0.00971783511070755,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,ependym,0,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.059.|.DNA,mural,0.00803414314666445,7386,21866,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,neuron,0.405941336706085,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,micro,0.27937522095598,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,astro,0.222162644995029,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,polyden,0,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,macro,0.0183796291970931,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,endo_tip,0.00410174703642548,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,endo_st,0.0581097668615763,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,choroid,0.000645544643796419,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,oligod,0.00175519974875554,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,ependym,0,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.069.|.DNA,mural,0.0095289098552595,10355,22958,Cortical layer II/III - Neuropil
-D5761.(3).|.045.|.Full.ROI,neuron,0.594724423275396,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,micro,0.0542656274619826,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,astro,0.115615067672842,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,polyden,0.019074603147559,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,macro,0.0843790891431131,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,endo_tip,0.0572035972849084,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,endo_st,0.0364172339844289,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,choroid,0,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,oligod,0.0204840227237246,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,ependym,0.00427122288792591,6525,20614,Cortical layer IV
-D5761.(3).|.045.|.Full.ROI,mural,0.0135651124181193,6525,20614,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,neuron,0.606620773316729,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,micro,0.133581941474329,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,astro,0.0978678487095903,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,polyden,0.0649046857433209,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,macro,0.0268698148264553,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,endo_tip,0.0237681941097188,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,endo_st,0.0303223581805481,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,choroid,0.000148105561502598,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,oligod,0.00617661847803658,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,ependym,0.00973965959976861,9157,22058,Cortical layer IV
-D5761.(3).|.055.|.Full.ROI,mural,0,9157,22058,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,neuron,0.627119486169721,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,micro,0.127249169296634,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,astro,0.116466817349125,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,polyden,0.0509458188125551,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,macro,0.0519417461178574,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,endo_tip,0,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,endo_st,0.0203656198965166,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,choroid,0,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,oligod,0.00591134235759074,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,ependym,0,4576,18267,Cortical layer IV
-D5761.(3).|.065.|.Full.ROI,mural,0,4576,18267,Cortical layer IV
-D5761.(3).|.050.|.NeuN+,neuron,0.894361910683814,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,micro,0.0579671685980659,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,astro,0.020585005164009,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,polyden,0.013104971028292,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,macro,0.00662486813003941,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,endo_tip,0,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,endo_st,0.00524136669850666,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,choroid,0,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,oligod,0.0021147096972731,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,ependym,0,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.NeuN+,mural,0,5556,19538,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,neuron,0.699486924933802,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,micro,0.0663470609161102,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,astro,0.0348067579128251,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,polyden,0.022354570166656,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,macro,0.129300919096143,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,endo_tip,0.0171901571384943,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,endo_st,0.016494397657182,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,choroid,0,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,oligod,0,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,ependym,0.0140192121787874,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.060.|.NeuN+,mural,0,7692,21379,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,neuron,0.893725034848729,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,micro,0.0526886479739509,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,astro,0.0143238336364466,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,polyden,0,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,macro,0.0298364901102935,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,endo_tip,0,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,endo_st,0.00860159993610412,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,choroid,0,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,oligod,0,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,ependym,0,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.070.|.NeuN+,mural,0.000824393494476326,10636,22526,Cortical layer IV - NeuN+
-D5761.(3).|.050.|.DNA,neuron,0.432665031323859,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,micro,0.240159084377792,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,astro,0.24529161820619,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,polyden,0,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,macro,0,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,endo_tip,0,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,endo_st,0.0446023209119961,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,choroid,0.00280678627009883,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,oligod,0.0292894210840032,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,ependym,0,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.050.|.DNA,mural,0.00518573782606109,5556,19538,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,neuron,0.428058165349839,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,micro,0.0988187412341839,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,astro,0.298974418821279,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,polyden,0,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,macro,0.0339706648077104,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,endo_tip,0,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,endo_st,0.119723395542766,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,choroid,0,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,oligod,0.00922170182342126,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,ependym,0,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.060.|.DNA,mural,0.0112329124208007,7692,21379,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,neuron,0.342201423310155,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,micro,0.342090401014637,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,astro,0.133813475097968,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,polyden,0.047492575709862,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,macro,0,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,endo_tip,0,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,endo_st,0.0855706664024155,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,choroid,0,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,oligod,0.000295685805496601,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,ependym,0,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.070.|.DNA,mural,0.0485357726594665,10636,22526,Cortical layer IV - Neuropil
-D5761.(3).|.046.|.Full.ROI,neuron,0.503095617345266,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,micro,0.164759763386603,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,astro,0.107362156715658,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,polyden,0.0970344767818866,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,macro,0.0432165389328902,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,endo_tip,0.0178789034238305,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,endo_st,0.0344171576135013,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,choroid,0,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,oligod,0.0203622344192567,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,ependym,0.0040725497439726,6909,20242,Cortical layer V
-D5761.(3).|.046.|.Full.ROI,mural,0.00780060163713523,6909,20242,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,neuron,0.571185564496406,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,micro,0.134325705914638,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,astro,0.0943651764728527,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,polyden,0.0800724722156834,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,macro,0.0588438347626274,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,endo_tip,0.00588020300194626,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,endo_st,0.035338099259906,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,choroid,0,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,oligod,0.0191656556883261,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,ependym,0.000823288187613673,9377,21609,Cortical layer V
-D5761.(3).|.056.|.Full.ROI,mural,0,9377,21609,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,neuron,0.52714688378891,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,micro,0.129369860900651,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,astro,0.0953430402951376,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,polyden,0.0707397165187576,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,macro,0.0639662794989166,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,endo_tip,0.0486703555755396,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,endo_st,0.028286770696968,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,choroid,3.46932173742203e-05,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,oligod,0.0102079778689944,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,ependym,0.00489827271802686,5068,18013,Cortical layer V
-D5761.(3).|.066.|.Full.ROI,mural,0.0213361489207242,5068,18013,Cortical layer V
-D5761.(3).|.051.|.NeuN+,neuron,0.82470065968447,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,micro,0.0732963716465641,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,astro,0.0171813230324578,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,polyden,0.0454538550227842,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,macro,0.0216737848896626,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,endo_tip,0,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,endo_st,0.00354754232202682,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,choroid,0,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,oligod,0,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,ependym,0.0129963172552192,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.051.|.NeuN+,mural,0.00115014614681494,5997,19241,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,neuron,0.854477164107193,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,micro,0.0596771358705056,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,astro,0.0132530369269302,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,polyden,0.0314485204892767,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,macro,0.0310902606134711,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,endo_tip,0.00558835133017736,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,endo_st,0.00285131188705597,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,choroid,0.000597335182345561,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,oligod,0.000288819496678457,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,ependym,0.000728064096366463,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.061.|.NeuN+,mural,0,7995,21047,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,neuron,0.808332107406772,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,micro,0.0274853899984108,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,astro,0.0146509424592383,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,polyden,0.076793432351985,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,macro,0.0571104063646439,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,endo_tip,0.00281704881573353,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,endo_st,0.00410489311439222,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,choroid,0,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,oligod,0.00255677588966316,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,ependym,0.00614900359916073,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.071.|.NeuN+,mural,0,10734,22083,Cortical layer V - NeuN+
-D5761.(3).|.051.|.DNA,neuron,0.314047591842367,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,micro,0.208566919761622,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,astro,0.214599497182165,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,polyden,0.105862683202285,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,macro,0.0617808490793149,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,endo_tip,0,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,endo_st,0.0661351169166236,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,choroid,0.00121387243787157,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,oligod,0.0277934695777518,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,ependym,0,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.051.|.DNA,mural,0,5997,19241,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,neuron,0.3803056550517,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,micro,0.208192665836075,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,astro,0.209171578686775,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,polyden,0.00572488660843102,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,macro,0.0878917947313498,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,endo_tip,0,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,endo_st,0.0770405194778212,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,choroid,0.000367405764939241,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,oligod,0.0305532575171177,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,ependym,0,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.061.|.DNA,mural,0.000752236325791598,7995,21047,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,neuron,0.377378392768961,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,micro,0.235053254142218,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,astro,0.167978364493259,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,polyden,0.0595142038816721,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,macro,0.0758137595066841,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,endo_tip,0.0151876302349548,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,endo_st,0.0466252117777234,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,choroid,0,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,oligod,0.0224491831945276,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,ependym,0,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.071.|.DNA,mural,0,10734,22083,Cortical layer V - Neuropil
-D5761.(3).|.047.|.Full.ROI,neuron,0.538871313592276,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,micro,0.122950118667139,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,astro,0.0574390479880794,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,polyden,0.114862566067194,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,macro,0.0586081677713181,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,endo_tip,0.0541448322510097,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,endo_st,0.0227956960950526,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,choroid,0,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,oligod,0.019472967264093,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,ependym,0.0055576900328187,7451,19774,Cortical layer VI
-D5761.(3).|.047.|.Full.ROI,mural,0.00529760027101921,7451,19774,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,neuron,0.53481462911511,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,micro,0.147772152705149,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,astro,0.062140360425909,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,polyden,0.113735858424764,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,macro,0.0526077163700381,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,endo_tip,0.016175838072014,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,endo_st,0.0325028574744439,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,choroid,0,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,oligod,0.0320488277795374,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,ependym,0.00248264183298789,9640,21043,Cortical layer VI
-D5761.(3).|.057.|.Full.ROI,mural,0.00571911780004673,9640,21043,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,neuron,0.576380477427282,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,micro,0.128038528550885,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,astro,0.0560621973882223,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,polyden,0.129892788630744,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,macro,0.0553222933220255,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,endo_tip,0.0091975058858446,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,endo_st,0.0199335400513874,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,choroid,0,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,oligod,0.0195455271150963,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,ependym,0.00562714162851273,5789,17625,Cortical layer VI
-D5761.(3).|.067.|.Full.ROI,mural,0,5789,17625,Cortical layer VI
-D5761.(3).|.052.|.NeuN+,neuron,0.72246539839644,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,micro,0.0429560586960924,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,astro,0.0141083866232278,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,polyden,0.109222697907417,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,macro,0.0445618675105547,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,endo_tip,0.0279652623326452,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,endo_st,0.0128276430315637,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,choroid,0,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,oligod,0.00609682284485152,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,ependym,0.0151021395446293,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.NeuN+,mural,0.004693723112578,6557,18797,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,neuron,0.741770477538086,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,micro,0.0510781716265306,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,astro,0.0150312359751881,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,polyden,0.0660813578824659,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,macro,0.0555452030948441,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,endo_tip,0.0347740167617927,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,endo_st,0.00968167073789789,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,choroid,0,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,oligod,0.00341943863564157,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,ependym,0.0226184277475533,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.062.|.NeuN+,mural,0,8423,20530,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,neuron,0.619375232284548,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,micro,0.0953067169189639,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,astro,0.0159742196922455,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,polyden,0.065279449185061,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,macro,0.0621842182797393,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,endo_tip,0.0888314101723065,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,endo_st,0.0161941395084101,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,choroid,0,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,oligod,0,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,ependym,0.0252930360148892,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.072.|.NeuN+,mural,0.0115615779438361,10907,21517,Cortical layer VI - NeuN+
-D5761.(3).|.052.|.DNA,neuron,0.358749493749365,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,micro,0.156120870941839,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,astro,0.152037333093072,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,polyden,0.12484075212712,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,macro,0.100252667432475,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,endo_tip,0.00252603650257328,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,endo_st,0.0491245980908152,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,choroid,0,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,oligod,0.0563482480627403,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,ependym,0,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.052.|.DNA,mural,0,6557,18797,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,neuron,0.362121160997142,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,micro,0.126555181529377,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,astro,0.149796078534355,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,polyden,0.221880325356854,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,macro,0,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,endo_tip,0,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,endo_st,0.0654745662173041,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,choroid,0.000805441503376561,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,oligod,0.0733672458615916,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,ependym,0,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.062.|.DNA,mural,0,8423,20530,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,neuron,0.313762626576662,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,micro,0.186422769222699,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,astro,0.126474182078092,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,polyden,0.0781203474693632,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,macro,0.0522729830388698,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,endo_tip,0.103628421957233,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,endo_st,0.0472122268631247,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,choroid,0,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,oligod,0.0792536607593338,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,ependym,0.000515840158768172,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.072.|.DNA,mural,0.0123369418758537,10907,21517,Cortical layer VI - Neuropil
-D5761.(3).|.033.|.Full.ROI,neuron,0.356122947530397,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,micro,0.184636615928368,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,astro,0.357868470566653,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,polyden,0,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,macro,0,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,endo_tip,0.0179644364514419,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,endo_st,0.0801752215083878,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,choroid,0,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,oligod,0,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,ependym,0,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.033.|.Full.ROI,mural,0.00323230801475166,12584.859375,20066.130859375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,neuron,0.339141168566665,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,micro,0.297533702431427,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,astro,0.253926681915221,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,polyden,0.0280681125539861,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,macro,0,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,endo_tip,0,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,endo_st,0.0536555758363341,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,choroid,0,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,oligod,0,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,ependym,0,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.034.|.Full.ROI,mural,0.0276747586963663,11679.6826171875,20200.37109375,Hippocampus CA1
-D5761.(3).|.039.|.Full.ROI,neuron,0.212188361606253,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,micro,0.390756559562116,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,astro,0.142595013794199,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,polyden,0.053915715677645,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,macro,0,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,endo_tip,0.122963788276302,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,endo_st,0.036075869172642,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,choroid,0.00308786145023492,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,oligod,0,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,ependym,0.00561443535592318,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.039.|.Full.ROI,mural,0.0328023951046847,9429.947265625,19084.1796875,Hippocampus CA2
-D5761.(3).|.036.|.Full.ROI,neuron,0.382423817981556,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,micro,0.217396249707521,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,astro,0.272640699988787,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,polyden,0,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,macro,0.0445191502256597,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,endo_tip,0.00669436107648683,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,endo_st,0.0553195929904393,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,choroid,0.00113573360625657,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,oligod,0.0194727382373339,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,ependym,0,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.036.|.Full.ROI,mural,0.000397656185959365,10081.3720703125,18230.1875,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,neuron,0.327429568342419,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,micro,0.21705776603419,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,astro,0.136085706912847,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,polyden,0.142884616304146,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,macro,0.066777314439477,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,endo_tip,0.050901727177291,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,endo_st,0.0218356419448737,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,choroid,0.000897913671644818,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,oligod,0.0113825689772665,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,ependym,0,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.037.|.Full.ROI,mural,0.0247471761958456,9553.2451171875,18085.44140625,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,neuron,0.434175468463194,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,micro,0.12880825771284,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,astro,0.231338026519198,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,polyden,0.0487664934110027,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,macro,0.0609864662705151,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,endo_tip,0,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,endo_st,0.0567893075974193,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,choroid,0.00135650672301566,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,oligod,0.0200752942056649,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,ependym,0,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.038.|.Full.ROI,mural,0.0177041790971502,9016.265625,18132.21484375,Hippocampus CA3
-D5761.(3).|.030.|.Full.ROI,neuron,0.462842576907942,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,micro,0.0969515891821454,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,astro,0.0221766092599119,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,polyden,0.117879884140483,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,macro,0.160570060505802,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,endo_tip,0.0769674347200259,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,endo_st,0.0134850939365862,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,choroid,0.000160688034482872,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,oligod,0.00199243659921593,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,ependym,0.0469736267134047,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.030.|.Full.ROI,mural,0,12858,18452,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,neuron,0.359127615781716,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,micro,0.141577996714689,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,astro,0.0227997875078471,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,polyden,0.115321779721563,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,macro,0.0678346130877337,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,endo_tip,0.20185548167046,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,endo_st,0.0222479927670919,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,choroid,4.26189375009724e-05,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,oligod,0.000253790995519951,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,ependym,0.0624613472280006,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.031.|.Full.ROI,mural,0.00647697558787851,12493,18144,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,neuron,0.438119787903862,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,micro,0.0778109649066473,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,astro,0.0252556682297825,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,polyden,0.153930641379031,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,macro,0.145230549872831,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,endo_tip,0.0516553998193913,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,endo_st,0.0240625182602521,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,choroid,0,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,oligod,0,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,ependym,0.0649530307259825,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.032.|.Full.ROI,mural,0.0189814389022202,13621,18031,Hippocampus dentate gyrus
-D5761.(3).|.040.|.Full.ROI,neuron,0.477300794503864,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,micro,0.17257144849169,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,astro,0.0983218669199138,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,polyden,0.116600655455785,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,macro,0.0758336158739659,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,endo_tip,0.0124825449735182,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,endo_st,0.0289747646882288,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,choroid,0,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,oligod,0,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,ependym,0.0139312712257623,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.040.|.Full.ROI,mural,0.003983037867272,6662.1689453125,11542.296875,Amygdala
-D5761.(3).|.041.|.Full.ROI,neuron,0.480262834794116,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,micro,0.168965029081728,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,astro,0.102995811919031,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,polyden,0.129934881193168,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,macro,0.0629615356754206,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,endo_tip,0,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,endo_st,0.0231637182628146,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,choroid,0,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,oligod,0,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,ependym,0.0224682100668312,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.041.|.Full.ROI,mural,0.00924797900689128,6499.962890625,12343.2802734375,Amygdala
-D5761.(3).|.042.|.Full.ROI,neuron,0.652187149171522,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,micro,0.18179053040819,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,astro,0.0957229326151539,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,polyden,0.00991607368115209,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,macro,0,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,endo_tip,0,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,endo_st,0.0129806117376077,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,choroid,0.000857259412133468,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,oligod,0,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,ependym,0.0181436296506836,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.042.|.Full.ROI,mural,0.0284018133235578,6324.1953125,13104.142578125,Amygdala
-D5761.(3).|.048.|.NeuN+,neuron,0.939825298655204,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,micro,0.0183827706130241,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,astro,0.00857367447789322,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,polyden,0.00518991618517072,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,macro,0.0266748289870453,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,endo_tip,0,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,endo_st,0,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,choroid,0,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,oligod,0,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,ependym,0,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.048.|.NeuN+,mural,0.00135351108166264,23952.744140625,10462.9013671875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,neuron,0.958483467811504,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,micro,0.02226814199582,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,astro,0.00798823782852949,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,polyden,0,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,macro,0.0079681301494673,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,endo_tip,0,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,endo_st,0,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,choroid,0,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,oligod,0,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,ependym,0.00329202221467921,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.058.|.NeuN+,mural,0,24240.041015625,11883.404296875,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,neuron,0.93472400862955,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,micro,0.0283696902648094,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,astro,0.0116956005375842,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,polyden,0,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,macro,0.0207100211833958,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,endo_tip,0.00450067938466074,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,endo_st,0,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,choroid,0,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,oligod,0,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,ependym,0,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.068.|.NeuN+,mural,0,23714.2265625,11241.9111328125,Amygdala - NeuN+
-D5761.(3).|.048.|.DNA,neuron,0.283376574724511,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,micro,0.259010752356702,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,astro,0.174710726819663,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,polyden,0.0494803803167984,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,macro,0.0676449768568633,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,endo_tip,0.0269669430188089,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,endo_st,0.0979919663170522,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,choroid,0,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,oligod,0.00344987509207661,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,ependym,0.00695992033378145,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.048.|.DNA,mural,0.0304078841637435,23952.744140625,10462.9013671875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,neuron,0.444599101617938,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,micro,0.186328045094198,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,astro,0.191799438450834,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,polyden,0.05395428302832,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,macro,0.0726070829047052,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,endo_tip,0,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,endo_st,0.0396713294733724,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,choroid,0.00112052147616212,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,oligod,0.00992019795447058,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,ependym,0,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.058.|.DNA,mural,0,24240.041015625,11883.404296875,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,neuron,0.341940138556673,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,micro,0.266723106770805,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,astro,0.174009730168479,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,polyden,0.0580275096377424,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,macro,0.0382680311476038,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,endo_tip,0.03464370574863,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,endo_st,0.0572676202083118,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,choroid,0,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,oligod,0.0129763131409034,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,ependym,0,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.068.|.DNA,mural,0.0161438446208521,23714.2265625,11241.9111328125,Amygdala - Neuropil
-D5761.(3).|.014.|.Full.ROI,neuron,0.373287340384115,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,micro,0.132054567407583,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,astro,0.0768623700297107,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,polyden,0.125992724651931,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,macro,0.0404870207278741,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,endo_tip,0.138065122475107,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,endo_st,0.0337926770496663,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,choroid,0.00579393273909699,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,oligod,0.0295664977439143,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,ependym,0.0168496764176134,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.014.|.Full.ROI,mural,0.0272480703733883,6489.658203125,15720.3818359375,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,neuron,0.466673361534528,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,micro,0.152311576270984,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,astro,0.0814027171300223,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,polyden,0.202017721483868,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,macro,0.0494510052375077,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,endo_tip,0.00582184108653529,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,endo_st,0.0277894753344609,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,choroid,0,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,oligod,0.00368305341086827,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,ependym,0.0108492485112251,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.015.|.Full.ROI,mural,0,6297.04248046875,14623.955078125,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,neuron,0.465392361183401,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,micro,0.117299711832844,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,astro,0.0854746937066502,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,polyden,0.168174566851579,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,macro,0.0788659428372387,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,endo_tip,0.0316765676894395,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,endo_st,0.0146223998421013,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,choroid,0.000425468186001666,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,oligod,0,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,ependym,0.0312547759073735,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.016.|.Full.ROI,mural,0.00681351196337102,6993.42138671875,14016.4755859375,Caudoputamen
-D5761.(3).|.073.|.NeuN+,neuron,0.793950772212709,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,micro,0.0198886946505632,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,astro,0.013490977315567,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,polyden,0.0875507422147905,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,macro,0.0633143825102597,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,endo_tip,0,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,endo_st,0.0092112342541634,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,choroid,0,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,oligod,0.00622022744567391,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,ependym,0.00637296939627302,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.NeuN+,mural,0,24192.896484375,14239.904296875,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,neuron,0.806489433383119,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,micro,0,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,astro,0.0033767287341162,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,polyden,0.0341846217569605,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,macro,0.130017262611974,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,endo_tip,0.0121613839078613,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,endo_st,0.00643334934715433,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,choroid,0,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,oligod,0.00379472998967547,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,ependym,0.00354249026913901,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.074.|.NeuN+,mural,0,23949.630859375,15586.267578125,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,neuron,0.80328236924819,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,micro,0.0150921203112313,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,astro,0.0183509923663984,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,polyden,0.0732978479228127,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,macro,0.0601088058362632,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,endo_tip,0.0156514846611246,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,endo_st,0.00834563626564026,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,choroid,0,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,oligod,0,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,ependym,0.00570045792630843,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.075.|.NeuN+,mural,0.00017028546203074,24140.10546875,13193.1123046875,Caudoputamen - NeuN+
-D5761.(3).|.073.|.DNA,neuron,0.222876599757588,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,micro,0.225791993569924,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,astro,0.143293432680446,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,polyden,0.139669850815591,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,macro,0.0609964875924649,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,endo_tip,0.00515248582136263,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,endo_st,0.0515782736648487,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,choroid,0.000579989233082011,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,oligod,0.105497631604457,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,ependym,0.00826562086719173,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.073.|.DNA,mural,0.0362976343930442,24192.896484375,14239.904296875,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,neuron,0.287459172425679,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,micro,0.160952485685633,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,astro,0.102661395950011,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,polyden,0.0647794837921794,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,macro,0.119821686666507,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,endo_tip,0.0677379983796716,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,endo_st,0.0616973283738573,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,choroid,0,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,oligod,0.0643942945838879,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,ependym,0.0284441652537857,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.074.|.DNA,mural,0.0420519888887887,23949.630859375,15586.267578125,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,neuron,0.315684628392856,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,micro,0.242638940135373,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,astro,0.228486358232627,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,polyden,0.0158524583818582,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,macro,0.0458790349007208,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,endo_tip,0.0109532071215794,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,endo_st,0.0602512700173611,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,choroid,0.000538964241587775,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,oligod,0.00663402283552832,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,ependym,0,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.075.|.DNA,mural,0.0730811157405089,24140.10546875,13193.1123046875,Caudoputamen - Neuropil
-D5761.(3).|.011.|.Full.ROI,neuron,0.314170365269682,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,micro,0.0707366986366603,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,astro,0.0976346510739008,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,polyden,0.374445121540562,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,macro,0.0384180478305755,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,endo_tip,0.0241250086003524,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,endo_st,0.0163930024934829,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,choroid,0,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,oligod,0.0442691329822446,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,ependym,0.019807971572539,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.011.|.Full.ROI,mural,0,12675.2001953125,11086.748046875,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,neuron,0.292749145855145,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,micro,0.0673767115686047,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,astro,0.11339706784413,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,polyden,0.297325178804324,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,macro,0.0848193763527321,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,endo_tip,0.0257177264423939,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,endo_st,0.0344575792440993,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,choroid,0,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,oligod,0.0507321461655905,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,ependym,0.0309378057730326,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.012.|.Full.ROI,mural,0.00248726194994746,13118.2373046875,10416.7880859375,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,neuron,0.297212645783568,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,micro,0.0906381987060197,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,astro,0.143685731462866,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,polyden,0.311062528411056,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,macro,0.0765011609732421,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,endo_tip,0,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,endo_st,0.019331484609696,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,choroid,0,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,oligod,0.0350885541389862,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,ependym,0.0264796959145654,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.013.|.Full.ROI,mural,0,13712.556640625,9908.916015625,Hypothalamus
-D5761.(3).|.017.|.Full.ROI,neuron,0.400502711097952,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,micro,0.106906461847658,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,astro,0.105976900675296,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,polyden,0.245539997496153,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,macro,0.0461544474451139,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,endo_tip,0.0335565191850937,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,endo_st,0.0205706028971177,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,choroid,0,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,oligod,0.00136360236934707,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,ependym,0.0394287569862688,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.017.|.Full.ROI,mural,0,14588,9138,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,neuron,0.428214706772725,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,micro,0.0789672715369006,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,astro,0.0968471507377421,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,polyden,0.271217781166211,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,macro,0.0431968086501358,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,endo_tip,0.0242358286753493,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,endo_st,0.0154630337847911,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,choroid,0,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,oligod,0.00655295287794503,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,ependym,0.0347202080280211,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.018.|.Full.ROI,mural,0.000584257770178444,16618,9454,Ventromedial hypothalamic nucleus
-D5761.(3).|.022.|.Full.ROI,neuron,0.433752408600953,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,micro,0.101976037759293,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,astro,0.126621113532881,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,polyden,0.212355826908178,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,macro,0.0385715079402551,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,endo_tip,0.0143971720788947,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,endo_st,0.0336549812775691,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,choroid,0,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,oligod,0.0364539744062452,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,ependym,0,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.022.|.Full.ROI,mural,0.00221697749573189,12758.0888671875,15969.859375,Thalamus
-D5761.(3).|.023.|.Full.ROI,neuron,0.471104003456513,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,micro,0.0597698955628992,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,astro,0.127303507284744,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,polyden,0.220856614533699,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,macro,0.0268291555007136,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,endo_tip,0.0102618393685384,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,endo_st,0.0427345967370014,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,choroid,0.00106688097032199,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,oligod,0.0311646790336223,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,ependym,0,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.023.|.Full.ROI,mural,0.00890882755194689,12903.7109375,14974.77734375,Thalamus
-D5761.(3).|.024.|.Full.ROI,neuron,0.367084299498261,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,micro,0.0799838440832329,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,astro,0.118177670416982,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,polyden,0.19706486019217,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,macro,0,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,endo_tip,0.0942476941478002,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,endo_st,0.0527097629143323,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,choroid,0,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,oligod,0.0560429327017356,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,ependym,0.00104971327086355,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.024.|.Full.ROI,mural,0.0336392227746234,13316.306640625,14198.126953125,Thalamus
-D5761.(3).|.027.|.Full.ROI,neuron,0.506440550496122,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,micro,0.0903033278573761,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,astro,0.124277669432005,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,polyden,0.149827553221882,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,macro,0.0637699413227071,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,endo_tip,0.00240464988916182,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,endo_st,0.0198190248235804,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,choroid,0,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,oligod,0.0423108398246399,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,ependym,0.00084644313252538,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.027.|.Full.ROI,mural,0,14661.2890625,14280.1376953125,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,neuron,0.398504956714254,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,micro,0.055460198025283,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,astro,0.12232365230416,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,polyden,0.213426818585018,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,macro,0.0998605243774976,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,endo_tip,0.0272336501941777,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,endo_st,0.0248061192151519,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,choroid,0.000219447088497026,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,oligod,0.0428241036495573,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,ependym,0.00634443814803512,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.028.|.Full.ROI,mural,0.00899609169836858,14050.40234375,15162.529296875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,neuron,0.48430253202964,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,micro,0.0765127328040477,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,astro,0.160959348449701,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,polyden,0.1905571467478,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,macro,0.0252234011903227,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,endo_tip,0,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,endo_st,0.0356124823732583,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,choroid,0.000992554786875186,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,oligod,0.0239444241536353,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,ependym,0.000951986666257252,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.029.|.Full.ROI,mural,0.000943390798462969,14891.0244140625,15063.326171875,Mediodorsal thalamus
-D5761.(3).|.025.|.Full.ROI,neuron,0.493421881580602,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,micro,0.0684922354975568,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,astro,0.124723075103652,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,polyden,0.166508907491021,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,macro,0.0357908446507339,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,endo_tip,0.0612377055955827,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,endo_st,0.0199106201482212,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,choroid,0.00211507239197505,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,oligod,0.000693525022989145,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,ependym,0.0180662913267717,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.025.|.Full.ROI,mural,0.00903984119089467,14934,16070,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,neuron,0.479844466474764,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,micro,0.0513257223049459,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,astro,0.129928091905895,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,polyden,0.188512991425666,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,macro,0.0537763477574565,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,endo_tip,0.0460269413490699,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,endo_st,0.0250103617650564,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,choroid,0.000171794609346143,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,oligod,0.00547836729564819,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,ependym,0.0199249151121521,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.026.|.Full.ROI,mural,0,15981,16089,Thalamic paraventricular nucleus
-D5761.(3).|.001.|.Full.ROI,neuron,0.38683918200002,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,micro,0.0667541353710703,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,astro,0.135962636657093,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,polyden,0.122942956712458,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,macro,0.0601604368514639,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,endo_tip,0.0847397702032246,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,endo_st,0.0452581033423391,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,choroid,0,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,oligod,0.0427506087406794,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,ependym,0.0112406144068704,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.001.|.Full.ROI,mural,0.0433515557147809,10739.47265625,15384.361328125,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,neuron,0.483890727631448,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,micro,0.0268800863223284,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,astro,0.189258833418128,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,polyden,0.0920386117507322,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,macro,0.058198773685875,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,endo_tip,0.0159425076612485,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,endo_st,0.0421770087349248,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,choroid,0,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,oligod,0.0661156269035031,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,ependym,0,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.006.|.Full.ROI,mural,0.0254978238918125,11131.978515625,14634.9931640625,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,neuron,0.440031088323434,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,micro,0.0613220364237877,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,astro,0.168482936503066,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,polyden,0.153333844255658,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,macro,0.0513941652426275,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,endo_tip,0.0111666688129866,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,endo_st,0.0368680751852782,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,choroid,0,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,oligod,0.0682311549099141,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,ependym,0,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.007.|.Full.ROI,mural,0.00917003034324821,11771.0966796875,14092.9560546875,Thalamic ventral posteromedial nucleus
-D5761.(3).|.004.|.Full.ROI,neuron,0.264958662418655,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,micro,0.0732272868485306,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,astro,0.15440386263121,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,polyden,0.235186769481556,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,macro,0.0423486566168807,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,endo_tip,0.0835800225287383,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,endo_st,0.0335462356075108,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,choroid,0.000756063358137059,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,oligod,0.0626029613221098,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,ependym,0.022690055897991,14345,16694,Lateral habenula
-D5761.(3).|.004.|.Full.ROI,mural,0.0266994232886813,14345,16694,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,neuron,0.263681883944656,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,micro,0.0760476024405846,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,astro,0.15115523765265,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,polyden,0.242834158152479,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,macro,0.0464362119234338,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,endo_tip,0.0906921416196265,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,endo_st,0.0339756502738276,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,choroid,0.000349859486189757,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,oligod,0.0635642922257664,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,ependym,0.0243966778598441,16494,16755,Lateral habenula
-D5761.(3).|.005.|.Full.ROI,mural,0.0068662844209427,16494,16755,Lateral habenula
-D5761.(3).|.002.|.Full.ROI,neuron,0.206355729518846,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,micro,0.0528846168872115,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,astro,0.0610127785383639,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,polyden,0.290268739379552,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,macro,0.0435450726538852,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,endo_tip,0.109525365462232,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,endo_st,0.0171690787847351,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,choroid,0.16731314076917,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,oligod,0.0127029337176693,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,ependym,0.0356868098089768,14737,17249,Medial habenula
-D5761.(3).|.002.|.Full.ROI,mural,0.00353573447935893,14737,17249,Medial habenula
-D5761.(3).|.003.|.Full.ROI,neuron,0.186352309324263,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,micro,0.0538598504698207,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,astro,0.0586143578970705,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,polyden,0.307390784617396,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,macro,0.0471457201541581,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,endo_tip,0.111401392738747,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,endo_st,0.0140706638890919,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,choroid,0.168612634223421,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,oligod,0.00901909738064853,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,ependym,0.0393737820349765,16115,17239,Medial habenula
-D5761.(3).|.003.|.Full.ROI,mural,0.00415940727040513,16115,17239,Medial habenula
+Sample_ID,Cell_type,Proportion,X_position,Y_position,type,Order
+D5761.(3).|.019.|.DNA,Neuron,7.50E-05,15346,18206,Choroid plexus,A
+D5761.(3).|.019.|.DNA,Microglia,0.009658678,15346,18206,Choroid plexus,B
+D5761.(3).|.019.|.DNA,Astrocyte,0,15346,18206,Choroid plexus,C
+D5761.(3).|.019.|.DNA,Polydendrocyte,0.002883063,15346,18206,Choroid plexus,D
+D5761.(3).|.019.|.DNA,Macrophage,0.017815613,15346,18206,Choroid plexus,E
+D5761.(3).|.019.|.DNA,Endothelial Tip,0.343009111,15346,18206,Choroid plexus,F
+D5761.(3).|.019.|.DNA,Endothelial Stalk,0.007270266,15346,18206,Choroid plexus,G
+D5761.(3).|.019.|.DNA,Choroid Plexus,0.614518225,15346,18206,Choroid plexus,H
+D5761.(3).|.019.|.DNA,Oligodendrocyte,0,15346,18206,Choroid plexus,I
+D5761.(3).|.019.|.DNA,Ependymal,0.000189682,15346,18206,Choroid plexus,J
+D5761.(3).|.019.|.DNA,Mural,0.00458035,15346,18206,Choroid plexus,K
+D5761.(3).|.020.|.DNA,Neuron,0,22414,16800,Choroid plexus,A
+D5761.(3).|.020.|.DNA,Microglia,0.015599647,22414,16800,Choroid plexus,B
+D5761.(3).|.020.|.DNA,Astrocyte,0,22414,16800,Choroid plexus,C
+D5761.(3).|.020.|.DNA,Polydendrocyte,0.005539862,22414,16800,Choroid plexus,D
+D5761.(3).|.020.|.DNA,Macrophage,0.016472159,22414,16800,Choroid plexus,E
+D5761.(3).|.020.|.DNA,Endothelial Tip,0.257976501,22414,16800,Choroid plexus,F
+D5761.(3).|.020.|.DNA,Endothelial Stalk,0.008545178,22414,16800,Choroid plexus,G
+D5761.(3).|.020.|.DNA,Choroid Plexus,0.684537466,22414,16800,Choroid plexus,H
+D5761.(3).|.020.|.DNA,Oligodendrocyte,0,22414,16800,Choroid plexus,I
+D5761.(3).|.020.|.DNA,Ependymal,0.003770669,22414,16800,Choroid plexus,J
+D5761.(3).|.020.|.DNA,Mural,0.007558517,22414,16800,Choroid plexus,K
+D5761.(3).|.021.|.DNA,Neuron,0,7861,16010,Choroid plexus,A
+D5761.(3).|.021.|.DNA,Microglia,0.012750052,7861,16010,Choroid plexus,B
+D5761.(3).|.021.|.DNA,Astrocyte,0,7861,16010,Choroid plexus,C
+D5761.(3).|.021.|.DNA,Polydendrocyte,0.004853321,7861,16010,Choroid plexus,D
+D5761.(3).|.021.|.DNA,Macrophage,0.009701501,7861,16010,Choroid plexus,E
+D5761.(3).|.021.|.DNA,Endothelial Tip,0.224746106,7861,16010,Choroid plexus,F
+D5761.(3).|.021.|.DNA,Endothelial Stalk,0.005961918,7861,16010,Choroid plexus,G
+D5761.(3).|.021.|.DNA,Choroid Plexus,0.740817495,7861,16010,Choroid plexus,H
+D5761.(3).|.021.|.DNA,Oligodendrocyte,7.62E-05,7861,16010,Choroid plexus,I
+D5761.(3).|.021.|.DNA,Ependymal,0,7861,16010,Choroid plexus,J
+D5761.(3).|.021.|.DNA,Mural,0.00109345,7861,16010,Choroid plexus,K
+D5761.(3).|.008.|.Full.ROI,Neuron,0.063746375,9486.367188,13342.67188,Corticospinal tract,A
+D5761.(3).|.008.|.Full.ROI,Microglia,0.22717785,9486.367188,13342.67188,Corticospinal tract,B
+D5761.(3).|.008.|.Full.ROI,Astrocyte,0.059464689,9486.367188,13342.67188,Corticospinal tract,C
+D5761.(3).|.008.|.Full.ROI,Polydendrocyte,0.138999554,9486.367188,13342.67188,Corticospinal tract,D
+D5761.(3).|.008.|.Full.ROI,Macrophage,0.096514655,9486.367188,13342.67188,Corticospinal tract,E
+D5761.(3).|.008.|.Full.ROI,Endothelial Tip,0.026946051,9486.367188,13342.67188,Corticospinal tract,F
+D5761.(3).|.008.|.Full.ROI,Endothelial Stalk,0.041884966,9486.367188,13342.67188,Corticospinal tract,G
+D5761.(3).|.008.|.Full.ROI,Choroid Plexus,0,9486.367188,13342.67188,Corticospinal tract,H
+D5761.(3).|.008.|.Full.ROI,Oligodendrocyte,0.306042275,9486.367188,13342.67188,Corticospinal tract,I
+D5761.(3).|.008.|.Full.ROI,Ependymal,0.029458334,9486.367188,13342.67188,Corticospinal tract,J
+D5761.(3).|.008.|.Full.ROI,Mural,0.009765251,9486.367188,13342.67188,Corticospinal tract,K
+D5761.(3).|.009.|.Full.ROI,Neuron,0.036475327,9974.688477,12617.37012,Corticospinal tract,A
+D5761.(3).|.009.|.Full.ROI,Microglia,0.205859488,9974.688477,12617.37012,Corticospinal tract,B
+D5761.(3).|.009.|.Full.ROI,Astrocyte,0.05090252,9974.688477,12617.37012,Corticospinal tract,C
+D5761.(3).|.009.|.Full.ROI,Polydendrocyte,0.248459166,9974.688477,12617.37012,Corticospinal tract,D
+D5761.(3).|.009.|.Full.ROI,Macrophage,0.054892852,9974.688477,12617.37012,Corticospinal tract,E
+D5761.(3).|.009.|.Full.ROI,Endothelial Tip,0.098010014,9974.688477,12617.37012,Corticospinal tract,F
+D5761.(3).|.009.|.Full.ROI,Endothelial Stalk,0.028448052,9974.688477,12617.37012,Corticospinal tract,G
+D5761.(3).|.009.|.Full.ROI,Choroid Plexus,0,9974.688477,12617.37012,Corticospinal tract,H
+D5761.(3).|.009.|.Full.ROI,Oligodendrocyte,0.244595644,9974.688477,12617.37012,Corticospinal tract,I
+D5761.(3).|.009.|.Full.ROI,Ependymal,0.019915901,9974.688477,12617.37012,Corticospinal tract,J
+D5761.(3).|.009.|.Full.ROI,Mural,0.012441036,9974.688477,12617.37012,Corticospinal tract,K
+D5761.(3).|.010.|.Full.ROI,Neuron,0.022579536,10664.08398,11884.8877,Corticospinal tract,A
+D5761.(3).|.010.|.Full.ROI,Microglia,0.162041397,10664.08398,11884.8877,Corticospinal tract,B
+D5761.(3).|.010.|.Full.ROI,Astrocyte,0.073439838,10664.08398,11884.8877,Corticospinal tract,C
+D5761.(3).|.010.|.Full.ROI,Polydendrocyte,0.257364762,10664.08398,11884.8877,Corticospinal tract,D
+D5761.(3).|.010.|.Full.ROI,Macrophage,0.114832226,10664.08398,11884.8877,Corticospinal tract,E
+D5761.(3).|.010.|.Full.ROI,Endothelial Tip,0.059922087,10664.08398,11884.8877,Corticospinal tract,F
+D5761.(3).|.010.|.Full.ROI,Endothelial Stalk,0.019311547,10664.08398,11884.8877,Corticospinal tract,G
+D5761.(3).|.010.|.Full.ROI,Choroid Plexus,0,10664.08398,11884.8877,Corticospinal tract,H
+D5761.(3).|.010.|.Full.ROI,Oligodendrocyte,0.270203431,10664.08398,11884.8877,Corticospinal tract,I
+D5761.(3).|.010.|.Full.ROI,Ependymal,0.011672963,10664.08398,11884.8877,Corticospinal tract,J
+D5761.(3).|.010.|.Full.ROI,Mural,0.008632212,10664.08398,11884.8877,Corticospinal tract,K
+D5761.(3).|.043.|.Full.ROI,Neuron,0.16542907,5899,21442,Cortical layer I,A
+D5761.(3).|.043.|.Full.ROI,Microglia,0.251101988,5899,21442,Cortical layer I,B
+D5761.(3).|.043.|.Full.ROI,Astrocyte,0.208145307,5899,21442,Cortical layer I,C
+D5761.(3).|.043.|.Full.ROI,Polydendrocyte,0.0096469,5899,21442,Cortical layer I,D
+D5761.(3).|.043.|.Full.ROI,Macrophage,0.132881166,5899,21442,Cortical layer I,E
+D5761.(3).|.043.|.Full.ROI,Endothelial Tip,0.132986518,5899,21442,Cortical layer I,F
+D5761.(3).|.043.|.Full.ROI,Endothelial Stalk,0.086906534,5899,21442,Cortical layer I,G
+D5761.(3).|.043.|.Full.ROI,Choroid Plexus,0.000936759,5899,21442,Cortical layer I,H
+D5761.(3).|.043.|.Full.ROI,Oligodendrocyte,0,5899,21442,Cortical layer I,I
+D5761.(3).|.043.|.Full.ROI,Ependymal,0.00406366,5899,21442,Cortical layer I,J
+D5761.(3).|.043.|.Full.ROI,Mural,0.007902096,5899,21442,Cortical layer I,K
+D5761.(3).|.053.|.Full.ROI,Neuron,0.183171246,8852,23021,Cortical layer I,A
+D5761.(3).|.053.|.Full.ROI,Microglia,0.252815449,8852,23021,Cortical layer I,B
+D5761.(3).|.053.|.Full.ROI,Astrocyte,0.250130578,8852,23021,Cortical layer I,C
+D5761.(3).|.053.|.Full.ROI,Polydendrocyte,0.058598389,8852,23021,Cortical layer I,D
+D5761.(3).|.053.|.Full.ROI,Macrophage,0.134060168,8852,23021,Cortical layer I,E
+D5761.(3).|.053.|.Full.ROI,Endothelial Tip,0.026976037,8852,23021,Cortical layer I,F
+D5761.(3).|.053.|.Full.ROI,Endothelial Stalk,0.083640304,8852,23021,Cortical layer I,G
+D5761.(3).|.053.|.Full.ROI,Choroid Plexus,0,8852,23021,Cortical layer I,H
+D5761.(3).|.053.|.Full.ROI,Oligodendrocyte,0,8852,23021,Cortical layer I,I
+D5761.(3).|.053.|.Full.ROI,Ependymal,0.000560899,8852,23021,Cortical layer I,J
+D5761.(3).|.053.|.Full.ROI,Mural,0.01004693,8852,23021,Cortical layer I,K
+D5761.(3).|.044.|.Full.ROI,Neuron,0.598053921,6083,21055,Cortical layer II/III,A
+D5761.(3).|.044.|.Full.ROI,Microglia,0.153969366,6083,21055,Cortical layer II/III,B
+D5761.(3).|.044.|.Full.ROI,Astrocyte,0.093739648,6083,21055,Cortical layer II/III,C
+D5761.(3).|.044.|.Full.ROI,Polydendrocyte,0.039304288,6083,21055,Cortical layer II/III,D
+D5761.(3).|.044.|.Full.ROI,Macrophage,0.047496008,6083,21055,Cortical layer II/III,E
+D5761.(3).|.044.|.Full.ROI,Endothelial Tip,0.03533536,6083,21055,Cortical layer II/III,F
+D5761.(3).|.044.|.Full.ROI,Endothelial Stalk,0.027671572,6083,21055,Cortical layer II/III,G
+D5761.(3).|.044.|.Full.ROI,Choroid Plexus,0.000188591,6083,21055,Cortical layer II/III,H
+D5761.(3).|.044.|.Full.ROI,Oligodendrocyte,0,6083,21055,Cortical layer II/III,I
+D5761.(3).|.044.|.Full.ROI,Ependymal,0.004241247,6083,21055,Cortical layer II/III,J
+D5761.(3).|.044.|.Full.ROI,Mural,0,6083,21055,Cortical layer II/III,K
+D5761.(3).|.054.|.Full.ROI,Neuron,0.638290554,8968,22536,Cortical layer II/III,A
+D5761.(3).|.054.|.Full.ROI,Microglia,0.1569067,8968,22536,Cortical layer II/III,B
+D5761.(3).|.054.|.Full.ROI,Astrocyte,0.107497797,8968,22536,Cortical layer II/III,C
+D5761.(3).|.054.|.Full.ROI,Polydendrocyte,0.015811632,8968,22536,Cortical layer II/III,D
+D5761.(3).|.054.|.Full.ROI,Macrophage,0.029351452,8968,22536,Cortical layer II/III,E
+D5761.(3).|.054.|.Full.ROI,Endothelial Tip,0.012182248,8968,22536,Cortical layer II/III,F
+D5761.(3).|.054.|.Full.ROI,Endothelial Stalk,0.031122339,8968,22536,Cortical layer II/III,G
+D5761.(3).|.054.|.Full.ROI,Choroid Plexus,0.000114963,8968,22536,Cortical layer II/III,H
+D5761.(3).|.054.|.Full.ROI,Oligodendrocyte,0,8968,22536,Cortical layer II/III,I
+D5761.(3).|.054.|.Full.ROI,Ependymal,0.008722314,8968,22536,Cortical layer II/III,J
+D5761.(3).|.054.|.Full.ROI,Mural,0,8968,22536,Cortical layer II/III,K
+D5761.(3).|.064.|.Full.ROI,Neuron,0.658262468,4148,18512,Cortical layer II/III,A
+D5761.(3).|.064.|.Full.ROI,Microglia,0.144806445,4148,18512,Cortical layer II/III,B
+D5761.(3).|.064.|.Full.ROI,Astrocyte,0.079922031,4148,18512,Cortical layer II/III,C
+D5761.(3).|.064.|.Full.ROI,Polydendrocyte,0,4148,18512,Cortical layer II/III,D
+D5761.(3).|.064.|.Full.ROI,Macrophage,0.027298283,4148,18512,Cortical layer II/III,E
+D5761.(3).|.064.|.Full.ROI,Endothelial Tip,0.020431414,4148,18512,Cortical layer II/III,F
+D5761.(3).|.064.|.Full.ROI,Endothelial Stalk,0.03278604,4148,18512,Cortical layer II/III,G
+D5761.(3).|.064.|.Full.ROI,Choroid Plexus,0,4148,18512,Cortical layer II/III,H
+D5761.(3).|.064.|.Full.ROI,Oligodendrocyte,0,4148,18512,Cortical layer II/III,I
+D5761.(3).|.064.|.Full.ROI,Ependymal,0.000440297,4148,18512,Cortical layer II/III,J
+D5761.(3).|.064.|.Full.ROI,Mural,0.036053021,4148,18512,Cortical layer II/III,K
+D5761.(3).|.049.|.NeuN+,Neuron,0.786732384,5038,19845,Cortical layer II/III - NeuN+,A
+D5761.(3).|.049.|.NeuN+,Microglia,0.110277609,5038,19845,Cortical layer II/III - NeuN+,B
+D5761.(3).|.049.|.NeuN+,Astrocyte,0.02279178,5038,19845,Cortical layer II/III - NeuN+,C
+D5761.(3).|.049.|.NeuN+,Polydendrocyte,0,5038,19845,Cortical layer II/III - NeuN+,D
+D5761.(3).|.049.|.NeuN+,Macrophage,0.052585163,5038,19845,Cortical layer II/III - NeuN+,E
+D5761.(3).|.049.|.NeuN+,Endothelial Tip,0.008868111,5038,19845,Cortical layer II/III - NeuN+,F
+D5761.(3).|.049.|.NeuN+,Endothelial Stalk,0.008743189,5038,19845,Cortical layer II/III - NeuN+,G
+D5761.(3).|.049.|.NeuN+,Choroid Plexus,0,5038,19845,Cortical layer II/III - NeuN+,H
+D5761.(3).|.049.|.NeuN+,Oligodendrocyte,0,5038,19845,Cortical layer II/III - NeuN+,I
+D5761.(3).|.049.|.NeuN+,Ependymal,0.010001764,5038,19845,Cortical layer II/III - NeuN+,J
+D5761.(3).|.049.|.NeuN+,Mural,0,5038,19845,Cortical layer II/III - NeuN+,K
+D5761.(3).|.059.|.NeuN+,Neuron,0.765187911,7386,21866,Cortical layer II/III - NeuN+,A
+D5761.(3).|.059.|.NeuN+,Microglia,0.078488162,7386,21866,Cortical layer II/III - NeuN+,B
+D5761.(3).|.059.|.NeuN+,Astrocyte,0.035552305,7386,21866,Cortical layer II/III - NeuN+,C
+D5761.(3).|.059.|.NeuN+,Polydendrocyte,0,7386,21866,Cortical layer II/III - NeuN+,D
+D5761.(3).|.059.|.NeuN+,Macrophage,0.019877873,7386,21866,Cortical layer II/III - NeuN+,E
+D5761.(3).|.059.|.NeuN+,Endothelial Tip,0.052101309,7386,21866,Cortical layer II/III - NeuN+,F
+D5761.(3).|.059.|.NeuN+,Endothelial Stalk,0.01775446,7386,21866,Cortical layer II/III - NeuN+,G
+D5761.(3).|.059.|.NeuN+,Choroid Plexus,0,7386,21866,Cortical layer II/III - NeuN+,H
+D5761.(3).|.059.|.NeuN+,Oligodendrocyte,0,7386,21866,Cortical layer II/III - NeuN+,I
+D5761.(3).|.059.|.NeuN+,Ependymal,0.01388028,7386,21866,Cortical layer II/III - NeuN+,J
+D5761.(3).|.059.|.NeuN+,Mural,0.0171577,7386,21866,Cortical layer II/III - NeuN+,K
+D5761.(3).|.069.|.NeuN+,Neuron,0.824083992,10355,22958,Cortical layer II/III - NeuN+,A
+D5761.(3).|.069.|.NeuN+,Microglia,0.072331704,10355,22958,Cortical layer II/III - NeuN+,B
+D5761.(3).|.069.|.NeuN+,Astrocyte,0.017580867,10355,22958,Cortical layer II/III - NeuN+,C
+D5761.(3).|.069.|.NeuN+,Polydendrocyte,0.016650089,10355,22958,Cortical layer II/III - NeuN+,D
+D5761.(3).|.069.|.NeuN+,Macrophage,0.027417802,10355,22958,Cortical layer II/III - NeuN+,E
+D5761.(3).|.069.|.NeuN+,Endothelial Tip,0.000529317,10355,22958,Cortical layer II/III - NeuN+,F
+D5761.(3).|.069.|.NeuN+,Endothelial Stalk,0.01913459,10355,22958,Cortical layer II/III - NeuN+,G
+D5761.(3).|.069.|.NeuN+,Choroid Plexus,0.000105288,10355,22958,Cortical layer II/III - NeuN+,H
+D5761.(3).|.069.|.NeuN+,Oligodendrocyte,0,10355,22958,Cortical layer II/III - NeuN+,I
+D5761.(3).|.069.|.NeuN+,Ependymal,0.020894791,10355,22958,Cortical layer II/III - NeuN+,J
+D5761.(3).|.069.|.NeuN+,Mural,0.00127156,10355,22958,Cortical layer II/III - NeuN+,K
+D5761.(3).|.049.|.DNA,Neuron,0.334583426,5038,19845,Cortical layer II/III - Neuropil,A
+D5761.(3).|.049.|.DNA,Microglia,0.217325339,5038,19845,Cortical layer II/III - Neuropil,B
+D5761.(3).|.049.|.DNA,Astrocyte,0.220953033,5038,19845,Cortical layer II/III - Neuropil,C
+D5761.(3).|.049.|.DNA,Polydendrocyte,0.048007784,5038,19845,Cortical layer II/III - Neuropil,D
+D5761.(3).|.049.|.DNA,Macrophage,0.085920378,5038,19845,Cortical layer II/III - Neuropil,E
+D5761.(3).|.049.|.DNA,Endothelial Tip,0,5038,19845,Cortical layer II/III - Neuropil,F
+D5761.(3).|.049.|.DNA,Endothelial Stalk,0.058433892,5038,19845,Cortical layer II/III - Neuropil,G
+D5761.(3).|.049.|.DNA,Choroid Plexus,0,5038,19845,Cortical layer II/III - Neuropil,H
+D5761.(3).|.049.|.DNA,Oligodendrocyte,0.015461206,5038,19845,Cortical layer II/III - Neuropil,I
+D5761.(3).|.049.|.DNA,Ependymal,0,5038,19845,Cortical layer II/III - Neuropil,J
+D5761.(3).|.049.|.DNA,Mural,0.019314942,5038,19845,Cortical layer II/III - Neuropil,K
+D5761.(3).|.059.|.DNA,Neuron,0.396710314,7386,21866,Cortical layer II/III - Neuropil,A
+D5761.(3).|.059.|.DNA,Microglia,0.277270618,7386,21866,Cortical layer II/III - Neuropil,B
+D5761.(3).|.059.|.DNA,Astrocyte,0.254401165,7386,21866,Cortical layer II/III - Neuropil,C
+D5761.(3).|.059.|.DNA,Polydendrocyte,0,7386,21866,Cortical layer II/III - Neuropil,D
+D5761.(3).|.059.|.DNA,Macrophage,0,7386,21866,Cortical layer II/III - Neuropil,E
+D5761.(3).|.059.|.DNA,Endothelial Tip,0,7386,21866,Cortical layer II/III - Neuropil,F
+D5761.(3).|.059.|.DNA,Endothelial Stalk,0.053865926,7386,21866,Cortical layer II/III - Neuropil,G
+D5761.(3).|.059.|.DNA,Choroid Plexus,0,7386,21866,Cortical layer II/III - Neuropil,H
+D5761.(3).|.059.|.DNA,Oligodendrocyte,0.009717835,7386,21866,Cortical layer II/III - Neuropil,I
+D5761.(3).|.059.|.DNA,Ependymal,0,7386,21866,Cortical layer II/III - Neuropil,J
+D5761.(3).|.059.|.DNA,Mural,0.008034143,7386,21866,Cortical layer II/III - Neuropil,K
+D5761.(3).|.069.|.DNA,Neuron,0.405941337,10355,22958,Cortical layer II/III - Neuropil,A
+D5761.(3).|.069.|.DNA,Microglia,0.279375221,10355,22958,Cortical layer II/III - Neuropil,B
+D5761.(3).|.069.|.DNA,Astrocyte,0.222162645,10355,22958,Cortical layer II/III - Neuropil,C
+D5761.(3).|.069.|.DNA,Polydendrocyte,0,10355,22958,Cortical layer II/III - Neuropil,D
+D5761.(3).|.069.|.DNA,Macrophage,0.018379629,10355,22958,Cortical layer II/III - Neuropil,E
+D5761.(3).|.069.|.DNA,Endothelial Tip,0.004101747,10355,22958,Cortical layer II/III - Neuropil,F
+D5761.(3).|.069.|.DNA,Endothelial Stalk,0.058109767,10355,22958,Cortical layer II/III - Neuropil,G
+D5761.(3).|.069.|.DNA,Choroid Plexus,0.000645545,10355,22958,Cortical layer II/III - Neuropil,H
+D5761.(3).|.069.|.DNA,Oligodendrocyte,0.0017552,10355,22958,Cortical layer II/III - Neuropil,I
+D5761.(3).|.069.|.DNA,Ependymal,0,10355,22958,Cortical layer II/III - Neuropil,J
+D5761.(3).|.069.|.DNA,Mural,0.00952891,10355,22958,Cortical layer II/III - Neuropil,K
+D5761.(3).|.045.|.Full.ROI,Neuron,0.594724423,6525,20614,Cortical layer IV,A
+D5761.(3).|.045.|.Full.ROI,Microglia,0.054265627,6525,20614,Cortical layer IV,B
+D5761.(3).|.045.|.Full.ROI,Astrocyte,0.115615068,6525,20614,Cortical layer IV,C
+D5761.(3).|.045.|.Full.ROI,Polydendrocyte,0.019074603,6525,20614,Cortical layer IV,D
+D5761.(3).|.045.|.Full.ROI,Macrophage,0.084379089,6525,20614,Cortical layer IV,E
+D5761.(3).|.045.|.Full.ROI,Endothelial Tip,0.057203597,6525,20614,Cortical layer IV,F
+D5761.(3).|.045.|.Full.ROI,Endothelial Stalk,0.036417234,6525,20614,Cortical layer IV,G
+D5761.(3).|.045.|.Full.ROI,Choroid Plexus,0,6525,20614,Cortical layer IV,H
+D5761.(3).|.045.|.Full.ROI,Oligodendrocyte,0.020484023,6525,20614,Cortical layer IV,I
+D5761.(3).|.045.|.Full.ROI,Ependymal,0.004271223,6525,20614,Cortical layer IV,J
+D5761.(3).|.045.|.Full.ROI,Mural,0.013565112,6525,20614,Cortical layer IV,K
+D5761.(3).|.055.|.Full.ROI,Neuron,0.606620773,9157,22058,Cortical layer IV,A
+D5761.(3).|.055.|.Full.ROI,Microglia,0.133581941,9157,22058,Cortical layer IV,B
+D5761.(3).|.055.|.Full.ROI,Astrocyte,0.097867849,9157,22058,Cortical layer IV,C
+D5761.(3).|.055.|.Full.ROI,Polydendrocyte,0.064904686,9157,22058,Cortical layer IV,D
+D5761.(3).|.055.|.Full.ROI,Macrophage,0.026869815,9157,22058,Cortical layer IV,E
+D5761.(3).|.055.|.Full.ROI,Endothelial Tip,0.023768194,9157,22058,Cortical layer IV,F
+D5761.(3).|.055.|.Full.ROI,Endothelial Stalk,0.030322358,9157,22058,Cortical layer IV,G
+D5761.(3).|.055.|.Full.ROI,Choroid Plexus,0.000148106,9157,22058,Cortical layer IV,H
+D5761.(3).|.055.|.Full.ROI,Oligodendrocyte,0.006176618,9157,22058,Cortical layer IV,I
+D5761.(3).|.055.|.Full.ROI,Ependymal,0.00973966,9157,22058,Cortical layer IV,J
+D5761.(3).|.055.|.Full.ROI,Mural,0,9157,22058,Cortical layer IV,K
+D5761.(3).|.065.|.Full.ROI,Neuron,0.627119486,4576,18267,Cortical layer IV,A
+D5761.(3).|.065.|.Full.ROI,Microglia,0.127249169,4576,18267,Cortical layer IV,B
+D5761.(3).|.065.|.Full.ROI,Astrocyte,0.116466817,4576,18267,Cortical layer IV,C
+D5761.(3).|.065.|.Full.ROI,Polydendrocyte,0.050945819,4576,18267,Cortical layer IV,D
+D5761.(3).|.065.|.Full.ROI,Macrophage,0.051941746,4576,18267,Cortical layer IV,E
+D5761.(3).|.065.|.Full.ROI,Endothelial Tip,0,4576,18267,Cortical layer IV,F
+D5761.(3).|.065.|.Full.ROI,Endothelial Stalk,0.02036562,4576,18267,Cortical layer IV,G
+D5761.(3).|.065.|.Full.ROI,Choroid Plexus,0,4576,18267,Cortical layer IV,H
+D5761.(3).|.065.|.Full.ROI,Oligodendrocyte,0.005911342,4576,18267,Cortical layer IV,I
+D5761.(3).|.065.|.Full.ROI,Ependymal,0,4576,18267,Cortical layer IV,J
+D5761.(3).|.065.|.Full.ROI,Mural,0,4576,18267,Cortical layer IV,K
+D5761.(3).|.050.|.NeuN+,Neuron,0.894361911,5556,19538,Cortical layer IV - NeuN+,A
+D5761.(3).|.050.|.NeuN+,Microglia,0.057967169,5556,19538,Cortical layer IV - NeuN+,B
+D5761.(3).|.050.|.NeuN+,Astrocyte,0.020585005,5556,19538,Cortical layer IV - NeuN+,C
+D5761.(3).|.050.|.NeuN+,Polydendrocyte,0.013104971,5556,19538,Cortical layer IV - NeuN+,D
+D5761.(3).|.050.|.NeuN+,Macrophage,0.006624868,5556,19538,Cortical layer IV - NeuN+,E
+D5761.(3).|.050.|.NeuN+,Endothelial Tip,0,5556,19538,Cortical layer IV - NeuN+,F
+D5761.(3).|.050.|.NeuN+,Endothelial Stalk,0.005241367,5556,19538,Cortical layer IV - NeuN+,G
+D5761.(3).|.050.|.NeuN+,Choroid Plexus,0,5556,19538,Cortical layer IV - NeuN+,H
+D5761.(3).|.050.|.NeuN+,Oligodendrocyte,0.00211471,5556,19538,Cortical layer IV - NeuN+,I
+D5761.(3).|.050.|.NeuN+,Ependymal,0,5556,19538,Cortical layer IV - NeuN+,J
+D5761.(3).|.050.|.NeuN+,Mural,0,5556,19538,Cortical layer IV - NeuN+,K
+D5761.(3).|.060.|.NeuN+,Neuron,0.699486925,7692,21379,Cortical layer IV - NeuN+,A
+D5761.(3).|.060.|.NeuN+,Microglia,0.066347061,7692,21379,Cortical layer IV - NeuN+,B
+D5761.(3).|.060.|.NeuN+,Astrocyte,0.034806758,7692,21379,Cortical layer IV - NeuN+,C
+D5761.(3).|.060.|.NeuN+,Polydendrocyte,0.02235457,7692,21379,Cortical layer IV - NeuN+,D
+D5761.(3).|.060.|.NeuN+,Macrophage,0.129300919,7692,21379,Cortical layer IV - NeuN+,E
+D5761.(3).|.060.|.NeuN+,Endothelial Tip,0.017190157,7692,21379,Cortical layer IV - NeuN+,F
+D5761.(3).|.060.|.NeuN+,Endothelial Stalk,0.016494398,7692,21379,Cortical layer IV - NeuN+,G
+D5761.(3).|.060.|.NeuN+,Choroid Plexus,0,7692,21379,Cortical layer IV - NeuN+,H
+D5761.(3).|.060.|.NeuN+,Oligodendrocyte,0,7692,21379,Cortical layer IV - NeuN+,I
+D5761.(3).|.060.|.NeuN+,Ependymal,0.014019212,7692,21379,Cortical layer IV - NeuN+,J
+D5761.(3).|.060.|.NeuN+,Mural,0,7692,21379,Cortical layer IV - NeuN+,K
+D5761.(3).|.070.|.NeuN+,Neuron,0.893725035,10636,22526,Cortical layer IV - NeuN+,A
+D5761.(3).|.070.|.NeuN+,Microglia,0.052688648,10636,22526,Cortical layer IV - NeuN+,B
+D5761.(3).|.070.|.NeuN+,Astrocyte,0.014323834,10636,22526,Cortical layer IV - NeuN+,C
+D5761.(3).|.070.|.NeuN+,Polydendrocyte,0,10636,22526,Cortical layer IV - NeuN+,D
+D5761.(3).|.070.|.NeuN+,Macrophage,0.02983649,10636,22526,Cortical layer IV - NeuN+,E
+D5761.(3).|.070.|.NeuN+,Endothelial Tip,0,10636,22526,Cortical layer IV - NeuN+,F
+D5761.(3).|.070.|.NeuN+,Endothelial Stalk,0.0086016,10636,22526,Cortical layer IV - NeuN+,G
+D5761.(3).|.070.|.NeuN+,Choroid Plexus,0,10636,22526,Cortical layer IV - NeuN+,H
+D5761.(3).|.070.|.NeuN+,Oligodendrocyte,0,10636,22526,Cortical layer IV - NeuN+,I
+D5761.(3).|.070.|.NeuN+,Ependymal,0,10636,22526,Cortical layer IV - NeuN+,J
+D5761.(3).|.070.|.NeuN+,Mural,0.000824393,10636,22526,Cortical layer IV - NeuN+,K
+D5761.(3).|.050.|.DNA,Neuron,0.432665031,5556,19538,Cortical layer IV - Neuropil,A
+D5761.(3).|.050.|.DNA,Microglia,0.240159084,5556,19538,Cortical layer IV - Neuropil,B
+D5761.(3).|.050.|.DNA,Astrocyte,0.245291618,5556,19538,Cortical layer IV - Neuropil,C
+D5761.(3).|.050.|.DNA,Polydendrocyte,0,5556,19538,Cortical layer IV - Neuropil,D
+D5761.(3).|.050.|.DNA,Macrophage,0,5556,19538,Cortical layer IV - Neuropil,E
+D5761.(3).|.050.|.DNA,Endothelial Tip,0,5556,19538,Cortical layer IV - Neuropil,F
+D5761.(3).|.050.|.DNA,Endothelial Stalk,0.044602321,5556,19538,Cortical layer IV - Neuropil,G
+D5761.(3).|.050.|.DNA,Choroid Plexus,0.002806786,5556,19538,Cortical layer IV - Neuropil,H
+D5761.(3).|.050.|.DNA,Oligodendrocyte,0.029289421,5556,19538,Cortical layer IV - Neuropil,I
+D5761.(3).|.050.|.DNA,Ependymal,0,5556,19538,Cortical layer IV - Neuropil,J
+D5761.(3).|.050.|.DNA,Mural,0.005185738,5556,19538,Cortical layer IV - Neuropil,K
+D5761.(3).|.060.|.DNA,Neuron,0.428058165,7692,21379,Cortical layer IV - Neuropil,A
+D5761.(3).|.060.|.DNA,Microglia,0.098818741,7692,21379,Cortical layer IV - Neuropil,B
+D5761.(3).|.060.|.DNA,Astrocyte,0.298974419,7692,21379,Cortical layer IV - Neuropil,C
+D5761.(3).|.060.|.DNA,Polydendrocyte,0,7692,21379,Cortical layer IV - Neuropil,D
+D5761.(3).|.060.|.DNA,Macrophage,0.033970665,7692,21379,Cortical layer IV - Neuropil,E
+D5761.(3).|.060.|.DNA,Endothelial Tip,0,7692,21379,Cortical layer IV - Neuropil,F
+D5761.(3).|.060.|.DNA,Endothelial Stalk,0.119723396,7692,21379,Cortical layer IV - Neuropil,G
+D5761.(3).|.060.|.DNA,Choroid Plexus,0,7692,21379,Cortical layer IV - Neuropil,H
+D5761.(3).|.060.|.DNA,Oligodendrocyte,0.009221702,7692,21379,Cortical layer IV - Neuropil,I
+D5761.(3).|.060.|.DNA,Ependymal,0,7692,21379,Cortical layer IV - Neuropil,J
+D5761.(3).|.060.|.DNA,Mural,0.011232912,7692,21379,Cortical layer IV - Neuropil,K
+D5761.(3).|.070.|.DNA,Neuron,0.342201423,10636,22526,Cortical layer IV - Neuropil,A
+D5761.(3).|.070.|.DNA,Microglia,0.342090401,10636,22526,Cortical layer IV - Neuropil,B
+D5761.(3).|.070.|.DNA,Astrocyte,0.133813475,10636,22526,Cortical layer IV - Neuropil,C
+D5761.(3).|.070.|.DNA,Polydendrocyte,0.047492576,10636,22526,Cortical layer IV - Neuropil,D
+D5761.(3).|.070.|.DNA,Macrophage,0,10636,22526,Cortical layer IV - Neuropil,E
+D5761.(3).|.070.|.DNA,Endothelial Tip,0,10636,22526,Cortical layer IV - Neuropil,F
+D5761.(3).|.070.|.DNA,Endothelial Stalk,0.085570666,10636,22526,Cortical layer IV - Neuropil,G
+D5761.(3).|.070.|.DNA,Choroid Plexus,0,10636,22526,Cortical layer IV - Neuropil,H
+D5761.(3).|.070.|.DNA,Oligodendrocyte,0.000295686,10636,22526,Cortical layer IV - Neuropil,I
+D5761.(3).|.070.|.DNA,Ependymal,0,10636,22526,Cortical layer IV - Neuropil,J
+D5761.(3).|.070.|.DNA,Mural,0.048535773,10636,22526,Cortical layer IV - Neuropil,K
+D5761.(3).|.046.|.Full.ROI,Neuron,0.503095617,6909,20242,Cortical layer V,A
+D5761.(3).|.046.|.Full.ROI,Microglia,0.164759763,6909,20242,Cortical layer V,B
+D5761.(3).|.046.|.Full.ROI,Astrocyte,0.107362157,6909,20242,Cortical layer V,C
+D5761.(3).|.046.|.Full.ROI,Polydendrocyte,0.097034477,6909,20242,Cortical layer V,D
+D5761.(3).|.046.|.Full.ROI,Macrophage,0.043216539,6909,20242,Cortical layer V,E
+D5761.(3).|.046.|.Full.ROI,Endothelial Tip,0.017878903,6909,20242,Cortical layer V,F
+D5761.(3).|.046.|.Full.ROI,Endothelial Stalk,0.034417158,6909,20242,Cortical layer V,G
+D5761.(3).|.046.|.Full.ROI,Choroid Plexus,0,6909,20242,Cortical layer V,H
+D5761.(3).|.046.|.Full.ROI,Oligodendrocyte,0.020362234,6909,20242,Cortical layer V,I
+D5761.(3).|.046.|.Full.ROI,Ependymal,0.00407255,6909,20242,Cortical layer V,J
+D5761.(3).|.046.|.Full.ROI,Mural,0.007800602,6909,20242,Cortical layer V,K
+D5761.(3).|.056.|.Full.ROI,Neuron,0.571185564,9377,21609,Cortical layer V,A
+D5761.(3).|.056.|.Full.ROI,Microglia,0.134325706,9377,21609,Cortical layer V,B
+D5761.(3).|.056.|.Full.ROI,Astrocyte,0.094365176,9377,21609,Cortical layer V,C
+D5761.(3).|.056.|.Full.ROI,Polydendrocyte,0.080072472,9377,21609,Cortical layer V,D
+D5761.(3).|.056.|.Full.ROI,Macrophage,0.058843835,9377,21609,Cortical layer V,E
+D5761.(3).|.056.|.Full.ROI,Endothelial Tip,0.005880203,9377,21609,Cortical layer V,F
+D5761.(3).|.056.|.Full.ROI,Endothelial Stalk,0.035338099,9377,21609,Cortical layer V,G
+D5761.(3).|.056.|.Full.ROI,Choroid Plexus,0,9377,21609,Cortical layer V,H
+D5761.(3).|.056.|.Full.ROI,Oligodendrocyte,0.019165656,9377,21609,Cortical layer V,I
+D5761.(3).|.056.|.Full.ROI,Ependymal,0.000823288,9377,21609,Cortical layer V,J
+D5761.(3).|.056.|.Full.ROI,Mural,0,9377,21609,Cortical layer V,K
+D5761.(3).|.066.|.Full.ROI,Neuron,0.527146884,5068,18013,Cortical layer V,A
+D5761.(3).|.066.|.Full.ROI,Microglia,0.129369861,5068,18013,Cortical layer V,B
+D5761.(3).|.066.|.Full.ROI,Astrocyte,0.09534304,5068,18013,Cortical layer V,C
+D5761.(3).|.066.|.Full.ROI,Polydendrocyte,0.070739717,5068,18013,Cortical layer V,D
+D5761.(3).|.066.|.Full.ROI,Macrophage,0.063966279,5068,18013,Cortical layer V,E
+D5761.(3).|.066.|.Full.ROI,Endothelial Tip,0.048670356,5068,18013,Cortical layer V,F
+D5761.(3).|.066.|.Full.ROI,Endothelial Stalk,0.028286771,5068,18013,Cortical layer V,G
+D5761.(3).|.066.|.Full.ROI,Choroid Plexus,3.47E-05,5068,18013,Cortical layer V,H
+D5761.(3).|.066.|.Full.ROI,Oligodendrocyte,0.010207978,5068,18013,Cortical layer V,I
+D5761.(3).|.066.|.Full.ROI,Ependymal,0.004898273,5068,18013,Cortical layer V,J
+D5761.(3).|.066.|.Full.ROI,Mural,0.021336149,5068,18013,Cortical layer V,K
+D5761.(3).|.051.|.NeuN+,Neuron,0.82470066,5997,19241,Cortical layer V - NeuN+,A
+D5761.(3).|.051.|.NeuN+,Microglia,0.073296372,5997,19241,Cortical layer V - NeuN+,B
+D5761.(3).|.051.|.NeuN+,Astrocyte,0.017181323,5997,19241,Cortical layer V - NeuN+,C
+D5761.(3).|.051.|.NeuN+,Polydendrocyte,0.045453855,5997,19241,Cortical layer V - NeuN+,D
+D5761.(3).|.051.|.NeuN+,Macrophage,0.021673785,5997,19241,Cortical layer V - NeuN+,E
+D5761.(3).|.051.|.NeuN+,Endothelial Tip,0,5997,19241,Cortical layer V - NeuN+,F
+D5761.(3).|.051.|.NeuN+,Endothelial Stalk,0.003547542,5997,19241,Cortical layer V - NeuN+,G
+D5761.(3).|.051.|.NeuN+,Choroid Plexus,0,5997,19241,Cortical layer V - NeuN+,H
+D5761.(3).|.051.|.NeuN+,Oligodendrocyte,0,5997,19241,Cortical layer V - NeuN+,I
+D5761.(3).|.051.|.NeuN+,Ependymal,0.012996317,5997,19241,Cortical layer V - NeuN+,J
+D5761.(3).|.051.|.NeuN+,Mural,0.001150146,5997,19241,Cortical layer V - NeuN+,K
+D5761.(3).|.061.|.NeuN+,Neuron,0.854477164,7995,21047,Cortical layer V - NeuN+,A
+D5761.(3).|.061.|.NeuN+,Microglia,0.059677136,7995,21047,Cortical layer V - NeuN+,B
+D5761.(3).|.061.|.NeuN+,Astrocyte,0.013253037,7995,21047,Cortical layer V - NeuN+,C
+D5761.(3).|.061.|.NeuN+,Polydendrocyte,0.03144852,7995,21047,Cortical layer V - NeuN+,D
+D5761.(3).|.061.|.NeuN+,Macrophage,0.031090261,7995,21047,Cortical layer V - NeuN+,E
+D5761.(3).|.061.|.NeuN+,Endothelial Tip,0.005588351,7995,21047,Cortical layer V - NeuN+,F
+D5761.(3).|.061.|.NeuN+,Endothelial Stalk,0.002851312,7995,21047,Cortical layer V - NeuN+,G
+D5761.(3).|.061.|.NeuN+,Choroid Plexus,0.000597335,7995,21047,Cortical layer V - NeuN+,H
+D5761.(3).|.061.|.NeuN+,Oligodendrocyte,0.000288819,7995,21047,Cortical layer V - NeuN+,I
+D5761.(3).|.061.|.NeuN+,Ependymal,0.000728064,7995,21047,Cortical layer V - NeuN+,J
+D5761.(3).|.061.|.NeuN+,Mural,0,7995,21047,Cortical layer V - NeuN+,K
+D5761.(3).|.071.|.NeuN+,Neuron,0.808332107,10734,22083,Cortical layer V - NeuN+,A
+D5761.(3).|.071.|.NeuN+,Microglia,0.02748539,10734,22083,Cortical layer V - NeuN+,B
+D5761.(3).|.071.|.NeuN+,Astrocyte,0.014650942,10734,22083,Cortical layer V - NeuN+,C
+D5761.(3).|.071.|.NeuN+,Polydendrocyte,0.076793432,10734,22083,Cortical layer V - NeuN+,D
+D5761.(3).|.071.|.NeuN+,Macrophage,0.057110406,10734,22083,Cortical layer V - NeuN+,E
+D5761.(3).|.071.|.NeuN+,Endothelial Tip,0.002817049,10734,22083,Cortical layer V - NeuN+,F
+D5761.(3).|.071.|.NeuN+,Endothelial Stalk,0.004104893,10734,22083,Cortical layer V - NeuN+,G
+D5761.(3).|.071.|.NeuN+,Choroid Plexus,0,10734,22083,Cortical layer V - NeuN+,H
+D5761.(3).|.071.|.NeuN+,Oligodendrocyte,0.002556776,10734,22083,Cortical layer V - NeuN+,I
+D5761.(3).|.071.|.NeuN+,Ependymal,0.006149004,10734,22083,Cortical layer V - NeuN+,J
+D5761.(3).|.071.|.NeuN+,Mural,0,10734,22083,Cortical layer V - NeuN+,K
+D5761.(3).|.051.|.DNA,Neuron,0.314047592,5997,19241,Cortical layer V - Neuropil,A
+D5761.(3).|.051.|.DNA,Microglia,0.20856692,5997,19241,Cortical layer V - Neuropil,B
+D5761.(3).|.051.|.DNA,Astrocyte,0.214599497,5997,19241,Cortical layer V - Neuropil,C
+D5761.(3).|.051.|.DNA,Polydendrocyte,0.105862683,5997,19241,Cortical layer V - Neuropil,D
+D5761.(3).|.051.|.DNA,Macrophage,0.061780849,5997,19241,Cortical layer V - Neuropil,E
+D5761.(3).|.051.|.DNA,Endothelial Tip,0,5997,19241,Cortical layer V - Neuropil,F
+D5761.(3).|.051.|.DNA,Endothelial Stalk,0.066135117,5997,19241,Cortical layer V - Neuropil,G
+D5761.(3).|.051.|.DNA,Choroid Plexus,0.001213872,5997,19241,Cortical layer V - Neuropil,H
+D5761.(3).|.051.|.DNA,Oligodendrocyte,0.02779347,5997,19241,Cortical layer V - Neuropil,I
+D5761.(3).|.051.|.DNA,Ependymal,0,5997,19241,Cortical layer V - Neuropil,J
+D5761.(3).|.051.|.DNA,Mural,0,5997,19241,Cortical layer V - Neuropil,K
+D5761.(3).|.061.|.DNA,Neuron,0.380305655,7995,21047,Cortical layer V - Neuropil,A
+D5761.(3).|.061.|.DNA,Microglia,0.208192666,7995,21047,Cortical layer V - Neuropil,B
+D5761.(3).|.061.|.DNA,Astrocyte,0.209171579,7995,21047,Cortical layer V - Neuropil,C
+D5761.(3).|.061.|.DNA,Polydendrocyte,0.005724887,7995,21047,Cortical layer V - Neuropil,D
+D5761.(3).|.061.|.DNA,Macrophage,0.087891795,7995,21047,Cortical layer V - Neuropil,E
+D5761.(3).|.061.|.DNA,Endothelial Tip,0,7995,21047,Cortical layer V - Neuropil,F
+D5761.(3).|.061.|.DNA,Endothelial Stalk,0.077040519,7995,21047,Cortical layer V - Neuropil,G
+D5761.(3).|.061.|.DNA,Choroid Plexus,0.000367406,7995,21047,Cortical layer V - Neuropil,H
+D5761.(3).|.061.|.DNA,Oligodendrocyte,0.030553258,7995,21047,Cortical layer V - Neuropil,I
+D5761.(3).|.061.|.DNA,Ependymal,0,7995,21047,Cortical layer V - Neuropil,J
+D5761.(3).|.061.|.DNA,Mural,0.000752236,7995,21047,Cortical layer V - Neuropil,K
+D5761.(3).|.071.|.DNA,Neuron,0.377378393,10734,22083,Cortical layer V - Neuropil,A
+D5761.(3).|.071.|.DNA,Microglia,0.235053254,10734,22083,Cortical layer V - Neuropil,B
+D5761.(3).|.071.|.DNA,Astrocyte,0.167978364,10734,22083,Cortical layer V - Neuropil,C
+D5761.(3).|.071.|.DNA,Polydendrocyte,0.059514204,10734,22083,Cortical layer V - Neuropil,D
+D5761.(3).|.071.|.DNA,Macrophage,0.07581376,10734,22083,Cortical layer V - Neuropil,E
+D5761.(3).|.071.|.DNA,Endothelial Tip,0.01518763,10734,22083,Cortical layer V - Neuropil,F
+D5761.(3).|.071.|.DNA,Endothelial Stalk,0.046625212,10734,22083,Cortical layer V - Neuropil,G
+D5761.(3).|.071.|.DNA,Choroid Plexus,0,10734,22083,Cortical layer V - Neuropil,H
+D5761.(3).|.071.|.DNA,Oligodendrocyte,0.022449183,10734,22083,Cortical layer V - Neuropil,I
+D5761.(3).|.071.|.DNA,Ependymal,0,10734,22083,Cortical layer V - Neuropil,J
+D5761.(3).|.071.|.DNA,Mural,0,10734,22083,Cortical layer V - Neuropil,K
+D5761.(3).|.047.|.Full.ROI,Neuron,0.538871314,7451,19774,Cortical layer VI,A
+D5761.(3).|.047.|.Full.ROI,Microglia,0.122950119,7451,19774,Cortical layer VI,B
+D5761.(3).|.047.|.Full.ROI,Astrocyte,0.057439048,7451,19774,Cortical layer VI,C
+D5761.(3).|.047.|.Full.ROI,Polydendrocyte,0.114862566,7451,19774,Cortical layer VI,D
+D5761.(3).|.047.|.Full.ROI,Macrophage,0.058608168,7451,19774,Cortical layer VI,E
+D5761.(3).|.047.|.Full.ROI,Endothelial Tip,0.054144832,7451,19774,Cortical layer VI,F
+D5761.(3).|.047.|.Full.ROI,Endothelial Stalk,0.022795696,7451,19774,Cortical layer VI,G
+D5761.(3).|.047.|.Full.ROI,Choroid Plexus,0,7451,19774,Cortical layer VI,H
+D5761.(3).|.047.|.Full.ROI,Oligodendrocyte,0.019472967,7451,19774,Cortical layer VI,I
+D5761.(3).|.047.|.Full.ROI,Ependymal,0.00555769,7451,19774,Cortical layer VI,J
+D5761.(3).|.047.|.Full.ROI,Mural,0.0052976,7451,19774,Cortical layer VI,K
+D5761.(3).|.057.|.Full.ROI,Neuron,0.534814629,9640,21043,Cortical layer VI,A
+D5761.(3).|.057.|.Full.ROI,Microglia,0.147772153,9640,21043,Cortical layer VI,B
+D5761.(3).|.057.|.Full.ROI,Astrocyte,0.06214036,9640,21043,Cortical layer VI,C
+D5761.(3).|.057.|.Full.ROI,Polydendrocyte,0.113735858,9640,21043,Cortical layer VI,D
+D5761.(3).|.057.|.Full.ROI,Macrophage,0.052607716,9640,21043,Cortical layer VI,E
+D5761.(3).|.057.|.Full.ROI,Endothelial Tip,0.016175838,9640,21043,Cortical layer VI,F
+D5761.(3).|.057.|.Full.ROI,Endothelial Stalk,0.032502857,9640,21043,Cortical layer VI,G
+D5761.(3).|.057.|.Full.ROI,Choroid Plexus,0,9640,21043,Cortical layer VI,H
+D5761.(3).|.057.|.Full.ROI,Oligodendrocyte,0.032048828,9640,21043,Cortical layer VI,I
+D5761.(3).|.057.|.Full.ROI,Ependymal,0.002482642,9640,21043,Cortical layer VI,J
+D5761.(3).|.057.|.Full.ROI,Mural,0.005719118,9640,21043,Cortical layer VI,K
+D5761.(3).|.067.|.Full.ROI,Neuron,0.576380477,5789,17625,Cortical layer VI,A
+D5761.(3).|.067.|.Full.ROI,Microglia,0.128038529,5789,17625,Cortical layer VI,B
+D5761.(3).|.067.|.Full.ROI,Astrocyte,0.056062197,5789,17625,Cortical layer VI,C
+D5761.(3).|.067.|.Full.ROI,Polydendrocyte,0.129892789,5789,17625,Cortical layer VI,D
+D5761.(3).|.067.|.Full.ROI,Macrophage,0.055322293,5789,17625,Cortical layer VI,E
+D5761.(3).|.067.|.Full.ROI,Endothelial Tip,0.009197506,5789,17625,Cortical layer VI,F
+D5761.(3).|.067.|.Full.ROI,Endothelial Stalk,0.01993354,5789,17625,Cortical layer VI,G
+D5761.(3).|.067.|.Full.ROI,Choroid Plexus,0,5789,17625,Cortical layer VI,H
+D5761.(3).|.067.|.Full.ROI,Oligodendrocyte,0.019545527,5789,17625,Cortical layer VI,I
+D5761.(3).|.067.|.Full.ROI,Ependymal,0.005627142,5789,17625,Cortical layer VI,J
+D5761.(3).|.067.|.Full.ROI,Mural,0,5789,17625,Cortical layer VI,K
+D5761.(3).|.052.|.NeuN+,Neuron,0.722465398,6557,18797,Cortical layer VI - NeuN+,A
+D5761.(3).|.052.|.NeuN+,Microglia,0.042956059,6557,18797,Cortical layer VI - NeuN+,B
+D5761.(3).|.052.|.NeuN+,Astrocyte,0.014108387,6557,18797,Cortical layer VI - NeuN+,C
+D5761.(3).|.052.|.NeuN+,Polydendrocyte,0.109222698,6557,18797,Cortical layer VI - NeuN+,D
+D5761.(3).|.052.|.NeuN+,Macrophage,0.044561868,6557,18797,Cortical layer VI - NeuN+,E
+D5761.(3).|.052.|.NeuN+,Endothelial Tip,0.027965262,6557,18797,Cortical layer VI - NeuN+,F
+D5761.(3).|.052.|.NeuN+,Endothelial Stalk,0.012827643,6557,18797,Cortical layer VI - NeuN+,G
+D5761.(3).|.052.|.NeuN+,Choroid Plexus,0,6557,18797,Cortical layer VI - NeuN+,H
+D5761.(3).|.052.|.NeuN+,Oligodendrocyte,0.006096823,6557,18797,Cortical layer VI - NeuN+,I
+D5761.(3).|.052.|.NeuN+,Ependymal,0.01510214,6557,18797,Cortical layer VI - NeuN+,J
+D5761.(3).|.052.|.NeuN+,Mural,0.004693723,6557,18797,Cortical layer VI - NeuN+,K
+D5761.(3).|.062.|.NeuN+,Neuron,0.741770478,8423,20530,Cortical layer VI - NeuN+,A
+D5761.(3).|.062.|.NeuN+,Microglia,0.051078172,8423,20530,Cortical layer VI - NeuN+,B
+D5761.(3).|.062.|.NeuN+,Astrocyte,0.015031236,8423,20530,Cortical layer VI - NeuN+,C
+D5761.(3).|.062.|.NeuN+,Polydendrocyte,0.066081358,8423,20530,Cortical layer VI - NeuN+,D
+D5761.(3).|.062.|.NeuN+,Macrophage,0.055545203,8423,20530,Cortical layer VI - NeuN+,E
+D5761.(3).|.062.|.NeuN+,Endothelial Tip,0.034774017,8423,20530,Cortical layer VI - NeuN+,F
+D5761.(3).|.062.|.NeuN+,Endothelial Stalk,0.009681671,8423,20530,Cortical layer VI - NeuN+,G
+D5761.(3).|.062.|.NeuN+,Choroid Plexus,0,8423,20530,Cortical layer VI - NeuN+,H
+D5761.(3).|.062.|.NeuN+,Oligodendrocyte,0.003419439,8423,20530,Cortical layer VI - NeuN+,I
+D5761.(3).|.062.|.NeuN+,Ependymal,0.022618428,8423,20530,Cortical layer VI - NeuN+,J
+D5761.(3).|.062.|.NeuN+,Mural,0,8423,20530,Cortical layer VI - NeuN+,K
+D5761.(3).|.072.|.NeuN+,Neuron,0.619375232,10907,21517,Cortical layer VI - NeuN+,A
+D5761.(3).|.072.|.NeuN+,Microglia,0.095306717,10907,21517,Cortical layer VI - NeuN+,B
+D5761.(3).|.072.|.NeuN+,Astrocyte,0.01597422,10907,21517,Cortical layer VI - NeuN+,C
+D5761.(3).|.072.|.NeuN+,Polydendrocyte,0.065279449,10907,21517,Cortical layer VI - NeuN+,D
+D5761.(3).|.072.|.NeuN+,Macrophage,0.062184218,10907,21517,Cortical layer VI - NeuN+,E
+D5761.(3).|.072.|.NeuN+,Endothelial Tip,0.08883141,10907,21517,Cortical layer VI - NeuN+,F
+D5761.(3).|.072.|.NeuN+,Endothelial Stalk,0.01619414,10907,21517,Cortical layer VI - NeuN+,G
+D5761.(3).|.072.|.NeuN+,Choroid Plexus,0,10907,21517,Cortical layer VI - NeuN+,H
+D5761.(3).|.072.|.NeuN+,Oligodendrocyte,0,10907,21517,Cortical layer VI - NeuN+,I
+D5761.(3).|.072.|.NeuN+,Ependymal,0.025293036,10907,21517,Cortical layer VI - NeuN+,J
+D5761.(3).|.072.|.NeuN+,Mural,0.011561578,10907,21517,Cortical layer VI - NeuN+,K
+D5761.(3).|.052.|.DNA,Neuron,0.358749494,6557,18797,Cortical layer VI - Neuropil,A
+D5761.(3).|.052.|.DNA,Microglia,0.156120871,6557,18797,Cortical layer VI - Neuropil,B
+D5761.(3).|.052.|.DNA,Astrocyte,0.152037333,6557,18797,Cortical layer VI - Neuropil,C
+D5761.(3).|.052.|.DNA,Polydendrocyte,0.124840752,6557,18797,Cortical layer VI - Neuropil,D
+D5761.(3).|.052.|.DNA,Macrophage,0.100252667,6557,18797,Cortical layer VI - Neuropil,E
+D5761.(3).|.052.|.DNA,Endothelial Tip,0.002526037,6557,18797,Cortical layer VI - Neuropil,F
+D5761.(3).|.052.|.DNA,Endothelial Stalk,0.049124598,6557,18797,Cortical layer VI - Neuropil,G
+D5761.(3).|.052.|.DNA,Choroid Plexus,0,6557,18797,Cortical layer VI - Neuropil,H
+D5761.(3).|.052.|.DNA,Oligodendrocyte,0.056348248,6557,18797,Cortical layer VI - Neuropil,I
+D5761.(3).|.052.|.DNA,Ependymal,0,6557,18797,Cortical layer VI - Neuropil,J
+D5761.(3).|.052.|.DNA,Mural,0,6557,18797,Cortical layer VI - Neuropil,K
+D5761.(3).|.062.|.DNA,Neuron,0.362121161,8423,20530,Cortical layer VI - Neuropil,A
+D5761.(3).|.062.|.DNA,Microglia,0.126555182,8423,20530,Cortical layer VI - Neuropil,B
+D5761.(3).|.062.|.DNA,Astrocyte,0.149796079,8423,20530,Cortical layer VI - Neuropil,C
+D5761.(3).|.062.|.DNA,Polydendrocyte,0.221880325,8423,20530,Cortical layer VI - Neuropil,D
+D5761.(3).|.062.|.DNA,Macrophage,0,8423,20530,Cortical layer VI - Neuropil,E
+D5761.(3).|.062.|.DNA,Endothelial Tip,0,8423,20530,Cortical layer VI - Neuropil,F
+D5761.(3).|.062.|.DNA,Endothelial Stalk,0.065474566,8423,20530,Cortical layer VI - Neuropil,G
+D5761.(3).|.062.|.DNA,Choroid Plexus,0.000805442,8423,20530,Cortical layer VI - Neuropil,H
+D5761.(3).|.062.|.DNA,Oligodendrocyte,0.073367246,8423,20530,Cortical layer VI - Neuropil,I
+D5761.(3).|.062.|.DNA,Ependymal,0,8423,20530,Cortical layer VI - Neuropil,J
+D5761.(3).|.062.|.DNA,Mural,0,8423,20530,Cortical layer VI - Neuropil,K
+D5761.(3).|.072.|.DNA,Neuron,0.313762627,10907,21517,Cortical layer VI - Neuropil,A
+D5761.(3).|.072.|.DNA,Microglia,0.186422769,10907,21517,Cortical layer VI - Neuropil,B
+D5761.(3).|.072.|.DNA,Astrocyte,0.126474182,10907,21517,Cortical layer VI - Neuropil,C
+D5761.(3).|.072.|.DNA,Polydendrocyte,0.078120347,10907,21517,Cortical layer VI - Neuropil,D
+D5761.(3).|.072.|.DNA,Macrophage,0.052272983,10907,21517,Cortical layer VI - Neuropil,E
+D5761.(3).|.072.|.DNA,Endothelial Tip,0.103628422,10907,21517,Cortical layer VI - Neuropil,F
+D5761.(3).|.072.|.DNA,Endothelial Stalk,0.047212227,10907,21517,Cortical layer VI - Neuropil,G
+D5761.(3).|.072.|.DNA,Choroid Plexus,0,10907,21517,Cortical layer VI - Neuropil,H
+D5761.(3).|.072.|.DNA,Oligodendrocyte,0.079253661,10907,21517,Cortical layer VI - Neuropil,I
+D5761.(3).|.072.|.DNA,Ependymal,0.00051584,10907,21517,Cortical layer VI - Neuropil,J
+D5761.(3).|.072.|.DNA,Mural,0.012336942,10907,21517,Cortical layer VI - Neuropil,K
+D5761.(3).|.033.|.Full.ROI,Neuron,0.356122948,12584.85938,20066.13086,Hippocampus CA1,A
+D5761.(3).|.033.|.Full.ROI,Microglia,0.184636616,12584.85938,20066.13086,Hippocampus CA1,B
+D5761.(3).|.033.|.Full.ROI,Astrocyte,0.357868471,12584.85938,20066.13086,Hippocampus CA1,C
+D5761.(3).|.033.|.Full.ROI,Polydendrocyte,0,12584.85938,20066.13086,Hippocampus CA1,D
+D5761.(3).|.033.|.Full.ROI,Macrophage,0,12584.85938,20066.13086,Hippocampus CA1,E
+D5761.(3).|.033.|.Full.ROI,Endothelial Tip,0.017964436,12584.85938,20066.13086,Hippocampus CA1,F
+D5761.(3).|.033.|.Full.ROI,Endothelial Stalk,0.080175222,12584.85938,20066.13086,Hippocampus CA1,G
+D5761.(3).|.033.|.Full.ROI,Choroid Plexus,0,12584.85938,20066.13086,Hippocampus CA1,H
+D5761.(3).|.033.|.Full.ROI,Oligodendrocyte,0,12584.85938,20066.13086,Hippocampus CA1,I
+D5761.(3).|.033.|.Full.ROI,Ependymal,0,12584.85938,20066.13086,Hippocampus CA1,J
+D5761.(3).|.033.|.Full.ROI,Mural,0.003232308,12584.85938,20066.13086,Hippocampus CA1,K
+D5761.(3).|.034.|.Full.ROI,Neuron,0.339141169,11679.68262,20200.37109,Hippocampus CA1,A
+D5761.(3).|.034.|.Full.ROI,Microglia,0.297533702,11679.68262,20200.37109,Hippocampus CA1,B
+D5761.(3).|.034.|.Full.ROI,Astrocyte,0.253926682,11679.68262,20200.37109,Hippocampus CA1,C
+D5761.(3).|.034.|.Full.ROI,Polydendrocyte,0.028068113,11679.68262,20200.37109,Hippocampus CA1,D
+D5761.(3).|.034.|.Full.ROI,Macrophage,0,11679.68262,20200.37109,Hippocampus CA1,E
+D5761.(3).|.034.|.Full.ROI,Endothelial Tip,0,11679.68262,20200.37109,Hippocampus CA1,F
+D5761.(3).|.034.|.Full.ROI,Endothelial Stalk,0.053655576,11679.68262,20200.37109,Hippocampus CA1,G
+D5761.(3).|.034.|.Full.ROI,Choroid Plexus,0,11679.68262,20200.37109,Hippocampus CA1,H
+D5761.(3).|.034.|.Full.ROI,Oligodendrocyte,0,11679.68262,20200.37109,Hippocampus CA1,I
+D5761.(3).|.034.|.Full.ROI,Ependymal,0,11679.68262,20200.37109,Hippocampus CA1,J
+D5761.(3).|.034.|.Full.ROI,Mural,0.027674759,11679.68262,20200.37109,Hippocampus CA1,K
+D5761.(3).|.039.|.Full.ROI,Neuron,0.212188362,9429.947266,19084.17969,Hippocampus CA2,A
+D5761.(3).|.039.|.Full.ROI,Microglia,0.39075656,9429.947266,19084.17969,Hippocampus CA2,B
+D5761.(3).|.039.|.Full.ROI,Astrocyte,0.142595014,9429.947266,19084.17969,Hippocampus CA2,C
+D5761.(3).|.039.|.Full.ROI,Polydendrocyte,0.053915716,9429.947266,19084.17969,Hippocampus CA2,D
+D5761.(3).|.039.|.Full.ROI,Macrophage,0,9429.947266,19084.17969,Hippocampus CA2,E
+D5761.(3).|.039.|.Full.ROI,Endothelial Tip,0.122963788,9429.947266,19084.17969,Hippocampus CA2,F
+D5761.(3).|.039.|.Full.ROI,Endothelial Stalk,0.036075869,9429.947266,19084.17969,Hippocampus CA2,G
+D5761.(3).|.039.|.Full.ROI,Choroid Plexus,0.003087861,9429.947266,19084.17969,Hippocampus CA2,H
+D5761.(3).|.039.|.Full.ROI,Oligodendrocyte,0,9429.947266,19084.17969,Hippocampus CA2,I
+D5761.(3).|.039.|.Full.ROI,Ependymal,0.005614435,9429.947266,19084.17969,Hippocampus CA2,J
+D5761.(3).|.039.|.Full.ROI,Mural,0.032802395,9429.947266,19084.17969,Hippocampus CA2,K
+D5761.(3).|.036.|.Full.ROI,Neuron,0.382423818,10081.37207,18230.1875,Hippocampus CA3,A
+D5761.(3).|.036.|.Full.ROI,Microglia,0.21739625,10081.37207,18230.1875,Hippocampus CA3,B
+D5761.(3).|.036.|.Full.ROI,Astrocyte,0.2726407,10081.37207,18230.1875,Hippocampus CA3,C
+D5761.(3).|.036.|.Full.ROI,Polydendrocyte,0,10081.37207,18230.1875,Hippocampus CA3,D
+D5761.(3).|.036.|.Full.ROI,Macrophage,0.04451915,10081.37207,18230.1875,Hippocampus CA3,E
+D5761.(3).|.036.|.Full.ROI,Endothelial Tip,0.006694361,10081.37207,18230.1875,Hippocampus CA3,F
+D5761.(3).|.036.|.Full.ROI,Endothelial Stalk,0.055319593,10081.37207,18230.1875,Hippocampus CA3,G
+D5761.(3).|.036.|.Full.ROI,Choroid Plexus,0.001135734,10081.37207,18230.1875,Hippocampus CA3,H
+D5761.(3).|.036.|.Full.ROI,Oligodendrocyte,0.019472738,10081.37207,18230.1875,Hippocampus CA3,I
+D5761.(3).|.036.|.Full.ROI,Ependymal,0,10081.37207,18230.1875,Hippocampus CA3,J
+D5761.(3).|.036.|.Full.ROI,Mural,0.000397656,10081.37207,18230.1875,Hippocampus CA3,K
+D5761.(3).|.037.|.Full.ROI,Neuron,0.327429568,9553.245117,18085.44141,Hippocampus CA3,A
+D5761.(3).|.037.|.Full.ROI,Microglia,0.217057766,9553.245117,18085.44141,Hippocampus CA3,B
+D5761.(3).|.037.|.Full.ROI,Astrocyte,0.136085707,9553.245117,18085.44141,Hippocampus CA3,C
+D5761.(3).|.037.|.Full.ROI,Polydendrocyte,0.142884616,9553.245117,18085.44141,Hippocampus CA3,D
+D5761.(3).|.037.|.Full.ROI,Macrophage,0.066777314,9553.245117,18085.44141,Hippocampus CA3,E
+D5761.(3).|.037.|.Full.ROI,Endothelial Tip,0.050901727,9553.245117,18085.44141,Hippocampus CA3,F
+D5761.(3).|.037.|.Full.ROI,Endothelial Stalk,0.021835642,9553.245117,18085.44141,Hippocampus CA3,G
+D5761.(3).|.037.|.Full.ROI,Choroid Plexus,0.000897914,9553.245117,18085.44141,Hippocampus CA3,H
+D5761.(3).|.037.|.Full.ROI,Oligodendrocyte,0.011382569,9553.245117,18085.44141,Hippocampus CA3,I
+D5761.(3).|.037.|.Full.ROI,Ependymal,0,9553.245117,18085.44141,Hippocampus CA3,J
+D5761.(3).|.037.|.Full.ROI,Mural,0.024747176,9553.245117,18085.44141,Hippocampus CA3,K
+D5761.(3).|.038.|.Full.ROI,Neuron,0.434175468,9016.265625,18132.21484,Hippocampus CA3,A
+D5761.(3).|.038.|.Full.ROI,Microglia,0.128808258,9016.265625,18132.21484,Hippocampus CA3,B
+D5761.(3).|.038.|.Full.ROI,Astrocyte,0.231338027,9016.265625,18132.21484,Hippocampus CA3,C
+D5761.(3).|.038.|.Full.ROI,Polydendrocyte,0.048766493,9016.265625,18132.21484,Hippocampus CA3,D
+D5761.(3).|.038.|.Full.ROI,Macrophage,0.060986466,9016.265625,18132.21484,Hippocampus CA3,E
+D5761.(3).|.038.|.Full.ROI,Endothelial Tip,0,9016.265625,18132.21484,Hippocampus CA3,F
+D5761.(3).|.038.|.Full.ROI,Endothelial Stalk,0.056789308,9016.265625,18132.21484,Hippocampus CA3,G
+D5761.(3).|.038.|.Full.ROI,Choroid Plexus,0.001356507,9016.265625,18132.21484,Hippocampus CA3,H
+D5761.(3).|.038.|.Full.ROI,Oligodendrocyte,0.020075294,9016.265625,18132.21484,Hippocampus CA3,I
+D5761.(3).|.038.|.Full.ROI,Ependymal,0,9016.265625,18132.21484,Hippocampus CA3,J
+D5761.(3).|.038.|.Full.ROI,Mural,0.017704179,9016.265625,18132.21484,Hippocampus CA3,K
+D5761.(3).|.030.|.Full.ROI,Neuron,0.462842577,12858,18452,Hippocampus dentate gyrus,A
+D5761.(3).|.030.|.Full.ROI,Microglia,0.096951589,12858,18452,Hippocampus dentate gyrus,B
+D5761.(3).|.030.|.Full.ROI,Astrocyte,0.022176609,12858,18452,Hippocampus dentate gyrus,C
+D5761.(3).|.030.|.Full.ROI,Polydendrocyte,0.117879884,12858,18452,Hippocampus dentate gyrus,D
+D5761.(3).|.030.|.Full.ROI,Macrophage,0.160570061,12858,18452,Hippocampus dentate gyrus,E
+D5761.(3).|.030.|.Full.ROI,Endothelial Tip,0.076967435,12858,18452,Hippocampus dentate gyrus,F
+D5761.(3).|.030.|.Full.ROI,Endothelial Stalk,0.013485094,12858,18452,Hippocampus dentate gyrus,G
+D5761.(3).|.030.|.Full.ROI,Choroid Plexus,0.000160688,12858,18452,Hippocampus dentate gyrus,H
+D5761.(3).|.030.|.Full.ROI,Oligodendrocyte,0.001992437,12858,18452,Hippocampus dentate gyrus,I
+D5761.(3).|.030.|.Full.ROI,Ependymal,0.046973627,12858,18452,Hippocampus dentate gyrus,J
+D5761.(3).|.030.|.Full.ROI,Mural,0,12858,18452,Hippocampus dentate gyrus,K
+D5761.(3).|.031.|.Full.ROI,Neuron,0.359127616,12493,18144,Hippocampus dentate gyrus,A
+D5761.(3).|.031.|.Full.ROI,Microglia,0.141577997,12493,18144,Hippocampus dentate gyrus,B
+D5761.(3).|.031.|.Full.ROI,Astrocyte,0.022799788,12493,18144,Hippocampus dentate gyrus,C
+D5761.(3).|.031.|.Full.ROI,Polydendrocyte,0.11532178,12493,18144,Hippocampus dentate gyrus,D
+D5761.(3).|.031.|.Full.ROI,Macrophage,0.067834613,12493,18144,Hippocampus dentate gyrus,E
+D5761.(3).|.031.|.Full.ROI,Endothelial Tip,0.201855482,12493,18144,Hippocampus dentate gyrus,F
+D5761.(3).|.031.|.Full.ROI,Endothelial Stalk,0.022247993,12493,18144,Hippocampus dentate gyrus,G
+D5761.(3).|.031.|.Full.ROI,Choroid Plexus,4.26E-05,12493,18144,Hippocampus dentate gyrus,H
+D5761.(3).|.031.|.Full.ROI,Oligodendrocyte,0.000253791,12493,18144,Hippocampus dentate gyrus,I
+D5761.(3).|.031.|.Full.ROI,Ependymal,0.062461347,12493,18144,Hippocampus dentate gyrus,J
+D5761.(3).|.031.|.Full.ROI,Mural,0.006476976,12493,18144,Hippocampus dentate gyrus,K
+D5761.(3).|.032.|.Full.ROI,Neuron,0.438119788,13621,18031,Hippocampus dentate gyrus,A
+D5761.(3).|.032.|.Full.ROI,Microglia,0.077810965,13621,18031,Hippocampus dentate gyrus,B
+D5761.(3).|.032.|.Full.ROI,Astrocyte,0.025255668,13621,18031,Hippocampus dentate gyrus,C
+D5761.(3).|.032.|.Full.ROI,Polydendrocyte,0.153930641,13621,18031,Hippocampus dentate gyrus,D
+D5761.(3).|.032.|.Full.ROI,Macrophage,0.14523055,13621,18031,Hippocampus dentate gyrus,E
+D5761.(3).|.032.|.Full.ROI,Endothelial Tip,0.0516554,13621,18031,Hippocampus dentate gyrus,F
+D5761.(3).|.032.|.Full.ROI,Endothelial Stalk,0.024062518,13621,18031,Hippocampus dentate gyrus,G
+D5761.(3).|.032.|.Full.ROI,Choroid Plexus,0,13621,18031,Hippocampus dentate gyrus,H
+D5761.(3).|.032.|.Full.ROI,Oligodendrocyte,0,13621,18031,Hippocampus dentate gyrus,I
+D5761.(3).|.032.|.Full.ROI,Ependymal,0.064953031,13621,18031,Hippocampus dentate gyrus,J
+D5761.(3).|.032.|.Full.ROI,Mural,0.018981439,13621,18031,Hippocampus dentate gyrus,K
+D5761.(3).|.040.|.Full.ROI,Neuron,0.477300795,6662.168945,11542.29688,Amygdala,A
+D5761.(3).|.040.|.Full.ROI,Microglia,0.172571448,6662.168945,11542.29688,Amygdala,B
+D5761.(3).|.040.|.Full.ROI,Astrocyte,0.098321867,6662.168945,11542.29688,Amygdala,C
+D5761.(3).|.040.|.Full.ROI,Polydendrocyte,0.116600655,6662.168945,11542.29688,Amygdala,D
+D5761.(3).|.040.|.Full.ROI,Macrophage,0.075833616,6662.168945,11542.29688,Amygdala,E
+D5761.(3).|.040.|.Full.ROI,Endothelial Tip,0.012482545,6662.168945,11542.29688,Amygdala,F
+D5761.(3).|.040.|.Full.ROI,Endothelial Stalk,0.028974765,6662.168945,11542.29688,Amygdala,G
+D5761.(3).|.040.|.Full.ROI,Choroid Plexus,0,6662.168945,11542.29688,Amygdala,H
+D5761.(3).|.040.|.Full.ROI,Oligodendrocyte,0,6662.168945,11542.29688,Amygdala,I
+D5761.(3).|.040.|.Full.ROI,Ependymal,0.013931271,6662.168945,11542.29688,Amygdala,J
+D5761.(3).|.040.|.Full.ROI,Mural,0.003983038,6662.168945,11542.29688,Amygdala,K
+D5761.(3).|.041.|.Full.ROI,Neuron,0.480262835,6499.962891,12343.28027,Amygdala,A
+D5761.(3).|.041.|.Full.ROI,Microglia,0.168965029,6499.962891,12343.28027,Amygdala,B
+D5761.(3).|.041.|.Full.ROI,Astrocyte,0.102995812,6499.962891,12343.28027,Amygdala,C
+D5761.(3).|.041.|.Full.ROI,Polydendrocyte,0.129934881,6499.962891,12343.28027,Amygdala,D
+D5761.(3).|.041.|.Full.ROI,Macrophage,0.062961536,6499.962891,12343.28027,Amygdala,E
+D5761.(3).|.041.|.Full.ROI,Endothelial Tip,0,6499.962891,12343.28027,Amygdala,F
+D5761.(3).|.041.|.Full.ROI,Endothelial Stalk,0.023163718,6499.962891,12343.28027,Amygdala,G
+D5761.(3).|.041.|.Full.ROI,Choroid Plexus,0,6499.962891,12343.28027,Amygdala,H
+D5761.(3).|.041.|.Full.ROI,Oligodendrocyte,0,6499.962891,12343.28027,Amygdala,I
+D5761.(3).|.041.|.Full.ROI,Ependymal,0.02246821,6499.962891,12343.28027,Amygdala,J
+D5761.(3).|.041.|.Full.ROI,Mural,0.009247979,6499.962891,12343.28027,Amygdala,K
+D5761.(3).|.042.|.Full.ROI,Neuron,0.652187149,6324.195313,13104.14258,Amygdala,A
+D5761.(3).|.042.|.Full.ROI,Microglia,0.18179053,6324.195313,13104.14258,Amygdala,B
+D5761.(3).|.042.|.Full.ROI,Astrocyte,0.095722933,6324.195313,13104.14258,Amygdala,C
+D5761.(3).|.042.|.Full.ROI,Polydendrocyte,0.009916074,6324.195313,13104.14258,Amygdala,D
+D5761.(3).|.042.|.Full.ROI,Macrophage,0,6324.195313,13104.14258,Amygdala,E
+D5761.(3).|.042.|.Full.ROI,Endothelial Tip,0,6324.195313,13104.14258,Amygdala,F
+D5761.(3).|.042.|.Full.ROI,Endothelial Stalk,0.012980612,6324.195313,13104.14258,Amygdala,G
+D5761.(3).|.042.|.Full.ROI,Choroid Plexus,0.000857259,6324.195313,13104.14258,Amygdala,H
+D5761.(3).|.042.|.Full.ROI,Oligodendrocyte,0,6324.195313,13104.14258,Amygdala,I
+D5761.(3).|.042.|.Full.ROI,Ependymal,0.01814363,6324.195313,13104.14258,Amygdala,J
+D5761.(3).|.042.|.Full.ROI,Mural,0.028401813,6324.195313,13104.14258,Amygdala,K
+D5761.(3).|.048.|.NeuN+,Neuron,0.939825299,23952.74414,10462.90137,Amygdala - NeuN+,A
+D5761.(3).|.048.|.NeuN+,Microglia,0.018382771,23952.74414,10462.90137,Amygdala - NeuN+,B
+D5761.(3).|.048.|.NeuN+,Astrocyte,0.008573674,23952.74414,10462.90137,Amygdala - NeuN+,C
+D5761.(3).|.048.|.NeuN+,Polydendrocyte,0.005189916,23952.74414,10462.90137,Amygdala - NeuN+,D
+D5761.(3).|.048.|.NeuN+,Macrophage,0.026674829,23952.74414,10462.90137,Amygdala - NeuN+,E
+D5761.(3).|.048.|.NeuN+,Endothelial Tip,0,23952.74414,10462.90137,Amygdala - NeuN+,F
+D5761.(3).|.048.|.NeuN+,Endothelial Stalk,0,23952.74414,10462.90137,Amygdala - NeuN+,G
+D5761.(3).|.048.|.NeuN+,Choroid Plexus,0,23952.74414,10462.90137,Amygdala - NeuN+,H
+D5761.(3).|.048.|.NeuN+,Oligodendrocyte,0,23952.74414,10462.90137,Amygdala - NeuN+,I
+D5761.(3).|.048.|.NeuN+,Ependymal,0,23952.74414,10462.90137,Amygdala - NeuN+,J
+D5761.(3).|.048.|.NeuN+,Mural,0.001353511,23952.74414,10462.90137,Amygdala - NeuN+,K
+D5761.(3).|.058.|.NeuN+,Neuron,0.958483468,24240.04102,11883.4043,Amygdala - NeuN+,A
+D5761.(3).|.058.|.NeuN+,Microglia,0.022268142,24240.04102,11883.4043,Amygdala - NeuN+,B
+D5761.(3).|.058.|.NeuN+,Astrocyte,0.007988238,24240.04102,11883.4043,Amygdala - NeuN+,C
+D5761.(3).|.058.|.NeuN+,Polydendrocyte,0,24240.04102,11883.4043,Amygdala - NeuN+,D
+D5761.(3).|.058.|.NeuN+,Macrophage,0.00796813,24240.04102,11883.4043,Amygdala - NeuN+,E
+D5761.(3).|.058.|.NeuN+,Endothelial Tip,0,24240.04102,11883.4043,Amygdala - NeuN+,F
+D5761.(3).|.058.|.NeuN+,Endothelial Stalk,0,24240.04102,11883.4043,Amygdala - NeuN+,G
+D5761.(3).|.058.|.NeuN+,Choroid Plexus,0,24240.04102,11883.4043,Amygdala - NeuN+,H
+D5761.(3).|.058.|.NeuN+,Oligodendrocyte,0,24240.04102,11883.4043,Amygdala - NeuN+,I
+D5761.(3).|.058.|.NeuN+,Ependymal,0.003292022,24240.04102,11883.4043,Amygdala - NeuN+,J
+D5761.(3).|.058.|.NeuN+,Mural,0,24240.04102,11883.4043,Amygdala - NeuN+,K
+D5761.(3).|.068.|.NeuN+,Neuron,0.934724009,23714.22656,11241.91113,Amygdala - NeuN+,A
+D5761.(3).|.068.|.NeuN+,Microglia,0.02836969,23714.22656,11241.91113,Amygdala - NeuN+,B
+D5761.(3).|.068.|.NeuN+,Astrocyte,0.011695601,23714.22656,11241.91113,Amygdala - NeuN+,C
+D5761.(3).|.068.|.NeuN+,Polydendrocyte,0,23714.22656,11241.91113,Amygdala - NeuN+,D
+D5761.(3).|.068.|.NeuN+,Macrophage,0.020710021,23714.22656,11241.91113,Amygdala - NeuN+,E
+D5761.(3).|.068.|.NeuN+,Endothelial Tip,0.004500679,23714.22656,11241.91113,Amygdala - NeuN+,F
+D5761.(3).|.068.|.NeuN+,Endothelial Stalk,0,23714.22656,11241.91113,Amygdala - NeuN+,G
+D5761.(3).|.068.|.NeuN+,Choroid Plexus,0,23714.22656,11241.91113,Amygdala - NeuN+,H
+D5761.(3).|.068.|.NeuN+,Oligodendrocyte,0,23714.22656,11241.91113,Amygdala - NeuN+,I
+D5761.(3).|.068.|.NeuN+,Ependymal,0,23714.22656,11241.91113,Amygdala - NeuN+,J
+D5761.(3).|.068.|.NeuN+,Mural,0,23714.22656,11241.91113,Amygdala - NeuN+,K
+D5761.(3).|.048.|.DNA,Neuron,0.283376575,23952.74414,10462.90137,Amygdala - Neuropil,A
+D5761.(3).|.048.|.DNA,Microglia,0.259010752,23952.74414,10462.90137,Amygdala - Neuropil,B
+D5761.(3).|.048.|.DNA,Astrocyte,0.174710727,23952.74414,10462.90137,Amygdala - Neuropil,C
+D5761.(3).|.048.|.DNA,Polydendrocyte,0.04948038,23952.74414,10462.90137,Amygdala - Neuropil,D
+D5761.(3).|.048.|.DNA,Macrophage,0.067644977,23952.74414,10462.90137,Amygdala - Neuropil,E
+D5761.(3).|.048.|.DNA,Endothelial Tip,0.026966943,23952.74414,10462.90137,Amygdala - Neuropil,F
+D5761.(3).|.048.|.DNA,Endothelial Stalk,0.097991966,23952.74414,10462.90137,Amygdala - Neuropil,G
+D5761.(3).|.048.|.DNA,Choroid Plexus,0,23952.74414,10462.90137,Amygdala - Neuropil,H
+D5761.(3).|.048.|.DNA,Oligodendrocyte,0.003449875,23952.74414,10462.90137,Amygdala - Neuropil,I
+D5761.(3).|.048.|.DNA,Ependymal,0.00695992,23952.74414,10462.90137,Amygdala - Neuropil,J
+D5761.(3).|.048.|.DNA,Mural,0.030407884,23952.74414,10462.90137,Amygdala - Neuropil,K
+D5761.(3).|.058.|.DNA,Neuron,0.444599102,24240.04102,11883.4043,Amygdala - Neuropil,A
+D5761.(3).|.058.|.DNA,Microglia,0.186328045,24240.04102,11883.4043,Amygdala - Neuropil,B
+D5761.(3).|.058.|.DNA,Astrocyte,0.191799438,24240.04102,11883.4043,Amygdala - Neuropil,C
+D5761.(3).|.058.|.DNA,Polydendrocyte,0.053954283,24240.04102,11883.4043,Amygdala - Neuropil,D
+D5761.(3).|.058.|.DNA,Macrophage,0.072607083,24240.04102,11883.4043,Amygdala - Neuropil,E
+D5761.(3).|.058.|.DNA,Endothelial Tip,0,24240.04102,11883.4043,Amygdala - Neuropil,F
+D5761.(3).|.058.|.DNA,Endothelial Stalk,0.039671329,24240.04102,11883.4043,Amygdala - Neuropil,G
+D5761.(3).|.058.|.DNA,Choroid Plexus,0.001120521,24240.04102,11883.4043,Amygdala - Neuropil,H
+D5761.(3).|.058.|.DNA,Oligodendrocyte,0.009920198,24240.04102,11883.4043,Amygdala - Neuropil,I
+D5761.(3).|.058.|.DNA,Ependymal,0,24240.04102,11883.4043,Amygdala - Neuropil,J
+D5761.(3).|.058.|.DNA,Mural,0,24240.04102,11883.4043,Amygdala - Neuropil,K
+D5761.(3).|.068.|.DNA,Neuron,0.341940139,23714.22656,11241.91113,Amygdala - Neuropil,A
+D5761.(3).|.068.|.DNA,Microglia,0.266723107,23714.22656,11241.91113,Amygdala - Neuropil,B
+D5761.(3).|.068.|.DNA,Astrocyte,0.17400973,23714.22656,11241.91113,Amygdala - Neuropil,C
+D5761.(3).|.068.|.DNA,Polydendrocyte,0.05802751,23714.22656,11241.91113,Amygdala - Neuropil,D
+D5761.(3).|.068.|.DNA,Macrophage,0.038268031,23714.22656,11241.91113,Amygdala - Neuropil,E
+D5761.(3).|.068.|.DNA,Endothelial Tip,0.034643706,23714.22656,11241.91113,Amygdala - Neuropil,F
+D5761.(3).|.068.|.DNA,Endothelial Stalk,0.05726762,23714.22656,11241.91113,Amygdala - Neuropil,G
+D5761.(3).|.068.|.DNA,Choroid Plexus,0,23714.22656,11241.91113,Amygdala - Neuropil,H
+D5761.(3).|.068.|.DNA,Oligodendrocyte,0.012976313,23714.22656,11241.91113,Amygdala - Neuropil,I
+D5761.(3).|.068.|.DNA,Ependymal,0,23714.22656,11241.91113,Amygdala - Neuropil,J
+D5761.(3).|.068.|.DNA,Mural,0.016143845,23714.22656,11241.91113,Amygdala - Neuropil,K
+D5761.(3).|.014.|.Full.ROI,Neuron,0.37328734,6489.658203,15720.38184,Caudoputamen,A
+D5761.(3).|.014.|.Full.ROI,Microglia,0.132054567,6489.658203,15720.38184,Caudoputamen,B
+D5761.(3).|.014.|.Full.ROI,Astrocyte,0.07686237,6489.658203,15720.38184,Caudoputamen,C
+D5761.(3).|.014.|.Full.ROI,Polydendrocyte,0.125992725,6489.658203,15720.38184,Caudoputamen,D
+D5761.(3).|.014.|.Full.ROI,Macrophage,0.040487021,6489.658203,15720.38184,Caudoputamen,E
+D5761.(3).|.014.|.Full.ROI,Endothelial Tip,0.138065122,6489.658203,15720.38184,Caudoputamen,F
+D5761.(3).|.014.|.Full.ROI,Endothelial Stalk,0.033792677,6489.658203,15720.38184,Caudoputamen,G
+D5761.(3).|.014.|.Full.ROI,Choroid Plexus,0.005793933,6489.658203,15720.38184,Caudoputamen,H
+D5761.(3).|.014.|.Full.ROI,Oligodendrocyte,0.029566498,6489.658203,15720.38184,Caudoputamen,I
+D5761.(3).|.014.|.Full.ROI,Ependymal,0.016849676,6489.658203,15720.38184,Caudoputamen,J
+D5761.(3).|.014.|.Full.ROI,Mural,0.02724807,6489.658203,15720.38184,Caudoputamen,K
+D5761.(3).|.015.|.Full.ROI,Neuron,0.466673362,6297.04248,14623.95508,Caudoputamen,A
+D5761.(3).|.015.|.Full.ROI,Microglia,0.152311576,6297.04248,14623.95508,Caudoputamen,B
+D5761.(3).|.015.|.Full.ROI,Astrocyte,0.081402717,6297.04248,14623.95508,Caudoputamen,C
+D5761.(3).|.015.|.Full.ROI,Polydendrocyte,0.202017721,6297.04248,14623.95508,Caudoputamen,D
+D5761.(3).|.015.|.Full.ROI,Macrophage,0.049451005,6297.04248,14623.95508,Caudoputamen,E
+D5761.(3).|.015.|.Full.ROI,Endothelial Tip,0.005821841,6297.04248,14623.95508,Caudoputamen,F
+D5761.(3).|.015.|.Full.ROI,Endothelial Stalk,0.027789475,6297.04248,14623.95508,Caudoputamen,G
+D5761.(3).|.015.|.Full.ROI,Choroid Plexus,0,6297.04248,14623.95508,Caudoputamen,H
+D5761.(3).|.015.|.Full.ROI,Oligodendrocyte,0.003683053,6297.04248,14623.95508,Caudoputamen,I
+D5761.(3).|.015.|.Full.ROI,Ependymal,0.010849249,6297.04248,14623.95508,Caudoputamen,J
+D5761.(3).|.015.|.Full.ROI,Mural,0,6297.04248,14623.95508,Caudoputamen,K
+D5761.(3).|.016.|.Full.ROI,Neuron,0.465392361,6993.421387,14016.47559,Caudoputamen,A
+D5761.(3).|.016.|.Full.ROI,Microglia,0.117299712,6993.421387,14016.47559,Caudoputamen,B
+D5761.(3).|.016.|.Full.ROI,Astrocyte,0.085474694,6993.421387,14016.47559,Caudoputamen,C
+D5761.(3).|.016.|.Full.ROI,Polydendrocyte,0.168174567,6993.421387,14016.47559,Caudoputamen,D
+D5761.(3).|.016.|.Full.ROI,Macrophage,0.078865943,6993.421387,14016.47559,Caudoputamen,E
+D5761.(3).|.016.|.Full.ROI,Endothelial Tip,0.031676568,6993.421387,14016.47559,Caudoputamen,F
+D5761.(3).|.016.|.Full.ROI,Endothelial Stalk,0.0146224,6993.421387,14016.47559,Caudoputamen,G
+D5761.(3).|.016.|.Full.ROI,Choroid Plexus,0.000425468,6993.421387,14016.47559,Caudoputamen,H
+D5761.(3).|.016.|.Full.ROI,Oligodendrocyte,0,6993.421387,14016.47559,Caudoputamen,I
+D5761.(3).|.016.|.Full.ROI,Ependymal,0.031254776,6993.421387,14016.47559,Caudoputamen,J
+D5761.(3).|.016.|.Full.ROI,Mural,0.006813512,6993.421387,14016.47559,Caudoputamen,K
+D5761.(3).|.073.|.NeuN+,Neuron,0.793950772,24192.89648,14239.9043,Caudoputamen - NeuN+,A
+D5761.(3).|.073.|.NeuN+,Microglia,0.019888695,24192.89648,14239.9043,Caudoputamen - NeuN+,B
+D5761.(3).|.073.|.NeuN+,Astrocyte,0.013490977,24192.89648,14239.9043,Caudoputamen - NeuN+,C
+D5761.(3).|.073.|.NeuN+,Polydendrocyte,0.087550742,24192.89648,14239.9043,Caudoputamen - NeuN+,D
+D5761.(3).|.073.|.NeuN+,Macrophage,0.063314383,24192.89648,14239.9043,Caudoputamen - NeuN+,E
+D5761.(3).|.073.|.NeuN+,Endothelial Tip,0,24192.89648,14239.9043,Caudoputamen - NeuN+,F
+D5761.(3).|.073.|.NeuN+,Endothelial Stalk,0.009211234,24192.89648,14239.9043,Caudoputamen - NeuN+,G
+D5761.(3).|.073.|.NeuN+,Choroid Plexus,0,24192.89648,14239.9043,Caudoputamen - NeuN+,H
+D5761.(3).|.073.|.NeuN+,Oligodendrocyte,0.006220227,24192.89648,14239.9043,Caudoputamen - NeuN+,I
+D5761.(3).|.073.|.NeuN+,Ependymal,0.006372969,24192.89648,14239.9043,Caudoputamen - NeuN+,J
+D5761.(3).|.073.|.NeuN+,Mural,0,24192.89648,14239.9043,Caudoputamen - NeuN+,K
+D5761.(3).|.074.|.NeuN+,Neuron,0.806489433,23949.63086,15586.26758,Caudoputamen - NeuN+,A
+D5761.(3).|.074.|.NeuN+,Microglia,0,23949.63086,15586.26758,Caudoputamen - NeuN+,B
+D5761.(3).|.074.|.NeuN+,Astrocyte,0.003376729,23949.63086,15586.26758,Caudoputamen - NeuN+,C
+D5761.(3).|.074.|.NeuN+,Polydendrocyte,0.034184622,23949.63086,15586.26758,Caudoputamen - NeuN+,D
+D5761.(3).|.074.|.NeuN+,Macrophage,0.130017263,23949.63086,15586.26758,Caudoputamen - NeuN+,E
+D5761.(3).|.074.|.NeuN+,Endothelial Tip,0.012161384,23949.63086,15586.26758,Caudoputamen - NeuN+,F
+D5761.(3).|.074.|.NeuN+,Endothelial Stalk,0.006433349,23949.63086,15586.26758,Caudoputamen - NeuN+,G
+D5761.(3).|.074.|.NeuN+,Choroid Plexus,0,23949.63086,15586.26758,Caudoputamen - NeuN+,H
+D5761.(3).|.074.|.NeuN+,Oligodendrocyte,0.00379473,23949.63086,15586.26758,Caudoputamen - NeuN+,I
+D5761.(3).|.074.|.NeuN+,Ependymal,0.00354249,23949.63086,15586.26758,Caudoputamen - NeuN+,J
+D5761.(3).|.074.|.NeuN+,Mural,0,23949.63086,15586.26758,Caudoputamen - NeuN+,K
+D5761.(3).|.075.|.NeuN+,Neuron,0.803282369,24140.10547,13193.1123,Caudoputamen - NeuN+,A
+D5761.(3).|.075.|.NeuN+,Microglia,0.01509212,24140.10547,13193.1123,Caudoputamen - NeuN+,B
+D5761.(3).|.075.|.NeuN+,Astrocyte,0.018350992,24140.10547,13193.1123,Caudoputamen - NeuN+,C
+D5761.(3).|.075.|.NeuN+,Polydendrocyte,0.073297848,24140.10547,13193.1123,Caudoputamen - NeuN+,D
+D5761.(3).|.075.|.NeuN+,Macrophage,0.060108806,24140.10547,13193.1123,Caudoputamen - NeuN+,E
+D5761.(3).|.075.|.NeuN+,Endothelial Tip,0.015651485,24140.10547,13193.1123,Caudoputamen - NeuN+,F
+D5761.(3).|.075.|.NeuN+,Endothelial Stalk,0.008345636,24140.10547,13193.1123,Caudoputamen - NeuN+,G
+D5761.(3).|.075.|.NeuN+,Choroid Plexus,0,24140.10547,13193.1123,Caudoputamen - NeuN+,H
+D5761.(3).|.075.|.NeuN+,Oligodendrocyte,0,24140.10547,13193.1123,Caudoputamen - NeuN+,I
+D5761.(3).|.075.|.NeuN+,Ependymal,0.005700458,24140.10547,13193.1123,Caudoputamen - NeuN+,J
+D5761.(3).|.075.|.NeuN+,Mural,0.000170285,24140.10547,13193.1123,Caudoputamen - NeuN+,K
+D5761.(3).|.073.|.DNA,Neuron,0.2228766,24192.89648,14239.9043,Caudoputamen - Neuropil,A
+D5761.(3).|.073.|.DNA,Microglia,0.225791994,24192.89648,14239.9043,Caudoputamen - Neuropil,B
+D5761.(3).|.073.|.DNA,Astrocyte,0.143293433,24192.89648,14239.9043,Caudoputamen - Neuropil,C
+D5761.(3).|.073.|.DNA,Polydendrocyte,0.139669851,24192.89648,14239.9043,Caudoputamen - Neuropil,D
+D5761.(3).|.073.|.DNA,Macrophage,0.060996488,24192.89648,14239.9043,Caudoputamen - Neuropil,E
+D5761.(3).|.073.|.DNA,Endothelial Tip,0.005152486,24192.89648,14239.9043,Caudoputamen - Neuropil,F
+D5761.(3).|.073.|.DNA,Endothelial Stalk,0.051578274,24192.89648,14239.9043,Caudoputamen - Neuropil,G
+D5761.(3).|.073.|.DNA,Choroid Plexus,0.000579989,24192.89648,14239.9043,Caudoputamen - Neuropil,H
+D5761.(3).|.073.|.DNA,Oligodendrocyte,0.105497632,24192.89648,14239.9043,Caudoputamen - Neuropil,I
+D5761.(3).|.073.|.DNA,Ependymal,0.008265621,24192.89648,14239.9043,Caudoputamen - Neuropil,J
+D5761.(3).|.073.|.DNA,Mural,0.036297634,24192.89648,14239.9043,Caudoputamen - Neuropil,K
+D5761.(3).|.074.|.DNA,Neuron,0.287459172,23949.63086,15586.26758,Caudoputamen - Neuropil,A
+D5761.(3).|.074.|.DNA,Microglia,0.160952486,23949.63086,15586.26758,Caudoputamen - Neuropil,B
+D5761.(3).|.074.|.DNA,Astrocyte,0.102661396,23949.63086,15586.26758,Caudoputamen - Neuropil,C
+D5761.(3).|.074.|.DNA,Polydendrocyte,0.064779484,23949.63086,15586.26758,Caudoputamen - Neuropil,D
+D5761.(3).|.074.|.DNA,Macrophage,0.119821687,23949.63086,15586.26758,Caudoputamen - Neuropil,E
+D5761.(3).|.074.|.DNA,Endothelial Tip,0.067737998,23949.63086,15586.26758,Caudoputamen - Neuropil,F
+D5761.(3).|.074.|.DNA,Endothelial Stalk,0.061697328,23949.63086,15586.26758,Caudoputamen - Neuropil,G
+D5761.(3).|.074.|.DNA,Choroid Plexus,0,23949.63086,15586.26758,Caudoputamen - Neuropil,H
+D5761.(3).|.074.|.DNA,Oligodendrocyte,0.064394295,23949.63086,15586.26758,Caudoputamen - Neuropil,I
+D5761.(3).|.074.|.DNA,Ependymal,0.028444165,23949.63086,15586.26758,Caudoputamen - Neuropil,J
+D5761.(3).|.074.|.DNA,Mural,0.042051989,23949.63086,15586.26758,Caudoputamen - Neuropil,K
+D5761.(3).|.075.|.DNA,Neuron,0.315684628,24140.10547,13193.1123,Caudoputamen - Neuropil,A
+D5761.(3).|.075.|.DNA,Microglia,0.24263894,24140.10547,13193.1123,Caudoputamen - Neuropil,B
+D5761.(3).|.075.|.DNA,Astrocyte,0.228486358,24140.10547,13193.1123,Caudoputamen - Neuropil,C
+D5761.(3).|.075.|.DNA,Polydendrocyte,0.015852458,24140.10547,13193.1123,Caudoputamen - Neuropil,D
+D5761.(3).|.075.|.DNA,Macrophage,0.045879035,24140.10547,13193.1123,Caudoputamen - Neuropil,E
+D5761.(3).|.075.|.DNA,Endothelial Tip,0.010953207,24140.10547,13193.1123,Caudoputamen - Neuropil,F
+D5761.(3).|.075.|.DNA,Endothelial Stalk,0.06025127,24140.10547,13193.1123,Caudoputamen - Neuropil,G
+D5761.(3).|.075.|.DNA,Choroid Plexus,0.000538964,24140.10547,13193.1123,Caudoputamen - Neuropil,H
+D5761.(3).|.075.|.DNA,Oligodendrocyte,0.006634023,24140.10547,13193.1123,Caudoputamen - Neuropil,I
+D5761.(3).|.075.|.DNA,Ependymal,0,24140.10547,13193.1123,Caudoputamen - Neuropil,J
+D5761.(3).|.075.|.DNA,Mural,0.073081116,24140.10547,13193.1123,Caudoputamen - Neuropil,K
+D5761.(3).|.011.|.Full.ROI,Neuron,0.314170365,12675.2002,11086.74805,Hypothalamus,A
+D5761.(3).|.011.|.Full.ROI,Microglia,0.070736699,12675.2002,11086.74805,Hypothalamus,B
+D5761.(3).|.011.|.Full.ROI,Astrocyte,0.097634651,12675.2002,11086.74805,Hypothalamus,C
+D5761.(3).|.011.|.Full.ROI,Polydendrocyte,0.374445122,12675.2002,11086.74805,Hypothalamus,D
+D5761.(3).|.011.|.Full.ROI,Macrophage,0.038418048,12675.2002,11086.74805,Hypothalamus,E
+D5761.(3).|.011.|.Full.ROI,Endothelial Tip,0.024125009,12675.2002,11086.74805,Hypothalamus,F
+D5761.(3).|.011.|.Full.ROI,Endothelial Stalk,0.016393002,12675.2002,11086.74805,Hypothalamus,G
+D5761.(3).|.011.|.Full.ROI,Choroid Plexus,0,12675.2002,11086.74805,Hypothalamus,H
+D5761.(3).|.011.|.Full.ROI,Oligodendrocyte,0.044269133,12675.2002,11086.74805,Hypothalamus,I
+D5761.(3).|.011.|.Full.ROI,Ependymal,0.019807972,12675.2002,11086.74805,Hypothalamus,J
+D5761.(3).|.011.|.Full.ROI,Mural,0,12675.2002,11086.74805,Hypothalamus,K
+D5761.(3).|.012.|.Full.ROI,Neuron,0.292749146,13118.2373,10416.78809,Hypothalamus,A
+D5761.(3).|.012.|.Full.ROI,Microglia,0.067376712,13118.2373,10416.78809,Hypothalamus,B
+D5761.(3).|.012.|.Full.ROI,Astrocyte,0.113397068,13118.2373,10416.78809,Hypothalamus,C
+D5761.(3).|.012.|.Full.ROI,Polydendrocyte,0.297325179,13118.2373,10416.78809,Hypothalamus,D
+D5761.(3).|.012.|.Full.ROI,Macrophage,0.084819376,13118.2373,10416.78809,Hypothalamus,E
+D5761.(3).|.012.|.Full.ROI,Endothelial Tip,0.025717726,13118.2373,10416.78809,Hypothalamus,F
+D5761.(3).|.012.|.Full.ROI,Endothelial Stalk,0.034457579,13118.2373,10416.78809,Hypothalamus,G
+D5761.(3).|.012.|.Full.ROI,Choroid Plexus,0,13118.2373,10416.78809,Hypothalamus,H
+D5761.(3).|.012.|.Full.ROI,Oligodendrocyte,0.050732146,13118.2373,10416.78809,Hypothalamus,I
+D5761.(3).|.012.|.Full.ROI,Ependymal,0.030937806,13118.2373,10416.78809,Hypothalamus,J
+D5761.(3).|.012.|.Full.ROI,Mural,0.002487262,13118.2373,10416.78809,Hypothalamus,K
+D5761.(3).|.013.|.Full.ROI,Neuron,0.297212646,13712.55664,9908.916016,Hypothalamus,A
+D5761.(3).|.013.|.Full.ROI,Microglia,0.090638199,13712.55664,9908.916016,Hypothalamus,B
+D5761.(3).|.013.|.Full.ROI,Astrocyte,0.143685731,13712.55664,9908.916016,Hypothalamus,C
+D5761.(3).|.013.|.Full.ROI,Polydendrocyte,0.311062528,13712.55664,9908.916016,Hypothalamus,D
+D5761.(3).|.013.|.Full.ROI,Macrophage,0.076501161,13712.55664,9908.916016,Hypothalamus,E
+D5761.(3).|.013.|.Full.ROI,Endothelial Tip,0,13712.55664,9908.916016,Hypothalamus,F
+D5761.(3).|.013.|.Full.ROI,Endothelial Stalk,0.019331485,13712.55664,9908.916016,Hypothalamus,G
+D5761.(3).|.013.|.Full.ROI,Choroid Plexus,0,13712.55664,9908.916016,Hypothalamus,H
+D5761.(3).|.013.|.Full.ROI,Oligodendrocyte,0.035088554,13712.55664,9908.916016,Hypothalamus,I
+D5761.(3).|.013.|.Full.ROI,Ependymal,0.026479696,13712.55664,9908.916016,Hypothalamus,J
+D5761.(3).|.013.|.Full.ROI,Mural,0,13712.55664,9908.916016,Hypothalamus,K
+D5761.(3).|.017.|.Full.ROI,Neuron,0.400502711,14588,9138,Ventromedial hypothalamic nucleus,A
+D5761.(3).|.017.|.Full.ROI,Microglia,0.106906462,14588,9138,Ventromedial hypothalamic nucleus,B
+D5761.(3).|.017.|.Full.ROI,Astrocyte,0.105976901,14588,9138,Ventromedial hypothalamic nucleus,C
+D5761.(3).|.017.|.Full.ROI,Polydendrocyte,0.245539997,14588,9138,Ventromedial hypothalamic nucleus,D
+D5761.(3).|.017.|.Full.ROI,Macrophage,0.046154447,14588,9138,Ventromedial hypothalamic nucleus,E
+D5761.(3).|.017.|.Full.ROI,Endothelial Tip,0.033556519,14588,9138,Ventromedial hypothalamic nucleus,F
+D5761.(3).|.017.|.Full.ROI,Endothelial Stalk,0.020570603,14588,9138,Ventromedial hypothalamic nucleus,G
+D5761.(3).|.017.|.Full.ROI,Choroid Plexus,0,14588,9138,Ventromedial hypothalamic nucleus,H
+D5761.(3).|.017.|.Full.ROI,Oligodendrocyte,0.001363602,14588,9138,Ventromedial hypothalamic nucleus,I
+D5761.(3).|.017.|.Full.ROI,Ependymal,0.039428757,14588,9138,Ventromedial hypothalamic nucleus,J
+D5761.(3).|.017.|.Full.ROI,Mural,0,14588,9138,Ventromedial hypothalamic nucleus,K
+D5761.(3).|.018.|.Full.ROI,Neuron,0.428214707,16618,9454,Ventromedial hypothalamic nucleus,A
+D5761.(3).|.018.|.Full.ROI,Microglia,0.078967272,16618,9454,Ventromedial hypothalamic nucleus,B
+D5761.(3).|.018.|.Full.ROI,Astrocyte,0.096847151,16618,9454,Ventromedial hypothalamic nucleus,C
+D5761.(3).|.018.|.Full.ROI,Polydendrocyte,0.271217781,16618,9454,Ventromedial hypothalamic nucleus,D
+D5761.(3).|.018.|.Full.ROI,Macrophage,0.043196809,16618,9454,Ventromedial hypothalamic nucleus,E
+D5761.(3).|.018.|.Full.ROI,Endothelial Tip,0.024235829,16618,9454,Ventromedial hypothalamic nucleus,F
+D5761.(3).|.018.|.Full.ROI,Endothelial Stalk,0.015463034,16618,9454,Ventromedial hypothalamic nucleus,G
+D5761.(3).|.018.|.Full.ROI,Choroid Plexus,0,16618,9454,Ventromedial hypothalamic nucleus,H
+D5761.(3).|.018.|.Full.ROI,Oligodendrocyte,0.006552953,16618,9454,Ventromedial hypothalamic nucleus,I
+D5761.(3).|.018.|.Full.ROI,Ependymal,0.034720208,16618,9454,Ventromedial hypothalamic nucleus,J
+D5761.(3).|.018.|.Full.ROI,Mural,0.000584258,16618,9454,Ventromedial hypothalamic nucleus,K
+D5761.(3).|.022.|.Full.ROI,Neuron,0.433752409,12758.08887,15969.85938,Thalamus,A
+D5761.(3).|.022.|.Full.ROI,Microglia,0.101976038,12758.08887,15969.85938,Thalamus,B
+D5761.(3).|.022.|.Full.ROI,Astrocyte,0.126621114,12758.08887,15969.85938,Thalamus,C
+D5761.(3).|.022.|.Full.ROI,Polydendrocyte,0.212355827,12758.08887,15969.85938,Thalamus,D
+D5761.(3).|.022.|.Full.ROI,Macrophage,0.038571508,12758.08887,15969.85938,Thalamus,E
+D5761.(3).|.022.|.Full.ROI,Endothelial Tip,0.014397172,12758.08887,15969.85938,Thalamus,F
+D5761.(3).|.022.|.Full.ROI,Endothelial Stalk,0.033654981,12758.08887,15969.85938,Thalamus,G
+D5761.(3).|.022.|.Full.ROI,Choroid Plexus,0,12758.08887,15969.85938,Thalamus,H
+D5761.(3).|.022.|.Full.ROI,Oligodendrocyte,0.036453974,12758.08887,15969.85938,Thalamus,I
+D5761.(3).|.022.|.Full.ROI,Ependymal,0,12758.08887,15969.85938,Thalamus,J
+D5761.(3).|.022.|.Full.ROI,Mural,0.002216977,12758.08887,15969.85938,Thalamus,K
+D5761.(3).|.023.|.Full.ROI,Neuron,0.471104003,12903.71094,14974.77734,Thalamus,A
+D5761.(3).|.023.|.Full.ROI,Microglia,0.059769896,12903.71094,14974.77734,Thalamus,B
+D5761.(3).|.023.|.Full.ROI,Astrocyte,0.127303507,12903.71094,14974.77734,Thalamus,C
+D5761.(3).|.023.|.Full.ROI,Polydendrocyte,0.220856615,12903.71094,14974.77734,Thalamus,D
+D5761.(3).|.023.|.Full.ROI,Macrophage,0.026829156,12903.71094,14974.77734,Thalamus,E
+D5761.(3).|.023.|.Full.ROI,Endothelial Tip,0.010261839,12903.71094,14974.77734,Thalamus,F
+D5761.(3).|.023.|.Full.ROI,Endothelial Stalk,0.042734597,12903.71094,14974.77734,Thalamus,G
+D5761.(3).|.023.|.Full.ROI,Choroid Plexus,0.001066881,12903.71094,14974.77734,Thalamus,H
+D5761.(3).|.023.|.Full.ROI,Oligodendrocyte,0.031164679,12903.71094,14974.77734,Thalamus,I
+D5761.(3).|.023.|.Full.ROI,Ependymal,0,12903.71094,14974.77734,Thalamus,J
+D5761.(3).|.023.|.Full.ROI,Mural,0.008908828,12903.71094,14974.77734,Thalamus,K
+D5761.(3).|.024.|.Full.ROI,Neuron,0.367084299,13316.30664,14198.12695,Thalamus,A
+D5761.(3).|.024.|.Full.ROI,Microglia,0.079983844,13316.30664,14198.12695,Thalamus,B
+D5761.(3).|.024.|.Full.ROI,Astrocyte,0.11817767,13316.30664,14198.12695,Thalamus,C
+D5761.(3).|.024.|.Full.ROI,Polydendrocyte,0.19706486,13316.30664,14198.12695,Thalamus,D
+D5761.(3).|.024.|.Full.ROI,Macrophage,0,13316.30664,14198.12695,Thalamus,E
+D5761.(3).|.024.|.Full.ROI,Endothelial Tip,0.094247694,13316.30664,14198.12695,Thalamus,F
+D5761.(3).|.024.|.Full.ROI,Endothelial Stalk,0.052709763,13316.30664,14198.12695,Thalamus,G
+D5761.(3).|.024.|.Full.ROI,Choroid Plexus,0,13316.30664,14198.12695,Thalamus,H
+D5761.(3).|.024.|.Full.ROI,Oligodendrocyte,0.056042933,13316.30664,14198.12695,Thalamus,I
+D5761.(3).|.024.|.Full.ROI,Ependymal,0.001049713,13316.30664,14198.12695,Thalamus,J
+D5761.(3).|.024.|.Full.ROI,Mural,0.033639223,13316.30664,14198.12695,Thalamus,K
+D5761.(3).|.027.|.Full.ROI,Neuron,0.50644055,14661.28906,14280.1377,Mediodorsal thalamus,A
+D5761.(3).|.027.|.Full.ROI,Microglia,0.090303328,14661.28906,14280.1377,Mediodorsal thalamus,B
+D5761.(3).|.027.|.Full.ROI,Astrocyte,0.124277669,14661.28906,14280.1377,Mediodorsal thalamus,C
+D5761.(3).|.027.|.Full.ROI,Polydendrocyte,0.149827553,14661.28906,14280.1377,Mediodorsal thalamus,D
+D5761.(3).|.027.|.Full.ROI,Macrophage,0.063769941,14661.28906,14280.1377,Mediodorsal thalamus,E
+D5761.(3).|.027.|.Full.ROI,Endothelial Tip,0.00240465,14661.28906,14280.1377,Mediodorsal thalamus,F
+D5761.(3).|.027.|.Full.ROI,Endothelial Stalk,0.019819025,14661.28906,14280.1377,Mediodorsal thalamus,G
+D5761.(3).|.027.|.Full.ROI,Choroid Plexus,0,14661.28906,14280.1377,Mediodorsal thalamus,H
+D5761.(3).|.027.|.Full.ROI,Oligodendrocyte,0.04231084,14661.28906,14280.1377,Mediodorsal thalamus,I
+D5761.(3).|.027.|.Full.ROI,Ependymal,0.000846443,14661.28906,14280.1377,Mediodorsal thalamus,J
+D5761.(3).|.027.|.Full.ROI,Mural,0,14661.28906,14280.1377,Mediodorsal thalamus,K
+D5761.(3).|.028.|.Full.ROI,Neuron,0.398504957,14050.40234,15162.5293,Mediodorsal thalamus,A
+D5761.(3).|.028.|.Full.ROI,Microglia,0.055460198,14050.40234,15162.5293,Mediodorsal thalamus,B
+D5761.(3).|.028.|.Full.ROI,Astrocyte,0.122323652,14050.40234,15162.5293,Mediodorsal thalamus,C
+D5761.(3).|.028.|.Full.ROI,Polydendrocyte,0.213426819,14050.40234,15162.5293,Mediodorsal thalamus,D
+D5761.(3).|.028.|.Full.ROI,Macrophage,0.099860524,14050.40234,15162.5293,Mediodorsal thalamus,E
+D5761.(3).|.028.|.Full.ROI,Endothelial Tip,0.02723365,14050.40234,15162.5293,Mediodorsal thalamus,F
+D5761.(3).|.028.|.Full.ROI,Endothelial Stalk,0.024806119,14050.40234,15162.5293,Mediodorsal thalamus,G
+D5761.(3).|.028.|.Full.ROI,Choroid Plexus,0.000219447,14050.40234,15162.5293,Mediodorsal thalamus,H
+D5761.(3).|.028.|.Full.ROI,Oligodendrocyte,0.042824104,14050.40234,15162.5293,Mediodorsal thalamus,I
+D5761.(3).|.028.|.Full.ROI,Ependymal,0.006344438,14050.40234,15162.5293,Mediodorsal thalamus,J
+D5761.(3).|.028.|.Full.ROI,Mural,0.008996092,14050.40234,15162.5293,Mediodorsal thalamus,K
+D5761.(3).|.029.|.Full.ROI,Neuron,0.484302532,14891.02441,15063.32617,Mediodorsal thalamus,A
+D5761.(3).|.029.|.Full.ROI,Microglia,0.076512733,14891.02441,15063.32617,Mediodorsal thalamus,B
+D5761.(3).|.029.|.Full.ROI,Astrocyte,0.160959348,14891.02441,15063.32617,Mediodorsal thalamus,C
+D5761.(3).|.029.|.Full.ROI,Polydendrocyte,0.190557147,14891.02441,15063.32617,Mediodorsal thalamus,D
+D5761.(3).|.029.|.Full.ROI,Macrophage,0.025223401,14891.02441,15063.32617,Mediodorsal thalamus,E
+D5761.(3).|.029.|.Full.ROI,Endothelial Tip,0,14891.02441,15063.32617,Mediodorsal thalamus,F
+D5761.(3).|.029.|.Full.ROI,Endothelial Stalk,0.035612482,14891.02441,15063.32617,Mediodorsal thalamus,G
+D5761.(3).|.029.|.Full.ROI,Choroid Plexus,0.000992555,14891.02441,15063.32617,Mediodorsal thalamus,H
+D5761.(3).|.029.|.Full.ROI,Oligodendrocyte,0.023944424,14891.02441,15063.32617,Mediodorsal thalamus,I
+D5761.(3).|.029.|.Full.ROI,Ependymal,0.000951987,14891.02441,15063.32617,Mediodorsal thalamus,J
+D5761.(3).|.029.|.Full.ROI,Mural,0.000943391,14891.02441,15063.32617,Mediodorsal thalamus,K
+D5761.(3).|.025.|.Full.ROI,Neuron,0.493421882,14934,16070,Thalamic paraventricular nucleus,A
+D5761.(3).|.025.|.Full.ROI,Microglia,0.068492235,14934,16070,Thalamic paraventricular nucleus,B
+D5761.(3).|.025.|.Full.ROI,Astrocyte,0.124723075,14934,16070,Thalamic paraventricular nucleus,C
+D5761.(3).|.025.|.Full.ROI,Polydendrocyte,0.166508907,14934,16070,Thalamic paraventricular nucleus,D
+D5761.(3).|.025.|.Full.ROI,Macrophage,0.035790845,14934,16070,Thalamic paraventricular nucleus,E
+D5761.(3).|.025.|.Full.ROI,Endothelial Tip,0.061237706,14934,16070,Thalamic paraventricular nucleus,F
+D5761.(3).|.025.|.Full.ROI,Endothelial Stalk,0.01991062,14934,16070,Thalamic paraventricular nucleus,G
+D5761.(3).|.025.|.Full.ROI,Choroid Plexus,0.002115072,14934,16070,Thalamic paraventricular nucleus,H
+D5761.(3).|.025.|.Full.ROI,Oligodendrocyte,0.000693525,14934,16070,Thalamic paraventricular nucleus,I
+D5761.(3).|.025.|.Full.ROI,Ependymal,0.018066291,14934,16070,Thalamic paraventricular nucleus,J
+D5761.(3).|.025.|.Full.ROI,Mural,0.009039841,14934,16070,Thalamic paraventricular nucleus,K
+D5761.(3).|.026.|.Full.ROI,Neuron,0.479844466,15981,16089,Thalamic paraventricular nucleus,A
+D5761.(3).|.026.|.Full.ROI,Microglia,0.051325722,15981,16089,Thalamic paraventricular nucleus,B
+D5761.(3).|.026.|.Full.ROI,Astrocyte,0.129928092,15981,16089,Thalamic paraventricular nucleus,C
+D5761.(3).|.026.|.Full.ROI,Polydendrocyte,0.188512991,15981,16089,Thalamic paraventricular nucleus,D
+D5761.(3).|.026.|.Full.ROI,Macrophage,0.053776348,15981,16089,Thalamic paraventricular nucleus,E
+D5761.(3).|.026.|.Full.ROI,Endothelial Tip,0.046026941,15981,16089,Thalamic paraventricular nucleus,F
+D5761.(3).|.026.|.Full.ROI,Endothelial Stalk,0.025010362,15981,16089,Thalamic paraventricular nucleus,G
+D5761.(3).|.026.|.Full.ROI,Choroid Plexus,0.000171795,15981,16089,Thalamic paraventricular nucleus,H
+D5761.(3).|.026.|.Full.ROI,Oligodendrocyte,0.005478367,15981,16089,Thalamic paraventricular nucleus,I
+D5761.(3).|.026.|.Full.ROI,Ependymal,0.019924915,15981,16089,Thalamic paraventricular nucleus,J
+D5761.(3).|.026.|.Full.ROI,Mural,0,15981,16089,Thalamic paraventricular nucleus,K
+D5761.(3).|.001.|.Full.ROI,Neuron,0.386839182,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,A
+D5761.(3).|.001.|.Full.ROI,Microglia,0.066754135,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,B
+D5761.(3).|.001.|.Full.ROI,Astrocyte,0.135962637,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,C
+D5761.(3).|.001.|.Full.ROI,Polydendrocyte,0.122942957,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,D
+D5761.(3).|.001.|.Full.ROI,Macrophage,0.060160437,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,E
+D5761.(3).|.001.|.Full.ROI,Endothelial Tip,0.08473977,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,F
+D5761.(3).|.001.|.Full.ROI,Endothelial Stalk,0.045258103,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,G
+D5761.(3).|.001.|.Full.ROI,Choroid Plexus,0,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,H
+D5761.(3).|.001.|.Full.ROI,Oligodendrocyte,0.042750609,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,I
+D5761.(3).|.001.|.Full.ROI,Ependymal,0.011240614,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,J
+D5761.(3).|.001.|.Full.ROI,Mural,0.043351556,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,K
+D5761.(3).|.006.|.Full.ROI,Neuron,0.483890728,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,A
+D5761.(3).|.006.|.Full.ROI,Microglia,0.026880086,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,B
+D5761.(3).|.006.|.Full.ROI,Astrocyte,0.189258833,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,C
+D5761.(3).|.006.|.Full.ROI,Polydendrocyte,0.092038612,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,D
+D5761.(3).|.006.|.Full.ROI,Macrophage,0.058198774,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,E
+D5761.(3).|.006.|.Full.ROI,Endothelial Tip,0.015942508,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,F
+D5761.(3).|.006.|.Full.ROI,Endothelial Stalk,0.042177009,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,G
+D5761.(3).|.006.|.Full.ROI,Choroid Plexus,0,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,H
+D5761.(3).|.006.|.Full.ROI,Oligodendrocyte,0.066115627,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,I
+D5761.(3).|.006.|.Full.ROI,Ependymal,0,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,J
+D5761.(3).|.006.|.Full.ROI,Mural,0.025497824,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,K
+D5761.(3).|.007.|.Full.ROI,Neuron,0.440031088,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,A
+D5761.(3).|.007.|.Full.ROI,Microglia,0.061322036,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,B
+D5761.(3).|.007.|.Full.ROI,Astrocyte,0.168482937,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,C
+D5761.(3).|.007.|.Full.ROI,Polydendrocyte,0.153333844,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,D
+D5761.(3).|.007.|.Full.ROI,Macrophage,0.051394165,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,E
+D5761.(3).|.007.|.Full.ROI,Endothelial Tip,0.011166669,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,F
+D5761.(3).|.007.|.Full.ROI,Endothelial Stalk,0.036868075,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,G
+D5761.(3).|.007.|.Full.ROI,Choroid Plexus,0,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,H
+D5761.(3).|.007.|.Full.ROI,Oligodendrocyte,0.068231155,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,I
+D5761.(3).|.007.|.Full.ROI,Ependymal,0,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,J
+D5761.(3).|.007.|.Full.ROI,Mural,0.00917003,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,K
+D5761.(3).|.004.|.Full.ROI,Neuron,0.264958662,14345,16694,Lateral habenula,A
+D5761.(3).|.004.|.Full.ROI,Microglia,0.073227287,14345,16694,Lateral habenula,B
+D5761.(3).|.004.|.Full.ROI,Astrocyte,0.154403863,14345,16694,Lateral habenula,C
+D5761.(3).|.004.|.Full.ROI,Polydendrocyte,0.235186769,14345,16694,Lateral habenula,D
+D5761.(3).|.004.|.Full.ROI,Macrophage,0.042348657,14345,16694,Lateral habenula,E
+D5761.(3).|.004.|.Full.ROI,Endothelial Tip,0.083580023,14345,16694,Lateral habenula,F
+D5761.(3).|.004.|.Full.ROI,Endothelial Stalk,0.033546236,14345,16694,Lateral habenula,G
+D5761.(3).|.004.|.Full.ROI,Choroid Plexus,0.000756063,14345,16694,Lateral habenula,H
+D5761.(3).|.004.|.Full.ROI,Oligodendrocyte,0.062602961,14345,16694,Lateral habenula,I
+D5761.(3).|.004.|.Full.ROI,Ependymal,0.022690056,14345,16694,Lateral habenula,J
+D5761.(3).|.004.|.Full.ROI,Mural,0.026699423,14345,16694,Lateral habenula,K
+D5761.(3).|.005.|.Full.ROI,Neuron,0.263681884,16494,16755,Lateral habenula,A
+D5761.(3).|.005.|.Full.ROI,Microglia,0.076047602,16494,16755,Lateral habenula,B
+D5761.(3).|.005.|.Full.ROI,Astrocyte,0.151155238,16494,16755,Lateral habenula,C
+D5761.(3).|.005.|.Full.ROI,Polydendrocyte,0.242834158,16494,16755,Lateral habenula,D
+D5761.(3).|.005.|.Full.ROI,Macrophage,0.046436212,16494,16755,Lateral habenula,E
+D5761.(3).|.005.|.Full.ROI,Endothelial Tip,0.090692142,16494,16755,Lateral habenula,F
+D5761.(3).|.005.|.Full.ROI,Endothelial Stalk,0.03397565,16494,16755,Lateral habenula,G
+D5761.(3).|.005.|.Full.ROI,Choroid Plexus,0.000349859,16494,16755,Lateral habenula,H
+D5761.(3).|.005.|.Full.ROI,Oligodendrocyte,0.063564292,16494,16755,Lateral habenula,I
+D5761.(3).|.005.|.Full.ROI,Ependymal,0.024396678,16494,16755,Lateral habenula,J
+D5761.(3).|.005.|.Full.ROI,Mural,0.006866284,16494,16755,Lateral habenula,K
+D5761.(3).|.002.|.Full.ROI,Neuron,0.20635573,14737,17249,Medial habenula,A
+D5761.(3).|.002.|.Full.ROI,Microglia,0.052884617,14737,17249,Medial habenula,B
+D5761.(3).|.002.|.Full.ROI,Astrocyte,0.061012779,14737,17249,Medial habenula,C
+D5761.(3).|.002.|.Full.ROI,Polydendrocyte,0.290268739,14737,17249,Medial habenula,D
+D5761.(3).|.002.|.Full.ROI,Macrophage,0.043545073,14737,17249,Medial habenula,E
+D5761.(3).|.002.|.Full.ROI,Endothelial Tip,0.109525365,14737,17249,Medial habenula,F
+D5761.(3).|.002.|.Full.ROI,Endothelial Stalk,0.017169079,14737,17249,Medial habenula,G
+D5761.(3).|.002.|.Full.ROI,Choroid Plexus,0.167313141,14737,17249,Medial habenula,H
+D5761.(3).|.002.|.Full.ROI,Oligodendrocyte,0.012702934,14737,17249,Medial habenula,I
+D5761.(3).|.002.|.Full.ROI,Ependymal,0.03568681,14737,17249,Medial habenula,J
+D5761.(3).|.002.|.Full.ROI,Mural,0.003535734,14737,17249,Medial habenula,K
+D5761.(3).|.003.|.Full.ROI,Neuron,0.186352309,16115,17239,Medial habenula,A
+D5761.(3).|.003.|.Full.ROI,Microglia,0.05385985,16115,17239,Medial habenula,B
+D5761.(3).|.003.|.Full.ROI,Astrocyte,0.058614358,16115,17239,Medial habenula,C
+D5761.(3).|.003.|.Full.ROI,Polydendrocyte,0.307390785,16115,17239,Medial habenula,D
+D5761.(3).|.003.|.Full.ROI,Macrophage,0.04714572,16115,17239,Medial habenula,E
+D5761.(3).|.003.|.Full.ROI,Endothelial Tip,0.111401393,16115,17239,Medial habenula,F
+D5761.(3).|.003.|.Full.ROI,Endothelial Stalk,0.014070664,16115,17239,Medial habenula,G
+D5761.(3).|.003.|.Full.ROI,Choroid Plexus,0.168612634,16115,17239,Medial habenula,H
+D5761.(3).|.003.|.Full.ROI,Oligodendrocyte,0.009019097,16115,17239,Medial habenula,I
+D5761.(3).|.003.|.Full.ROI,Ependymal,0.039373782,16115,17239,Medial habenula,J
+D5761.(3).|.003.|.Full.ROI,Mural,0.004159407,16115,17239,Medial habenula,K

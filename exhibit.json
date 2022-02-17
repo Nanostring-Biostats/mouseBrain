@@ -2,7 +2,8 @@
     {"Name": "i0", "Description": "", "Path": "images/mousebrain", "Width": 32768, "Height": 32768, "MaxLevel": 5}], 
     "Header": "", 
     "Rotation": 180, 
-    "Layout": {"Grid": [["i0"]]}, 
+    "Layout": {"Grid": [["i0"]]},
+    "Appendix": "For more information on NanoString GeoMx technology visit [**our website**](https://www.nanostring.com/products/geomx-digital-spatial-profiler/geomx-dsp-overview/).\n\nDetails of the performance of WTA have been [**published**](https://doi.org/10.1101/2021.09.29.462442).\n\nMinerva is an open-source software package that was developed by Laboratory of Systems Pharmacology at Harvard University and is available [**here**](https://github.com/labsyspharm/minerva-story/wiki). We would like to thank Jeremy Muhlich and John Thomas Hoffer for assistance in enabling Minerva features to support the Spatial Organ Atlas.\n\nSources:\n\nRashid R, Chen YA, Hoffer J, Muhlich JL, Lin JR, Krueger R, Pfister H, Mitchell R, Santagata S, and Sorger PK. Interpretative guides for interacting with tissue atlas and digital pathology data using the Minerva browser. BioRxiv. (2020) [https://doi.org/10.1101/2020.03.27.001834](https://doi.org/10.1101/2020.03.27.001834)\n\nHoffer J, Rashid R, Muhlich JL, Chen, YA, Russell D, Ruokonen J, Krueger R, Pfister H, Santagata S, Sorger PK. (2020). Minerva: a light-weight, narrative image browser for multiplexed tissue images. Journal of Open Source Software, 5(54), 2579, [https://doi.org/10.21105/joss.02579](https://doi.org/10.21105/joss.02579)\n\nFOR RESEARCH USE ONLY. Not for use in diagnostic procedures",
     "Stories": [{"Name": "", "Description": "", "Waypoints": [
         {
             "Name": "Gross Brain Morphology", 
@@ -32,7 +33,10 @@
             },
             "mark": {
                 "type": "point",
-                "filled": true
+                "filled": true,
+                "stroke": "white",
+                "strokeWidth": 0.5,
+                "size": 80
             },
             "encoding": {
                 "x": {
@@ -73,7 +77,7 @@
                     },
                     "title": "ROI Category",
                     "scale": {
-                        "domain": ["NeuN+", "Neuropil", "Amygdala", "Caudoputamen", "Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI", "Lateral habenula", "Medial habenula", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Hypothalamus", "Choroid plexus", "Ventromedial hypothalamic nucleus", "Corticospinal tract",  "Thalamic paraventricular nucleus", "Mediodorsal thalamus", "Thalamic ventral posteromedial nucleus", "Thalamus"],
+                        "domain": ["NeuN+", "Neuropil", "Amygdala", "Caudoputamen", "Layer I", "Layer II/III", "Layer IV", "Layer V", "Layer VI", "Lateral habenula", "Medial habenula", "CA1", "CA2", "CA3", "Dentate gyrus", "Hypothalamus", "Choroid plexus", "Ventromedial hypothalamic nucleus", "White matter",  "Paraventricular nucleus", "Mediodorsal", "Ventral posteromedial nucleus", "Thalamus"],
                         "range": ["#f0e442", "#d55e00", "#5c581d", "#a34902", "#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48", "#737373", "#cbcbcb", "#b9f9e8", "#00ffba", "#009e73", "#01513b", "#beb532", "#fdae70", "#fff9ad", "#323232", "#784a64", "#be719c", "#f093c7", "#fec4e4"]
                     }
                 }
@@ -82,7 +86,7 @@
         }, 
         {
             "Name": "Global Cell Type Deconvolution", 
-            "Description": "(cell type with all ROI categories)\n\nNOTE: I (Natalie) need to fix the alignment of the left column. It was bec time consuming so I will come back to it after I get more data visualizations in the story.", 
+            "Description": "(cell type with all ROI categories)", 
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
@@ -102,8 +106,7 @@
                            "field": "Proportion", 
                            "type": "quantitative", 
                            "stack": "normalize", 
-                           "title": "Proportion of Cell Type",
-                           "sort": null
+                           "title": "Proportion of Cell Type"
                      },
                      "y": {
                            "field": "Sample_ID", 
@@ -119,8 +122,12 @@
                            "field": "Cell_type", 
                            "type": "nominal",
                            "legend": {"orient": "bottom", "direction": "vertical", "offset": 1800}, 
-                           "title": "Cell Type"
+                           "title": "Cell Type",
+                           "sort":null
                            },
+                    "order": {
+                            "field": "Order"
+                        },
                    "tooltip": {
                        "field": "Cell_type", "type":"nominal"
                        }    
@@ -129,40 +136,40 @@
             },
             {
             "data": {
-                "values": [{
-                    "Sample_ID": "ROI", "order": "X", "name": "Choroid plexus", "type": "Choroid plexus", "percentage": 0.032634015},
-                    {"Sample_ID": "ROI", "order": "W", "name": "Corticospinal tract", "type": "Corticospinal tract", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "V", "name": "Cortex", "type": "Cortical layer I", "percentage": 0.021645022},
-                    {"Sample_ID": "ROI", "order": "U", "name": "Cortex", "type": "Cortical layer II/III", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "T", "name": "Cortex", "type": "Cortical layer II/III - NeuN+", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "S", "name": "Cortex", "type": "Cortical layer II/III - Neuropil", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "R", "name": "Cortex", "type": "Cortical layer IV", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "Q", "name": "Cortex", "type": "Cortical layer IV - NeuN+", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "P", "name": "Cortex", "type": "Cortical layer IV - Neuropil", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "O", "name": "Cortex", "type": "Cortical layer V", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "N", "name": "Cortex", "type": "Cortical layer V - NeuN+", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "M", "name": "Cortex", "type": "Cortical layer V - Neuropil", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "L", "name": "Cortex", "type": "Cortical layer VI", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "K", "name": "Cortex", "type": "Cortical layer VI - NeuN+", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "J", "name": "Cortex", "type": "Cortical layer VI - Neuropil", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "I", "name": "Hippocampus", "type": "Hippocampus CA1", "percentage": 0.021645022},
-                    {"Sample_ID": "ROI", "order": "H", "name": "Hippocampus", "type": "Hippocampus CA2", "percentage": 0.010656001},
-                    {"Sample_ID": "ROI", "order": "G", "name": "Hippocampus", "type": "Hippocampus CA3", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "F", "name": "Hippocampus", "type": "Hippocampus dentate gyrus", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "E", "name": "Amygdala", "type": "Amygdala", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "D", "name": "Amygdala", "type": "Amygdala - NeuN+", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "C", "name": "Amygdala", "type": "Amygdala - Neuropil", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "B", "name": "Caudoputamen", "type": "Caudoputamen", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "A", "name": "Caudoputamen", "type": "Caudoputamen - NeuN+", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "9", "name": "Caudoputamen", "type": "Caudoputamen - Neuropil", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "8", "name": "Hypothalamus", "type": "Hypothalamus", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "7", "name": "Hypothalamus", "type": "Ventromedial hypothalamic nucleus", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "6", "name": "Thalamus", "type": "Thalamus", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "5", "name": "Thalamus", "type": "Mediodorsal thalamus", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "4", "name": "Thalamus", "type": "Thalamic paraventricular nucleus", "percentage": 0.021645022},
-                    {"Sample_ID": "ROI", "order": "3", "name": "Thalamus", "type": "Thalamic ventral posteromedial nucleus", "percentage": 0.032634033},
-                    {"Sample_ID": "ROI", "order": "2", "name": "Epithalamus", "type": "Lateral habenula", "percentage": 0.021645022},
-                    {"Sample_ID": "ROI", "order": "1", "name": "Epithalamus", "type": "Medial habenula", "percentage": 0.021645022}
+                "values": [
+                    {"Sample_ID": "ROI", "order": "X", "name": "Choroid plexus", "type": "Choroid plexus", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "W", "name": "Corticospinal tract", "type": "Corticospinal tract", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "V", "name": "Cortex", "type": "Cortical layer I", "percentage": 0.0215},
+                    {"Sample_ID": "ROI", "order": "U", "name": "Cortex", "type": "Cortical layer II/III", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "T", "name": "Cortex", "type": "Cortical layer II/III - NeuN+", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "S", "name": "Cortex", "type": "Cortical layer II/III - Neuropil", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "R", "name": "Cortex", "type": "Cortical layer IV", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "Q", "name": "Cortex", "type": "Cortical layer IV - NeuN+", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "P", "name": "Cortex", "type": "Cortical layer IV - Neuropil", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "O", "name": "Cortex", "type": "Cortical layer V", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "N", "name": "Cortex", "type": "Cortical layer V - NeuN+", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "M", "name": "Cortex", "type": "Cortical layer V - Neuropil", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "L", "name": "Cortex", "type": "Cortical layer VI", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "K", "name": "Cortex", "type": "Cortical layer VI - NeuN+", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "J", "name": "Cortex", "type": "Cortical layer VI - Neuropil", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "I", "name": "Hippocampus", "type": "Hippocampus CA1", "percentage": 0.0215},
+                    {"Sample_ID": "ROI", "order": "H", "name": "Hippocampus", "type": "Hippocampus CA2", "percentage": 0.011},
+                    {"Sample_ID": "ROI", "order": "G", "name": "Hippocampus", "type": "Hippocampus CA3", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "F", "name": "Hippocampus", "type": "Hippocampus dentate gyrus", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "E", "name": "Amygdala", "type": "Amygdala", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "D", "name": "Amygdala", "type": "Amygdala - NeuN+", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "C", "name": "Amygdala", "type": "Amygdala - Neuropil", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "B", "name": "Caudoputamen", "type": "Caudoputamen", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "A", "name": "Caudoputamen", "type": "Caudoputamen - NeuN+", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "9", "name": "Caudoputamen", "type": "Caudoputamen - Neuropil", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "8", "name": "Hypothalamus", "type": "Hypothalamus", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "7", "name": "Hypothalamus", "type": "Ventromedial hypothalamic nucleus", "percentage": 0.0215},
+                    {"Sample_ID": "ROI", "order": "6", "name": "Thalamus", "type": "Thalamus", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "5", "name": "Thalamus", "type": "Mediodorsal thalamus", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "4", "name": "Thalamus", "type": "Thalamic paraventricular nucleus", "percentage": 0.0215},
+                    {"Sample_ID": "ROI", "order": "3", "name": "Thalamus", "type": "Thalamic ventral posteromedial nucleus", "percentage": 0.033},
+                    {"Sample_ID": "ROI", "order": "2", "name": "Epithalamus", "type": "Lateral habenula", "percentage": 0.0224},
+                    {"Sample_ID": "ROI", "order": "1", "name": "Epithalamus", "type": "Medial habenula", "percentage": 0.0224}
                 ]},
                     "mark": {"type": "bar", "xOffset": -7},
                     "width": 7,
@@ -239,7 +246,8 @@
                         "field": "path_value",
                         "bin": {"binned": true},
                         "scale": {"range": ["#7D26CD", "#6B20AF", "#591B92", "#471575", "#351057", "#230A3A", "#11051D", "#000000", "#212100", "#434300", "#656500", "#888800", "#AAAA00", "#CBCB00", "#EEEE00"]},
-                        "legend": {"orient": "top"}, "title": null
+                        "legend": {"orient": "top"}, 
+                        "title": null
                     },
                     "tooltip": {
                         "field": "full_pathway_name",
@@ -264,6 +272,7 @@
                     {"bar": "one", "order": "L", "primaryLocation": "Caudoputamen", "percentage": 0.02778333}
                 ]
             },
+            "height": 10,
             "mark": {
                 "type": "bar",
                 "yOffset": 300
@@ -293,7 +302,7 @@
                     "sort":null,
                     "legend": {
                         "title": "Primary location",
-                        "offset":345,
+                        "offset":325,
                         "orient": "bottom",
                         "direction": "vertical"
                     },
@@ -315,8 +324,9 @@
             },
             "mark": {
                 "type": "bar",
-                "yOffset": 318
+                "yOffset": 308
             },
+            "height": 10,
             "encoding": {
                 "x": {
                     "field": "percentage",
@@ -342,7 +352,7 @@
                     "sort":null,
                     "legend": {
                         "title": "Segmentation",
-                        "offset":345,
+                        "offset":325,
                         "orient": "bottom",
                         "direction": "vertical"
                     },
@@ -381,7 +391,7 @@
             "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
             "data": {"url": "data/wpt6_cortex_pca.csv"},
-            "mark": {"type": "point", "filled": true, "size": 100},
+            "mark": {"type": "point", "filled": true, "size": 100, "stroke": "white", "strokeWidth": 0.5},
             "encoding": {
                 "x": {
                     "field": "x_axis",
@@ -464,6 +474,7 @@
                            "legend": {"orient": "bottom", "direction": "vertical", "offset": 750}, 
                            "title": "Cell Type"
                            },
+                    "order": {"field": "order"},
                    "tooltip": {
                        "field": "Cell_type", "type":"nominal"
                        }    
@@ -614,8 +625,8 @@
                         "direction": "vertical"
                     },
                     "scale": {
-                        "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI", "NeuN+", "Neuropil"],
-                        "range": ["#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48", "#f0e442", "#d55e00"]
+                        "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI"],
+                        "range": ["#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48"]
                     }
                 },
                 "order": {"field": "order"}
@@ -769,7 +780,7 @@
             "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
             "data": {"url": "data/scatter_plot_adora2a_expression_neuron_rich.csv"},
-            "mark": {"type": "point", "filled": true, "size": 100},
+            "mark": {"type": "point", "filled": true, "size": 100, "stroke": "white", "strokeWidth": 0.5},
             "encoding": {
                 "x": {
                     "field": "Structure",
@@ -798,7 +809,7 @@
                     },
                     "title": "Layer",
                     "scale": {
-                        "domain": ["Coritical layer I", "Coritical layer II/III", "Coritical layer IV", "Coritical layer V", "Coritical layer VI"],
+                        "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI"],
                         "range": ["square", "cross", "diamond", "triangle-up", "triangle-down"]
                     }
                 },
@@ -818,8 +829,7 @@
         }
         }
     ]}], 
-    "Masks": [{
-        "Path": "All-structures", "Name": "All structures", "Colors": ["ffffff"], "Channels": ["All structures"]}, 
+    "Masks": [ 
         {"Path": "Amygdala", "Name": "Amygdala", "Colors": ["5c581d"], "Channels": ["Amygdala"]}, 
         {"Path": "Amygdala-NeuN", "Name": "Amygdala - NeuN+", "Colors": ["f0e442"], "Channels": ["Amygdala - NeuN+"]}, 
         {"Path": "Amygdala-Neuropil", "Name": "Amygdala - Neuropil", "Colors": ["d55e00"], "Channels": ["Amygdala - Neuropil"]}, 

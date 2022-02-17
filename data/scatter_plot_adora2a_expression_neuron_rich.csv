@@ -2,7 +2,7 @@ primary_location,X_position,Y_position,Structure,Adora2a Expression,Layer,type
 Hippocampus,12858,18452,3.719421707,4.856096285,,Hippocampus dentate gyrus
 Hippocampus,12493,18144,4.180869819,9.805579036,,Hippocampus dentate gyrus
 Hippocampus,13621,18031,3.998163837,5.851197982,,Hippocampus dentate gyrus
-Amygdala,23952.74414,10462.90137,1.145955744,3.642072214,,Amygdala - NeuN+
+Amygdala,23952.74414,10462.90137,1.045955744,3.642072214,,Amygdala - NeuN+
 Cortex,5038,19845,3.274063745,2.832722833,Cortical layer II/III,Cortical layer II/III - NeuN+
 Cortex,5556,19538,3.004157748,3.642072214,Cortical layer IV,Cortical layer IV - NeuN+
 Cortex,5997,19241,3.107025662,2.683632157,Cortical layer V,Cortical layer V - NeuN+
