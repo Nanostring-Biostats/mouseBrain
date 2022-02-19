@@ -1,14 +1,14 @@
-clust_id,X_position,Y_position,GenesDetected,x_axis,PrimaryLocation,SecondaryLocation,CorticalLayer,type
-14,10739.47266,15384.36133,6304,13.68892641,Thalamus,Ventral posteromedial nucleus,,Thalamic ventral posteromedial nucleus
+clust_id,X_position,Y_position,Genes Detected,x_axis,PrimaryLocation,SecondaryLocation,CorticalLayer,type
+14,10739.47266,15384.36133,6304,13.68892641,Thalamus,TVPN,,Thalamic ventral posteromedial nucleus
 10,14737,17249,10708,10.27435944,Epithalamus,Medial habenula,,Medial habenula
 10,16115,17239,12052,10.17169248,Epithalamus,Medial habenula,,Medial habenula
 10,14345,16694,9318,9.78479989,Epithalamus,Lateral habenula,,Lateral habenula
 10,16494,16755,8778,9.968540357,Epithalamus,Lateral habenula,,Lateral habenula
-14,11131.97852,14634.99316,5436,13.77089483,Thalamus,Ventral posteromedial nucleus,,Thalamic ventral posteromedial nucleus
-14,11771.09668,14092.95605,6526,14.183228085,Thalamus,Ventral posteromedial nucleus,,Thalamic ventral posteromedial nucleus
-13,9486.367188,13342.67188,2037,12.69077991,Corticospinal tract,White matter,,Corticospinal tract
-13,9974.688477,12617.37012,2384,13.24730307,Corticospinal tract,White matter,,Corticospinal tract
-13,10664.08398,11884.8877,2779,13.0,Corticospinal tract,White matter,,Corticospinal tract
+14,11131.97852,14634.99316,5436,13.77089483,Thalamus,TVPN,,Thalamic ventral posteromedial nucleus
+14,11771.09668,14092.95605,6526,14.183228085,Thalamus,TVPN,,Thalamic ventral posteromedial nucleus
+13,9486.367188,13342.67188,2037,12.69077991,Corticospinal tract,Corticospinal tract,,Corticospinal tract
+13,9974.688477,12617.37012,2384,13.24730307,Corticospinal tract,Corticospinal tract,,Corticospinal tract
+13,10664.08398,11884.8877,2779,13.0,Corticospinal tract,Corticospinal tract,,Corticospinal tract
 12,12675.2002,11086.74805,6104,12.34714498,Hypothalamus,Hypothalamus,,Hypothalamus
 12,13118.2373,10416.78809,6229,11.85207169,Hypothalamus,Hypothalamus,,Hypothalamus
 12,13712.55664,9908.916016,4724,11.92927547,Hypothalamus,Hypothalamus,,Hypothalamus
@@ -23,28 +23,28 @@ clust_id,X_position,Y_position,GenesDetected,x_axis,PrimaryLocation,SecondaryLoc
 14,12758.08887,15969.85938,6419,13.87859405,Thalamus,Thalamus,,Thalamus
 14,12903.71094,14974.77734,5627,14.09033735,Thalamus,Thalamus,,Thalamus
 14,13316.30664,14198.12695,6111,14.24110682,Thalamus,Thalamus,,Thalamus
-14,14934,16070,7442,14.0909096,Thalamus,Paraventricular nucleus,,Thalamic paraventricular nucleus
-14,15981,16089,8604,14.20815744,Thalamus,Paraventricular nucleus,,Thalamic paraventricular nucleus
-14,14661.28906,14280.1377,4677,13.71517397,Thalamus,Mediodorsal,,Mediodorsal thalamus
-14,14050.40234,15162.5293,4338,14.24607682,Thalamus,Mediodorsal,,Mediodorsal thalamus
-14,14891.02441,15063.32617,5262,14.16888568,Thalamus,Mediodorsal,,Mediodorsal thalamus
-11,12858,18452,10284,10.82307958,Hippocampus,Dentate gyrus,,Hippocampus dentate gyrus
-11,12493,18144,10161,11.1108884,Hippocampus,Dentate gyrus,,Hippocampus dentate gyrus
-11,13621,18031,10950,11.29492586,Hippocampus,Dentate gyrus,,Hippocampus dentate gyrus
-11,12584.85938,20066.13086,773,11.08400565,Hippocampus,CA1,,Hippocampus CA1
-11,11679.68262,20200.37109,2417,11.13509319,Hippocampus,CA1,,Hippocampus CA1
-11,10081.37207,18230.1875,2019,10.67401933,Hippocampus,CA3,,Hippocampus CA3
-11,9553.245117,18085.44141,2538,11.43589078,Hippocampus,CA3,,Hippocampus CA3
-11,9016.265625,18132.21484,2412,10.76129979,Hippocampus,CA3,,Hippocampus CA3
-11,9429.947266,19084.17969,1899,11.30340722,Hippocampus,CA2,,Hippocampus CA2
+14,14934,16070,7442,14.0909096,Thalamus,Thalamic paraventricular nucleus,,Thalamic paraventricular nucleus
+14,15981,16089,8604,14.20815744,Thalamus,Thalamic paraventricular nucleus,,Thalamic paraventricular nucleus
+14,14661.28906,14280.1377,4677,13.71517397,Thalamus,Mediodorsal thalamus,,Mediodorsal thalamus
+14,14050.40234,15162.5293,4338,14.24607682,Thalamus,Mediodorsal thalamus,,Mediodorsal thalamus
+14,14891.02441,15063.32617,5262,14.16888568,Thalamus,Mediodorsal thalamus,,Mediodorsal thalamus
+11,12858,18452,10284,10.82307958,Hippocampus,Hippocampus dentate gyrus,,Hippocampus dentate gyrus
+11,12493,18144,10161,11.1108884,Hippocampus,Hippocampus dentate gyrus,,Hippocampus dentate gyrus
+11,13621,18031,10950,11.29492586,Hippocampus,Hippocampus dentate gyrus,,Hippocampus dentate gyrus
+11,12584.85938,20066.13086,773,11.08400565,Hippocampus,Hippocampus CA1,,Hippocampus CA1
+11,11679.68262,20200.37109,2417,11.13509319,Hippocampus,Hippocampus CA1,,Hippocampus CA1
+11,10081.37207,18230.1875,2019,10.67401933,Hippocampus,Hippocampus CA3,,Hippocampus CA3
+11,9553.245117,18085.44141,2538,11.43589078,Hippocampus,Hippocampus CA3,,Hippocampus CA3
+11,9016.265625,18132.21484,2412,10.76129979,Hippocampus,Hippocampus CA3,,Hippocampus CA3
+11,9429.947266,19084.17969,1899,11.30340722,Hippocampus,Hippocampus CA2,,Hippocampus CA2
 1,6662.168945,11542.29688,7247,0.721171128,Amygdala,Amygdala,,Amygdala
 1,6499.962891,12343.28027,5517,0.72016105,Amygdala,Amygdala,,Amygdala
 1,6324.195313,13104.14258,4183,1.057684819,Amygdala,Amygdala,,Amygdala
-7,5899,21442,1811,6.906408924,Cortex,Layer I,Layer I,Cortical layer I
-7,6083,21055,9130,6.690472859,Cortex,Layer II/III,Layer II/III,Cortical layer II/III
-7,6525,20614,6017,7.058982487,Cortex,Layer IV,Layer IV,Cortical layer IV
-7,6909,20242,6546,6.686956066,Cortex,Layer V,Layer V,Cortical layer V
-7,7451,19774,8657,7.252030492,Cortex,Layer VI,Layer VI,Cortical layer VI
+7,5899,21442,1811,6.906408924,Cortex,Cortical layer I,Layer I,Cortical layer I
+7,6083,21055,9130,6.690472859,Cortex,Cortical layer II/III,Layer II/III,Cortical layer II/III
+7,6525,20614,6017,7.058982487,Cortex,Cortical layer IV,Layer IV,Cortical layer IV
+7,6909,20242,6546,6.686956066,Cortex,Cortical layer V,Layer V,Cortical layer V
+7,7451,19774,8657,7.252030492,Cortex,Cortical layer VI,Layer VI,Cortical layer VI
 2,23952.74414,10462.90137,8683,1.996282084,Amygdala,NeuN+,,Amygdala - NeuN+
 3,23952.74414,10462.90137,3118,2.660349933,Amygdala,Neuropil,,Amygdala - Neuropil
 8,5038,19845,9177,8.28078164,Cortex,NeuN+,Layer II/III,Cortical layer II/III - NeuN+
@@ -55,11 +55,11 @@ clust_id,X_position,Y_position,GenesDetected,x_axis,PrimaryLocation,SecondaryLoc
 9,5997,19241,3200,8.772267322,Cortex,Neuropil,Layer V,Cortical layer V - Neuropil
 8,6557,18797,8794,7.769955169,Cortex,NeuN+,Layer VI,Cortical layer VI - NeuN+
 9,6557,18797,3959,9.139385305,Cortex,Neuropil,Layer VI,Cortical layer VI - Neuropil
-7,8852,23021,2099,7.182416159,Cortex,Layer I,Layer I,Cortical layer I
-7,8968,22536,9591,6.717402419,Cortex,Layer II/III,Layer II/III,Cortical layer II/III
-7,9157,22058,7985,6.723023965,Cortex,Layer IV,Layer IV,Cortical layer IV
-7,9377,21609,7813,7.034726165,Cortex,Layer V,Layer V,Cortical layer V
-7,9640,21043,7347,6.923738594,Cortex,Layer VI,Layer VI,Cortical layer VI
+7,8852,23021,2099,7.182416159,Cortex,Cortical layer I,Layer I,Cortical layer I
+7,8968,22536,9591,6.717402419,Cortex,Cortical layer II/III,Layer II/III,Cortical layer II/III
+7,9157,22058,7985,6.723023965,Cortex,Cortical layer IV,Layer IV,Cortical layer IV
+7,9377,21609,7813,7.034726165,Cortex,Cortical layer V,Layer V,Cortical layer V
+7,9640,21043,7347,6.923738594,Cortex,Cortical layer VI,Layer VI,Cortical layer VI
 2,24240.04102,11883.4043,8768,2.281329577,Amygdala,NeuN+,,Amygdala - NeuN+
 3,24240.04102,11883.4043,2564,3.07123482,Amygdala,Neuropil,,Amygdala - Neuropil
 8,7386,21866,9403,8.310801578,Cortex,NeuN+,Layer II/III,Cortical layer II/III - NeuN+
@@ -70,10 +70,10 @@ clust_id,X_position,Y_position,GenesDetected,x_axis,PrimaryLocation,SecondaryLoc
 9,7995,21047,4629,9.168241302,Cortex,Neuropil,Layer V,Cortical layer V - Neuropil
 8,8423,20530,9508,8.09787925,Cortex,NeuN+,Layer VI,Cortical layer VI - NeuN+
 9,8423,20530,3412,8.971127523,Cortex,Neuropil,Layer VI,Cortical layer VI - Neuropil
-7,4148,18512,6929,6.704022207,Cortex,Layer II/III,Layer II/III,Cortical layer II/III
-7,4576,18267,6879,7.023411666,Cortex,Layer IV,Layer IV,Cortical layer IV
-7,5068,18013,8329,7.341523595,Cortex,Layer V,Layer V,Cortical layer V
-7,5789,17625,8117,6.774117925,Cortex,Layer VI,Layer VI,Cortical layer VI
+7,4148,18512,6929,6.704022207,Cortex,Cortical layer II/III,Layer II/III,Cortical layer II/III
+7,4576,18267,6879,7.023411666,Cortex,Cortical layer IV,Layer IV,Cortical layer IV
+7,5068,18013,8329,7.341523595,Cortex,Cortical layer V,Layer V,Cortical layer V
+7,5789,17625,8117,6.774117925,Cortex,Cortical layer VI,Layer VI,Cortical layer VI
 2,23714.22656,11241.91113,9201,2.001324796,Amygdala,NeuN+,,Amygdala - NeuN+
 3,23714.22656,11241.91113,2794,2.877226206,Amygdala,Neuropil,,Amygdala - Neuropil
 8,10355,22958,9474,7.894024987,Cortex,NeuN+,Layer II/III,Cortical layer II/III - NeuN+
