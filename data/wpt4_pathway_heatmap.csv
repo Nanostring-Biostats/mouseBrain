@@ -1,541 +1,541 @@
 ROI,X_position,Y_position,path,path_value,type,full_pathway_name,primary_location
+D5761.(3).|.060.|.DNA,7692,21379,Chrom. Mod,-2.1594205362049,Cortical layer IV - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.060.|.DNA,7692,21379,mRNA splice,-1.88460522004257,Cortical layer IV - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.060.|.DNA,7692,21379,Can. Signal,-3.68255596826447,Cortical layer IV - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.060.|.DNA,7692,21379,Dend. Str.,-2.51086786936793,Cortical layer IV - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.060.|.DNA,7692,21379,GABAergic,-2.58844221242779,Cortical layer IV - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.060.|.DNA,7692,21379,Glutam. Syn.,-2.47088771196695,Cortical layer IV - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.060.|.DNA,7692,21379,Ca+ Signal,-0.784715893859753,Cortical layer IV - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.060.|.DNA,7692,21379,MAPK Signal,-2.85056056778342,Cortical layer IV - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.060.|.DNA,7692,21379,Seroto.,-2.87849017567589,Cortical layer IV - Neuropil,Serotonergic synapse,Cortex
 D5761.(3).|.060.|.DNA,7692,21379,A2 Astro.,0.0694736419563527,Cortical layer IV - Neuropil,A2 Astrocyte,Cortex
 D5761.(3).|.060.|.DNA,7692,21379,A1 Astro.,1.09638580890964,Cortical layer IV - Neuropil,A1 Astrocyte,Cortex
 D5761.(3).|.060.|.DNA,7692,21379,Astro. Diff,1.02263107940853,Cortical layer IV - Neuropil,Astrocyte Differentiation/Function,Cortex
 D5761.(3).|.060.|.DNA,7692,21379,Oligo. Diff,-0.0671863116540329,Cortical layer IV - Neuropil,Oligodendrocyte Differentiation,Cortex
 D5761.(3).|.060.|.DNA,7692,21379,Act. Micro.,0.0149341992616658,Cortical layer IV - Neuropil,Activated Microglia,Cortex
 D5761.(3).|.060.|.DNA,7692,21379,H. Micro.,0.382262587664085,Cortical layer IV - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,Chrom. Mod,-2.1594205362049,Cortical layer IV - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,mRNA splice,-1.88460522004257,Cortical layer IV - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,Dend. Str.,-2.51086786936793,Cortical layer IV - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,Can. Signal,-3.68255596826447,Cortical layer IV - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,Dopamin.,-3.60980928628302,Cortical layer IV - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,Ca+ Signal,-0.784715893859753,Cortical layer IV - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,Seroto.,-2.87849017567589,Cortical layer IV - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,GABAergic,-2.58844221242779,Cortical layer IV - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.060.|.DNA,7692,21379,MAPK Signal,-2.85056056778342,Cortical layer IV - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,A2 Astro.,-0.456837206957889,Caudoputamen - NeuN+,A2 Astrocyte,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,A1 Astro.,-0.444249262882837,Caudoputamen - NeuN+,A1 Astrocyte,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Astro. Diff,-0.995572219174163,Caudoputamen - NeuN+,Astrocyte Differentiation/Function,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Oligo. Diff,-1.48798808829124,Caudoputamen - NeuN+,Oligodendrocyte Differentiation,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Act. Micro.,-1.7718200947737,Caudoputamen - NeuN+,Activated Microglia,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,H. Micro.,-1.11745421869259,Caudoputamen - NeuN+,Homeostatic Microglia,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Chrom. Mod,0.0418322431297858,Caudoputamen - NeuN+,Chromatin Modification,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,mRNA splice,0.631182193837797,Caudoputamen - NeuN+,mRNA Splicing,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Dend. Str.,-0.898112118674547,Caudoputamen - NeuN+,Dendrite Structure,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Can. Signal,-1.06414269431021,Caudoputamen - NeuN+,Cannabinoid Signaling,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Dopamin.,-0.374400176467609,Caudoputamen - NeuN+,Dopaminergic synapse,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Ca+ Signal,-2.60375391038104,Caudoputamen - NeuN+,Calcium Signaling,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Seroto.,-0.652106407426893,Caudoputamen - NeuN+,Serotonergic synapse,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,GABAergic,-1.2573334206788,Caudoputamen - NeuN+,GABAergic synapse,Caudoputamen
-D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,MAPK Signal,-1.94726071746057,Caudoputamen - NeuN+,MAPK Signaling,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,A2 Astro.,-0.539038336301698,Caudoputamen - NeuN+,A2 Astrocyte,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,A1 Astro.,-0.170462821020261,Caudoputamen - NeuN+,A1 Astrocyte,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Astro. Diff,0.237113803194217,Caudoputamen - NeuN+,Astrocyte Differentiation/Function,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Oligo. Diff,-1.15931955419134,Caudoputamen - NeuN+,Oligodendrocyte Differentiation,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Act. Micro.,-1.15600467938216,Caudoputamen - NeuN+,Activated Microglia,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,H. Micro.,-1.20755887059926,Caudoputamen - NeuN+,Homeostatic Microglia,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Chrom. Mod,0.659162811187892,Caudoputamen - NeuN+,Chromatin Modification,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,mRNA splice,1.02905866669075,Caudoputamen - NeuN+,mRNA Splicing,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Dend. Str.,-0.551824830632955,Caudoputamen - NeuN+,Dendrite Structure,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Can. Signal,-1.16518906398518,Caudoputamen - NeuN+,Cannabinoid Signaling,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Dopamin.,-0.303818250415797,Caudoputamen - NeuN+,Dopaminergic synapse,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Ca+ Signal,-0.687607461943279,Caudoputamen - NeuN+,Calcium Signaling,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Seroto.,-1.17912490285591,Caudoputamen - NeuN+,Serotonergic synapse,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,GABAergic,-1.11280419646162,Caudoputamen - NeuN+,GABAergic synapse,Caudoputamen
-D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,MAPK Signal,-0.833009343386948,Caudoputamen - NeuN+,MAPK Signaling,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,A2 Astro.,-0.718161627539671,Caudoputamen - NeuN+,A2 Astrocyte,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,A1 Astro.,-1.44044709612011,Caudoputamen - NeuN+,A1 Astrocyte,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Astro. Diff,-0.209244542218801,Caudoputamen - NeuN+,Astrocyte Differentiation/Function,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Oligo. Diff,-1.16066733916478,Caudoputamen - NeuN+,Oligodendrocyte Differentiation,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Act. Micro.,-0.960376994507629,Caudoputamen - NeuN+,Activated Microglia,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,H. Micro.,-1.56545116868828,Caudoputamen - NeuN+,Homeostatic Microglia,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Chrom. Mod,0.944917118687616,Caudoputamen - NeuN+,Chromatin Modification,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,mRNA splice,1.50479232028935,Caudoputamen - NeuN+,mRNA Splicing,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Dend. Str.,0.357269016320419,Caudoputamen - NeuN+,Dendrite Structure,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Can. Signal,-0.6667586224176,Caudoputamen - NeuN+,Cannabinoid Signaling,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Dopamin.,0.303540609255302,Caudoputamen - NeuN+,Dopaminergic synapse,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Ca+ Signal,-0.993739512143896,Caudoputamen - NeuN+,Calcium Signaling,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Seroto.,-1.34300743878281,Caudoputamen - NeuN+,Serotonergic synapse,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,GABAergic,-0.798257724729941,Caudoputamen - NeuN+,GABAergic synapse,Caudoputamen
-D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,MAPK Signal,-0.789560103971793,Caudoputamen - NeuN+,MAPK Signaling,Caudoputamen
-D5761.(3).|.069.|.NeuN+,10355,22958,A2 Astro.,-1.9083397080058,Cortical layer II/III - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,A1 Astro.,-1.22913746642258,Cortical layer II/III - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Astro. Diff,-1.12186764784892,Cortical layer II/III - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Oligo. Diff,-1.05199039779075,Cortical layer II/III - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Act. Micro.,-0.668685111240154,Cortical layer II/III - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,H. Micro.,-0.674558685948767,Cortical layer II/III - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Chrom. Mod,1.23386353244729,Cortical layer II/III - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,mRNA splice,1.15584599039379,Cortical layer II/III - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Dend. Str.,1.23400105154972,Cortical layer II/III - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Can. Signal,0.992112965886672,Cortical layer II/III - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Dopamin.,0.675445404227324,Cortical layer II/III - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Ca+ Signal,0.644892818365006,Cortical layer II/III - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,Seroto.,-0.0128289534924845,Cortical layer II/III - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,GABAergic,0.661629421270739,Cortical layer II/III - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.069.|.NeuN+,10355,22958,MAPK Signal,0.30908271307342,Cortical layer II/III - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,A2 Astro.,-0.42264763875214,Cortical layer V - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,A1 Astro.,-1.01238445103662,Cortical layer V - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Astro. Diff,-0.481891359524006,Cortical layer V - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Oligo. Diff,-0.782713178686855,Cortical layer V - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Act. Micro.,-0.978198708280575,Cortical layer V - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,H. Micro.,-0.640852658379838,Cortical layer V - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Chrom. Mod,0.708599989174449,Cortical layer V - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,mRNA splice,0.941160127399394,Cortical layer V - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Dend. Str.,1.03456295873784,Cortical layer V - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Can. Signal,1.10484649793286,Cortical layer V - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Dopamin.,0.943461736308269,Cortical layer V - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Ca+ Signal,-0.0584911855327937,Cortical layer V - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,Seroto.,-0.0428145694869289,Cortical layer V - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,GABAergic,1.03116501079753,Cortical layer V - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.051.|.NeuN+,5997,19241,MAPK Signal,0.347466561465041,Cortical layer V - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,A2 Astro.,-0.360474882770862,Cortical layer VI - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,A1 Astro.,-1.04162218122769,Cortical layer VI - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Astro. Diff,-0.287921938217403,Cortical layer VI - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Oligo. Diff,-0.503555314385337,Cortical layer VI - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Act. Micro.,-0.916532719442931,Cortical layer VI - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,H. Micro.,-0.822160921239017,Cortical layer VI - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Chrom. Mod,1.21158095845521,Cortical layer VI - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,mRNA splice,1.05881639257704,Cortical layer VI - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Dend. Str.,1.01685377747272,Cortical layer VI - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Can. Signal,0.670686757270051,Cortical layer VI - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Dopamin.,0.793904134969317,Cortical layer VI - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Ca+ Signal,0.903862564863017,Cortical layer VI - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,Seroto.,-0.286145938996951,Cortical layer VI - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,GABAergic,0.754814754867274,Cortical layer VI - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.072.|.NeuN+,10907,21517,MAPK Signal,0.282914714111756,Cortical layer VI - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,A2 Astro.,-1.07753152537467,Cortical layer VI - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,A1 Astro.,-1.58760595718164,Cortical layer VI - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Astro. Diff,-0.52031952929414,Cortical layer VI - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Oligo. Diff,-0.859515148337536,Cortical layer VI - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Act. Micro.,-0.968064308672567,Cortical layer VI - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,H. Micro.,-1.30058555751123,Cortical layer VI - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Chrom. Mod,1.38961201122739,Cortical layer VI - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,mRNA splice,1.20079307795256,Cortical layer VI - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Dend. Str.,0.914326382700831,Cortical layer VI - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Can. Signal,0.753495517538141,Cortical layer VI - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Dopamin.,0.91552942701811,Cortical layer VI - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Ca+ Signal,-0.316542507864035,Cortical layer VI - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,Seroto.,-0.774861512240598,Cortical layer VI - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,GABAergic,0.142760771658591,Cortical layer VI - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.062.|.NeuN+,8423,20530,MAPK Signal,0.0154305012489374,Cortical layer VI - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,A2 Astro.,-0.6821471328072,Cortical layer V - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,A1 Astro.,-1.03007089146954,Cortical layer V - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Astro. Diff,-1.0500520028506,Cortical layer V - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Oligo. Diff,-0.52347344019362,Cortical layer V - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Act. Micro.,-0.606572522478161,Cortical layer V - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,H. Micro.,-1.02419443609537,Cortical layer V - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Chrom. Mod,0.799613811466343,Cortical layer V - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,mRNA splice,1.05919889493021,Cortical layer V - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Dend. Str.,1.05004375007847,Cortical layer V - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Can. Signal,0.785771874914818,Cortical layer V - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Dopamin.,0.890791568519253,Cortical layer V - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Ca+ Signal,0.378983585396457,Cortical layer V - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,Seroto.,-0.97413237782664,Cortical layer V - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,GABAergic,0.377247018052561,Cortical layer V - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.071.|.NeuN+,10734,22083,MAPK Signal,0.464068990227884,Cortical layer V - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,A2 Astro.,-1.14924472894929,Cortical layer V - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,A1 Astro.,-0.390486452353053,Cortical layer V - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Astro. Diff,-0.703391468110957,Cortical layer V - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Oligo. Diff,-0.740900898438889,Cortical layer V - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Act. Micro.,-0.562939111749435,Cortical layer V - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,H. Micro.,-0.950830687076691,Cortical layer V - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Chrom. Mod,0.869393484878475,Cortical layer V - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,mRNA splice,0.541756538994146,Cortical layer V - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Dend. Str.,0.965650098161779,Cortical layer V - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Can. Signal,0.90087735168968,Cortical layer V - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Dopamin.,0.917931534951281,Cortical layer V - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Ca+ Signal,-1.14625363926736,Cortical layer V - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,Seroto.,-0.154610488689823,Cortical layer V - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,GABAergic,0.534710554606162,Cortical layer V - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.061.|.NeuN+,7995,21047,MAPK Signal,0.392371609942487,Cortical layer V - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,A2 Astro.,-0.579400574496316,Cortical layer VI - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,A1 Astro.,-1.43592338694226,Cortical layer VI - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Astro. Diff,-0.993740097182975,Cortical layer VI - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Oligo. Diff,-0.0923774998828508,Cortical layer VI - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Act. Micro.,-0.790953474527003,Cortical layer VI - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,H. Micro.,-1.06904066352306,Cortical layer VI - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Chrom. Mod,1.25005110407624,Cortical layer VI - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,mRNA splice,1.26357561593463,Cortical layer VI - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Dend. Str.,0.94863451475509,Cortical layer VI - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Can. Signal,1.4066592370821,Cortical layer VI - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Dopamin.,1.4155404758857,Cortical layer VI - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Ca+ Signal,-0.272479989818744,Cortical layer VI - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,Seroto.,0.478737168578384,Cortical layer VI - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,GABAergic,1.15032471139396,Cortical layer VI - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.052.|.NeuN+,6557,18797,MAPK Signal,0.299396442811461,Cortical layer VI - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,A2 Astro.,-0.62522098999827,Cortical layer II/III - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,A1 Astro.,-1.13870392031327,Cortical layer II/III - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Astro. Diff,-1.31956753183124,Cortical layer II/III - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Oligo. Diff,-1.0785269884868,Cortical layer II/III - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Act. Micro.,-0.535068045507134,Cortical layer II/III - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,H. Micro.,-0.489026281854336,Cortical layer II/III - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Chrom. Mod,1.35350748397003,Cortical layer II/III - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,mRNA splice,0.807839758998873,Cortical layer II/III - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Dend. Str.,1.31478018446634,Cortical layer II/III - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Can. Signal,1.24532828878317,Cortical layer II/III - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Dopamin.,1.43586611130199,Cortical layer II/III - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Ca+ Signal,0.309717387173568,Cortical layer II/III - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,Seroto.,0.324848645079094,Cortical layer II/III - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,GABAergic,0.575505417502286,Cortical layer II/III - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.049.|.NeuN+,5038,19845,MAPK Signal,0.849335326450272,Cortical layer II/III - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,A2 Astro.,-0.58382001393294,Cortical layer II/III - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,A1 Astro.,-1.24987163740642,Cortical layer II/III - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Astro. Diff,-0.665946985382281,Cortical layer II/III - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Oligo. Diff,-0.750818542645294,Cortical layer II/III - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Act. Micro.,-0.449480980362796,Cortical layer II/III - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,H. Micro.,-0.831576709934292,Cortical layer II/III - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Chrom. Mod,1.14008264380245,Cortical layer II/III - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,mRNA splice,0.904776940297668,Cortical layer II/III - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Dend. Str.,1.53007321896961,Cortical layer II/III - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Can. Signal,1.0606001832575,Cortical layer II/III - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Dopamin.,1.67602581999594,Cortical layer II/III - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Ca+ Signal,-0.439832175310407,Cortical layer II/III - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,Seroto.,0.132888465321913,Cortical layer II/III - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,GABAergic,0.493309421102365,Cortical layer II/III - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.059.|.NeuN+,7386,21866,MAPK Signal,0.73643682212868,Cortical layer II/III - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,A2 Astro.,0.219779350242653,Cortical layer IV - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,A1 Astro.,0.070783412418555,Cortical layer IV - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Astro. Diff,-1.60220885567725,Cortical layer IV - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Oligo. Diff,-1.30312815036004,Cortical layer IV - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Act. Micro.,-1.31069754773787,Cortical layer IV - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,H. Micro.,-0.691388895257641,Cortical layer IV - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Chrom. Mod,0.695510417917701,Cortical layer IV - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,mRNA splice,0.793749875790872,Cortical layer IV - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Dend. Str.,0.371857755611573,Cortical layer IV - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Can. Signal,-0.22312957261864,Cortical layer IV - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Dopamin.,-1.16739206017147,Cortical layer IV - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Ca+ Signal,0.847747536580234,Cortical layer IV - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,Seroto.,-0.777577267760108,Cortical layer IV - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,GABAergic,0.294385742144285,Cortical layer IV - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.070.|.NeuN+,10636,22526,MAPK Signal,-0.0760510743997244,Cortical layer IV - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,A2 Astro.,-0.40906964463418,Amygdala - NeuN+,A2 Astrocyte,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,A1 Astro.,-1.13033803183057,Amygdala - NeuN+,A1 Astrocyte,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Astro. Diff,-1.37825875038271,Amygdala - NeuN+,Astrocyte Differentiation/Function,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Oligo. Diff,-1.12185851789835,Amygdala - NeuN+,Oligodendrocyte Differentiation,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Act. Micro.,-0.855053084358917,Amygdala - NeuN+,Activated Microglia,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,H. Micro.,-1.31223059376594,Amygdala - NeuN+,Homeostatic Microglia,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Chrom. Mod,0.818737845534546,Amygdala - NeuN+,Chromatin Modification,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,mRNA splice,0.534428302300592,Amygdala - NeuN+,mRNA Splicing,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Dend. Str.,0.721636933546257,Amygdala - NeuN+,Dendrite Structure,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Can. Signal,0.184269016380828,Amygdala - NeuN+,Cannabinoid Signaling,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Dopamin.,0.110210810574027,Amygdala - NeuN+,Dopaminergic synapse,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Ca+ Signal,0.54816139737804,Amygdala - NeuN+,Calcium Signaling,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Seroto.,-0.141205514017351,Amygdala - NeuN+,Serotonergic synapse,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,GABAergic,-0.586284324099318,Amygdala - NeuN+,GABAergic synapse,Amygdala
-D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,MAPK Signal,-0.81529026481343,Amygdala - NeuN+,MAPK Signaling,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,A2 Astro.,-0.256431484507941,Amygdala - NeuN+,A2 Astrocyte,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,A1 Astro.,-0.874748230189862,Amygdala - NeuN+,A1 Astrocyte,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Astro. Diff,-1.00420188380329,Amygdala - NeuN+,Astrocyte Differentiation/Function,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Oligo. Diff,-0.845464729178123,Amygdala - NeuN+,Oligodendrocyte Differentiation,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Act. Micro.,-0.357569782592623,Amygdala - NeuN+,Activated Microglia,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,H. Micro.,-1.08099459499803,Amygdala - NeuN+,Homeostatic Microglia,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Chrom. Mod,0.560500369862214,Amygdala - NeuN+,Chromatin Modification,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,mRNA splice,0.454480166070862,Amygdala - NeuN+,mRNA Splicing,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Dend. Str.,0.466905159137967,Amygdala - NeuN+,Dendrite Structure,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Can. Signal,0.629256748992203,Amygdala - NeuN+,Cannabinoid Signaling,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Dopamin.,-0.0228980896108472,Amygdala - NeuN+,Dopaminergic synapse,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Ca+ Signal,0.469609157796609,Amygdala - NeuN+,Calcium Signaling,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Seroto.,-0.955967467908065,Amygdala - NeuN+,Serotonergic synapse,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,GABAergic,-0.344766916242304,Amygdala - NeuN+,GABAergic synapse,Amygdala
-D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,MAPK Signal,-0.173769258334348,Amygdala - NeuN+,MAPK Signaling,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,A2 Astro.,0.404533316428768,Amygdala - NeuN+,A2 Astrocyte,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,A1 Astro.,-0.516593011353617,Amygdala - NeuN+,A1 Astrocyte,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Astro. Diff,-0.808971929414478,Amygdala - NeuN+,Astrocyte Differentiation/Function,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Oligo. Diff,-0.708130043263069,Amygdala - NeuN+,Oligodendrocyte Differentiation,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Act. Micro.,-0.905501271722347,Amygdala - NeuN+,Activated Microglia,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,H. Micro.,-0.916936927014542,Amygdala - NeuN+,Homeostatic Microglia,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Chrom. Mod,0.404384823911955,Amygdala - NeuN+,Chromatin Modification,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,mRNA splice,0.577334554004773,Amygdala - NeuN+,mRNA Splicing,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Dend. Str.,0.255593373423127,Amygdala - NeuN+,Dendrite Structure,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Can. Signal,0.60933425415362,Amygdala - NeuN+,Cannabinoid Signaling,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Dopamin.,-0.145745731054089,Amygdala - NeuN+,Dopaminergic synapse,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Ca+ Signal,-1.26731295963148,Amygdala - NeuN+,Calcium Signaling,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Seroto.,-0.943090670070681,Amygdala - NeuN+,Serotonergic synapse,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,GABAergic,0.154922259551292,Amygdala - NeuN+,GABAergic synapse,Amygdala
-D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,MAPK Signal,-1.60938888771382,Amygdala - NeuN+,MAPK Signaling,Amygdala
-D5761.(3).|.050.|.NeuN+,5556,19538,A2 Astro.,1.58950709045915,Cortical layer IV - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,A1 Astro.,-0.16162035241692,Cortical layer IV - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Astro. Diff,0.0258836277090269,Cortical layer IV - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Oligo. Diff,-0.486513521219926,Cortical layer IV - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Act. Micro.,-1.06878016547735,Cortical layer IV - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,H. Micro.,-0.838461829320297,Cortical layer IV - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Chrom. Mod,0.456319668558142,Cortical layer IV - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,mRNA splice,0.566263699935071,Cortical layer IV - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Dend. Str.,0.671919835029958,Cortical layer IV - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Can. Signal,0.0907648001125894,Cortical layer IV - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Dopamin.,0.586014693959947,Cortical layer IV - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Ca+ Signal,0.0950145826699485,Cortical layer IV - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,Seroto.,-0.318151820395954,Cortical layer IV - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,GABAergic,-0.320739303830897,Cortical layer IV - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.050.|.NeuN+,5556,19538,MAPK Signal,-0.465164573986444,Cortical layer IV - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,A2 Astro.,1.24884510637745,Cortical layer IV - NeuN+,A2 Astrocyte,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,A1 Astro.,-0.285027901438355,Cortical layer IV - NeuN+,A1 Astrocyte,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Astro. Diff,-0.658552717381615,Cortical layer IV - NeuN+,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Oligo. Diff,-0.572217380078218,Cortical layer IV - NeuN+,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Act. Micro.,-1.25204532500183,Cortical layer IV - NeuN+,Activated Microglia,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,H. Micro.,-0.624334833498374,Cortical layer IV - NeuN+,Homeostatic Microglia,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Chrom. Mod,1.07434608771,Cortical layer IV - NeuN+,Chromatin Modification,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,mRNA splice,0.963535389385404,Cortical layer IV - NeuN+,mRNA Splicing,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Dend. Str.,0.227656281394809,Cortical layer IV - NeuN+,Dendrite Structure,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Can. Signal,-0.499333746610789,Cortical layer IV - NeuN+,Cannabinoid Signaling,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Dopamin.,0.290989001888347,Cortical layer IV - NeuN+,Dopaminergic synapse,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Ca+ Signal,-0.907901705740253,Cortical layer IV - NeuN+,Calcium Signaling,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,Seroto.,-0.890352309024178,Cortical layer IV - NeuN+,Serotonergic synapse,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,GABAergic,-0.733014830038852,Cortical layer IV - NeuN+,GABAergic synapse,Cortex
-D5761.(3).|.060.|.NeuN+,7692,21379,MAPK Signal,-1.08199481570196,Cortical layer IV - NeuN+,MAPK Signaling,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,A2 Astro.,-0.0158826774053466,Cortical layer VI - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,A1 Astro.,0.581057489652588,Cortical layer VI - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Astro. Diff,1.37679834493285,Cortical layer VI - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Oligo. Diff,1.53360007905739,Cortical layer VI - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Act. Micro.,0.886728476463178,Cortical layer VI - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,H. Micro.,0.726372092907754,Cortical layer VI - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Chrom. Mod,-0.29918953144838,Cortical layer VI - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,mRNA splice,-0.694675153809481,Cortical layer VI - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Dend. Str.,0.487751338949986,Cortical layer VI - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Can. Signal,0.218098835754877,Cortical layer VI - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Dopamin.,0.37905039011212,Cortical layer VI - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Ca+ Signal,-0.325685457456107,Cortical layer VI - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,Seroto.,1.04059474563266,Cortical layer VI - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,GABAergic,0.827354384383619,Cortical layer VI - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.052.|.DNA,6557,18797,MAPK Signal,0.00887039702392534,Cortical layer VI - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,A2 Astro.,-0.0361229923295291,Cortical layer V - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,A1 Astro.,0.488816819651404,Cortical layer V - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Astro. Diff,0.755212541643397,Cortical layer V - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Oligo. Diff,0.715240258367725,Cortical layer V - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Act. Micro.,1.21683315532927,Cortical layer V - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,H. Micro.,0.982914875553948,Cortical layer V - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Chrom. Mod,-0.286887422578988,Cortical layer V - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,mRNA splice,-0.804824049256355,Cortical layer V - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Dend. Str.,0.387203413491906,Cortical layer V - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Can. Signal,0.873246555737392,Cortical layer V - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Dopamin.,-0.0802553264581835,Cortical layer V - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Ca+ Signal,-1.17560338655674,Cortical layer V - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,Seroto.,1.13021333708932,Cortical layer V - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,GABAergic,1.46157051625029,Cortical layer V - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.061.|.DNA,7995,21047,MAPK Signal,0.109815651591085,Cortical layer V - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,A2 Astro.,-0.291930429361673,Cortical layer II/III - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,A1 Astro.,1.14248538056211,Cortical layer II/III - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Astro. Diff,0.359511626676245,Cortical layer II/III - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Oligo. Diff,0.964703271755055,Cortical layer II/III - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Act. Micro.,1.63257463730554,Cortical layer II/III - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,H. Micro.,1.11645775134459,Cortical layer II/III - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Chrom. Mod,-0.531286570669898,Cortical layer II/III - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,mRNA splice,-0.621939903932033,Cortical layer II/III - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Dend. Str.,0.116357131517563,Cortical layer II/III - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Can. Signal,0.836849898113203,Cortical layer II/III - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Dopamin.,0.320932037252515,Cortical layer II/III - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Ca+ Signal,0.559520580369443,Cortical layer II/III - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,Seroto.,1.28334037671426,Cortical layer II/III - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,GABAergic,1.40634654110364,Cortical layer II/III - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.069.|.DNA,10355,22958,MAPK Signal,2.50556752605802,Cortical layer II/III - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,A2 Astro.,1.29596170432676,Cortical layer V - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,A1 Astro.,0.121292266323219,Cortical layer V - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Astro. Diff,-0.0317441618649929,Cortical layer V - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Oligo. Diff,1.74570742016862,Cortical layer V - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Act. Micro.,1.16555427975761,Cortical layer V - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,H. Micro.,1.18283878419159,Cortical layer V - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Chrom. Mod,-0.485657468173273,Cortical layer V - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,mRNA splice,0.0486989375454268,Cortical layer V - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Dend. Str.,0.671224033515062,Cortical layer V - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Can. Signal,0.691927127032152,Cortical layer V - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Dopamin.,0.362297522440139,Cortical layer V - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Ca+ Signal,0.663150654460857,Cortical layer V - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,Seroto.,0.810468296562454,Cortical layer V - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,GABAergic,1.5039601634619,Cortical layer V - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.071.|.DNA,10734,22083,MAPK Signal,1.19688037695834,Cortical layer V - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,A2 Astro.,-0.914818998146127,Cortical layer II/III - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,A1 Astro.,0.974927460948761,Cortical layer II/III - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Astro. Diff,0.91144536246264,Cortical layer II/III - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Oligo. Diff,0.882808824892042,Cortical layer II/III - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Act. Micro.,1.81423910615867,Cortical layer II/III - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,H. Micro.,0.855304188314395,Cortical layer II/III - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Chrom. Mod,-0.662765953926978,Cortical layer II/III - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,mRNA splice,-0.537011481286351,Cortical layer II/III - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Dend. Str.,0.0983370841910222,Cortical layer II/III - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Can. Signal,-0.380182732623086,Cortical layer II/III - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Dopamin.,0.561501803107432,Cortical layer II/III - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Ca+ Signal,2.02828394987231,Cortical layer II/III - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,Seroto.,1.2214935879273,Cortical layer II/III - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,GABAergic,-0.246521091287553,Cortical layer II/III - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.049.|.DNA,5038,19845,MAPK Signal,1.83751467159268,Cortical layer II/III - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,A2 Astro.,-1.25785844648734,Cortical layer VI - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,A1 Astro.,1.01476214558039,Cortical layer VI - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Astro. Diff,0.640772549943021,Cortical layer VI - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Oligo. Diff,1.26306784749618,Cortical layer VI - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Act. Micro.,1.33389527892516,Cortical layer VI - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,H. Micro.,0.7886013981299,Cortical layer VI - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Chrom. Mod,-0.861723591621092,Cortical layer VI - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,mRNA splice,-0.352589462562719,Cortical layer VI - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Dend. Str.,-0.557436535289087,Cortical layer VI - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Can. Signal,-0.0280988670789078,Cortical layer VI - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Dopamin.,-0.480084569072758,Cortical layer VI - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Ca+ Signal,1.12089975329418,Cortical layer VI - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,Seroto.,1.24357123755858,Cortical layer VI - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,GABAergic,0.66914386947133,Cortical layer VI - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.062.|.DNA,8423,20530,MAPK Signal,1.1437873778002,Cortical layer VI - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,A2 Astro.,-0.70511667691344,Cortical layer IV - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,A1 Astro.,1.9273701695899,Cortical layer IV - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Astro. Diff,-0.169349007510778,Cortical layer IV - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Oligo. Diff,0.81943667273076,Cortical layer IV - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Act. Micro.,0.355064342728916,Cortical layer IV - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,H. Micro.,0.737202051432457,Cortical layer IV - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Chrom. Mod,-1.92391750473323,Cortical layer IV - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,mRNA splice,-1.30614920517692,Cortical layer IV - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Dend. Str.,-1.02669961857395,Cortical layer IV - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Can. Signal,0.00303646972247216,Cortical layer IV - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Dopamin.,-0.329426958306289,Cortical layer IV - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Ca+ Signal,0.791668137662672,Cortical layer IV - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,Seroto.,0.833342725673382,Cortical layer IV - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,GABAergic,1.31202197360539,Cortical layer IV - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.050.|.DNA,5556,19538,MAPK Signal,-0.646088476893299,Cortical layer IV - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,A2 Astro.,0.26234023215126,Cortical layer II/III - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,A1 Astro.,1.85403726235878,Cortical layer II/III - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Astro. Diff,0.624084768945983,Cortical layer II/III - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Oligo. Diff,-0.572925351490097,Cortical layer II/III - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Act. Micro.,0.730720242024358,Cortical layer II/III - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,H. Micro.,1.05340726802732,Cortical layer II/III - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Chrom. Mod,-0.734422014933469,Cortical layer II/III - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,mRNA splice,-1.53727177507458,Cortical layer II/III - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Dend. Str.,-0.214715261030711,Cortical layer II/III - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Can. Signal,0.248518867239201,Cortical layer II/III - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Dopamin.,-0.531076522145587,Cortical layer II/III - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Ca+ Signal,1.29703228810339,Cortical layer II/III - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,Seroto.,0.855824433687453,Cortical layer II/III - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,GABAergic,-0.624273891154345,Cortical layer II/III - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.059.|.DNA,7386,21866,MAPK Signal,-0.0446712580750164,Cortical layer II/III - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,A2 Astro.,0.598940807274364,Cortical layer IV - Neuropil,A2 Astrocyte,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,A1 Astro.,0.698090131994408,Cortical layer IV - Neuropil,A1 Astrocyte,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Astro. Diff,0.750958265382862,Cortical layer IV - Neuropil,Astrocyte Differentiation/Function,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Oligo. Diff,0.593214204675802,Cortical layer IV - Neuropil,Oligodendrocyte Differentiation,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Act. Micro.,1.17994145213964,Cortical layer IV - Neuropil,Activated Microglia,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,H. Micro.,1.32149327518112,Cortical layer IV - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Chrom. Mod,-0.710198336710665,Cortical layer IV - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,mRNA splice,-0.994044792378895,Cortical layer IV - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Dend. Str.,-1.41200355358918,Cortical layer IV - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Can. Signal,-0.00989880093282475,Cortical layer IV - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Dopamin.,0.398891639962873,Cortical layer IV - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Ca+ Signal,2.26086291696883,Cortical layer IV - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,Seroto.,0.856588176472097,Cortical layer IV - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,GABAergic,0.37447132307273,Cortical layer IV - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.070.|.DNA,10636,22526,MAPK Signal,0.434060746594625,Cortical layer IV - Neuropil,MAPK Signaling,Cortex
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,A2 Astro.,1.10678555465324,Amygdala - Neuropil,A2 Astrocyte,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,A1 Astro.,0.906378179367325,Amygdala - Neuropil,A1 Astrocyte,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Astro. Diff,-0.429754813989703,Amygdala - Neuropil,Astrocyte Differentiation/Function,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Oligo. Diff,1.1482323666558,Amygdala - Neuropil,Oligodendrocyte Differentiation,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Act. Micro.,0.732986296062455,Amygdala - Neuropil,Activated Microglia,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,H. Micro.,0.995983675833213,Amygdala - Neuropil,Homeostatic Microglia,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Chrom. Mod,-0.67066245283091,Amygdala - Neuropil,Chromatin Modification,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,mRNA splice,-0.6642883344961,Amygdala - Neuropil,mRNA Splicing,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Dend. Str.,-0.704311851766366,Amygdala - Neuropil,Dendrite Structure,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Can. Signal,-0.362949525233111,Amygdala - Neuropil,Cannabinoid Signaling,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Dopamin.,0.0663131442182324,Amygdala - Neuropil,Dopaminergic synapse,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Ca+ Signal,0.452705251944625,Amygdala - Neuropil,Calcium Signaling,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Seroto.,0.534901703985694,Amygdala - Neuropil,Serotonergic synapse,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,GABAergic,-0.290387639217872,Amygdala - Neuropil,GABAergic synapse,Amygdala
-D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,MAPK Signal,0.382481946279649,Amygdala - Neuropil,MAPK Signaling,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,A2 Astro.,0.935385492534868,Amygdala - Neuropil,A2 Astrocyte,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,A1 Astro.,0.392652295733563,Amygdala - Neuropil,A1 Astrocyte,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Astro. Diff,-0.615827936286706,Amygdala - Neuropil,Astrocyte Differentiation/Function,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Oligo. Diff,0.84077726699886,Amygdala - Neuropil,Oligodendrocyte Differentiation,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Act. Micro.,0.728724958553534,Amygdala - Neuropil,Activated Microglia,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,H. Micro.,1.16579264486907,Amygdala - Neuropil,Homeostatic Microglia,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Chrom. Mod,-0.865741922026226,Amygdala - Neuropil,Chromatin Modification,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,mRNA splice,-0.570545448165599,Amygdala - Neuropil,mRNA Splicing,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Dend. Str.,-0.581992839760705,Amygdala - Neuropil,Dendrite Structure,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Can. Signal,-0.221512901622474,Amygdala - Neuropil,Cannabinoid Signaling,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Dopamin.,-0.517178525417794,Amygdala - Neuropil,Dopaminergic synapse,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Ca+ Signal,0.841583090329926,Amygdala - Neuropil,Calcium Signaling,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Seroto.,1.64877417134899,Amygdala - Neuropil,Serotonergic synapse,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,GABAergic,0.310675275777135,Amygdala - Neuropil,GABAergic synapse,Amygdala
-D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,MAPK Signal,-0.518393718677576,Amygdala - Neuropil,MAPK Signaling,Amygdala
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Chrom. Mod,-1.96721874300626,Caudoputamen - Neuropil,Chromatin Modification,Caudoputamen
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,mRNA splice,-1.67943556523483,Caudoputamen - Neuropil,mRNA Splicing,Caudoputamen
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Can. Signal,-1.9046282747919,Caudoputamen - Neuropil,Cannabinoid Signaling,Caudoputamen
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Dend. Str.,-2.24010361337925,Caudoputamen - Neuropil,Dendrite Structure,Caudoputamen
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,GABAergic,-2.19829441410652,Caudoputamen - Neuropil,GABAergic synapse,Caudoputamen
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Glutam. Syn.,-2.44001147697949,Caudoputamen - Neuropil,Glutamatergic synapse,Caudoputamen
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Ca+ Signal,-0.386418993896153,Caudoputamen - Neuropil,Calcium Signaling,Caudoputamen
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,MAPK Signal,-0.0407199983855768,Caudoputamen - Neuropil,MAPK Signaling,Caudoputamen
+D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Seroto.,-1.43211694921513,Caudoputamen - Neuropil,Serotonergic synapse,Caudoputamen
 D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,A2 Astro.,1.39811443914965,Caudoputamen - Neuropil,A2 Astrocyte,Caudoputamen
 D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,A1 Astro.,1.30046665838092,Caudoputamen - Neuropil,A1 Astrocyte,Caudoputamen
 D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Astro. Diff,2.8274272614655,Caudoputamen - Neuropil,Astrocyte Differentiation/Function,Caudoputamen
 D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Oligo. Diff,1.57767869148955,Caudoputamen - Neuropil,Oligodendrocyte Differentiation,Caudoputamen
 D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Act. Micro.,1.1893370543273,Caudoputamen - Neuropil,Activated Microglia,Caudoputamen
 D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,H. Micro.,0.951362563206609,Caudoputamen - Neuropil,Homeostatic Microglia,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Chrom. Mod,-1.96721874300626,Caudoputamen - Neuropil,Chromatin Modification,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,mRNA splice,-1.67943556523483,Caudoputamen - Neuropil,mRNA Splicing,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Dend. Str.,-2.24010361337925,Caudoputamen - Neuropil,Dendrite Structure,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Can. Signal,-1.9046282747919,Caudoputamen - Neuropil,Cannabinoid Signaling,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Dopamin.,-1.76123262113311,Caudoputamen - Neuropil,Dopaminergic synapse,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Ca+ Signal,-0.386418993896153,Caudoputamen - Neuropil,Calcium Signaling,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,Seroto.,-1.43211694921513,Caudoputamen - Neuropil,Serotonergic synapse,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,GABAergic,-2.19829441410652,Caudoputamen - Neuropil,GABAergic synapse,Caudoputamen
-D5761.(3).|.073.|.DNA,24192.896484375,14239.904296875,MAPK Signal,-0.0407199983855768,Caudoputamen - Neuropil,MAPK Signaling,Caudoputamen
+D5761.(3).|.051.|.DNA,5997,19241,Chrom. Mod,-1.13411368365163,Cortical layer V - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.051.|.DNA,5997,19241,mRNA splice,-1.07326589813767,Cortical layer V - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.051.|.DNA,5997,19241,Can. Signal,-0.563339988036826,Cortical layer V - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.051.|.DNA,5997,19241,Dend. Str.,-0.321830879180114,Cortical layer V - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.051.|.DNA,5997,19241,GABAergic,0.352657395462561,Cortical layer V - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.051.|.DNA,5997,19241,Glutam. Syn.,0.136585978967253,Cortical layer V - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.051.|.DNA,5997,19241,Ca+ Signal,-0.944157290478009,Cortical layer V - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.051.|.DNA,5997,19241,MAPK Signal,0.975677494401331,Cortical layer V - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.051.|.DNA,5997,19241,Seroto.,-0.993661825069855,Cortical layer V - Neuropil,Serotonergic synapse,Cortex
 D5761.(3).|.051.|.DNA,5997,19241,A2 Astro.,3.13926899054273,Cortical layer V - Neuropil,A2 Astrocyte,Cortex
 D5761.(3).|.051.|.DNA,5997,19241,A1 Astro.,1.19564604832334,Cortical layer V - Neuropil,A1 Astrocyte,Cortex
 D5761.(3).|.051.|.DNA,5997,19241,Astro. Diff,0.76822295344416,Cortical layer V - Neuropil,Astrocyte Differentiation/Function,Cortex
 D5761.(3).|.051.|.DNA,5997,19241,Oligo. Diff,0.638296893875427,Cortical layer V - Neuropil,Oligodendrocyte Differentiation,Cortex
 D5761.(3).|.051.|.DNA,5997,19241,Act. Micro.,0.540432800763984,Cortical layer V - Neuropil,Activated Microglia,Cortex
 D5761.(3).|.051.|.DNA,5997,19241,H. Micro.,1.15089015863754,Cortical layer V - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,Chrom. Mod,-1.13411368365163,Cortical layer V - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,mRNA splice,-1.07326589813767,Cortical layer V - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,Dend. Str.,-0.321830879180114,Cortical layer V - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,Can. Signal,-0.563339988036826,Cortical layer V - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,Dopamin.,-1.39132197445658,Cortical layer V - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,Ca+ Signal,-0.944157290478009,Cortical layer V - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,Seroto.,-0.993661825069855,Cortical layer V - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,GABAergic,0.352657395462561,Cortical layer V - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.051.|.DNA,5997,19241,MAPK Signal,0.975677494401331,Cortical layer V - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Chrom. Mod,-0.879120774104602,Caudoputamen - Neuropil,Chromatin Modification,Caudoputamen
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,mRNA splice,-1.74934752422138,Caudoputamen - Neuropil,mRNA Splicing,Caudoputamen
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Can. Signal,-0.85750386454386,Caudoputamen - Neuropil,Cannabinoid Signaling,Caudoputamen
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Dend. Str.,-1.23931156881239,Caudoputamen - Neuropil,Dendrite Structure,Caudoputamen
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,GABAergic,-1.72067559204899,Caudoputamen - Neuropil,GABAergic synapse,Caudoputamen
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Glutam. Syn.,-0.279801884943822,Caudoputamen - Neuropil,Glutamatergic synapse,Caudoputamen
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Ca+ Signal,0.169660965416192,Caudoputamen - Neuropil,Calcium Signaling,Caudoputamen
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,MAPK Signal,-0.434820628948454,Caudoputamen - Neuropil,MAPK Signaling,Caudoputamen
+D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Seroto.,1.03314756780386,Caudoputamen - Neuropil,Serotonergic synapse,Caudoputamen
 D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,A2 Astro.,1.4858835267264,Caudoputamen - Neuropil,A2 Astrocyte,Caudoputamen
 D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,A1 Astro.,0.0506751190793942,Caudoputamen - Neuropil,A1 Astrocyte,Caudoputamen
 D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Astro. Diff,1.36194401623936,Caudoputamen - Neuropil,Astrocyte Differentiation/Function,Caudoputamen
 D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Oligo. Diff,0.641993643055602,Caudoputamen - Neuropil,Oligodendrocyte Differentiation,Caudoputamen
 D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Act. Micro.,0.13719831336253,Caudoputamen - Neuropil,Activated Microglia,Caudoputamen
 D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,H. Micro.,0.828602917649374,Caudoputamen - Neuropil,Homeostatic Microglia,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Chrom. Mod,-0.879120774104602,Caudoputamen - Neuropil,Chromatin Modification,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,mRNA splice,-1.74934752422138,Caudoputamen - Neuropil,mRNA Splicing,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Dend. Str.,-1.23931156881239,Caudoputamen - Neuropil,Dendrite Structure,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Can. Signal,-0.85750386454386,Caudoputamen - Neuropil,Cannabinoid Signaling,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Dopamin.,-0.136503192202966,Caudoputamen - Neuropil,Dopaminergic synapse,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Ca+ Signal,0.169660965416192,Caudoputamen - Neuropil,Calcium Signaling,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,Seroto.,1.03314756780386,Caudoputamen - Neuropil,Serotonergic synapse,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,GABAergic,-1.72067559204899,Caudoputamen - Neuropil,GABAergic synapse,Caudoputamen
-D5761.(3).|.075.|.DNA,24140.10546875,13193.1123046875,MAPK Signal,-0.434820628948454,Caudoputamen - Neuropil,MAPK Signaling,Caudoputamen
+D5761.(3).|.072.|.DNA,10907,21517,Chrom. Mod,-0.543265722850173,Cortical layer VI - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.072.|.DNA,10907,21517,mRNA splice,-0.211446977248285,Cortical layer VI - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.072.|.DNA,10907,21517,Can. Signal,-0.52719171374989,Cortical layer VI - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.072.|.DNA,10907,21517,Dend. Str.,-0.537947177129911,Cortical layer VI - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.072.|.DNA,10907,21517,GABAergic,0.0404936825615708,Cortical layer VI - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.072.|.DNA,10907,21517,Glutam. Syn.,0.128821907246315,Cortical layer VI - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.072.|.DNA,10907,21517,Ca+ Signal,0.0194901491306559,Cortical layer VI - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.072.|.DNA,10907,21517,MAPK Signal,0.0018069872712515,Cortical layer VI - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.072.|.DNA,10907,21517,Seroto.,0.0774985132082754,Cortical layer VI - Neuropil,Serotonergic synapse,Cortex
 D5761.(3).|.072.|.DNA,10907,21517,A2 Astro.,-0.402378198610743,Cortical layer VI - Neuropil,A2 Astrocyte,Cortex
 D5761.(3).|.072.|.DNA,10907,21517,A1 Astro.,-0.0325950603381613,Cortical layer VI - Neuropil,A1 Astrocyte,Cortex
 D5761.(3).|.072.|.DNA,10907,21517,Astro. Diff,1.28217520444906,Cortical layer VI - Neuropil,Astrocyte Differentiation/Function,Cortex
 D5761.(3).|.072.|.DNA,10907,21517,Oligo. Diff,1.96550923470177,Cortical layer VI - Neuropil,Oligodendrocyte Differentiation,Cortex
 D5761.(3).|.072.|.DNA,10907,21517,Act. Micro.,1.05274807660392,Cortical layer VI - Neuropil,Activated Microglia,Cortex
 D5761.(3).|.072.|.DNA,10907,21517,H. Micro.,0.801071301503438,Cortical layer VI - Neuropil,Homeostatic Microglia,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,Chrom. Mod,-0.543265722850173,Cortical layer VI - Neuropil,Chromatin Modification,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,mRNA splice,-0.211446977248285,Cortical layer VI - Neuropil,mRNA Splicing,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,Dend. Str.,-0.537947177129911,Cortical layer VI - Neuropil,Dendrite Structure,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,Can. Signal,-0.52719171374989,Cortical layer VI - Neuropil,Cannabinoid Signaling,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,Dopamin.,-0.704791977974575,Cortical layer VI - Neuropil,Dopaminergic synapse,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,Ca+ Signal,0.0194901491306559,Cortical layer VI - Neuropil,Calcium Signaling,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,Seroto.,0.0774985132082754,Cortical layer VI - Neuropil,Serotonergic synapse,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,GABAergic,0.0404936825615708,Cortical layer VI - Neuropil,GABAergic synapse,Cortex
-D5761.(3).|.072.|.DNA,10907,21517,MAPK Signal,0.0018069872712515,Cortical layer VI - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Chrom. Mod,-0.618871539048761,Amygdala - Neuropil,Chromatin Modification,Amygdala
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,mRNA splice,-0.701178096860339,Amygdala - Neuropil,mRNA Splicing,Amygdala
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Can. Signal,-0.791190400018229,Amygdala - Neuropil,Cannabinoid Signaling,Amygdala
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Dend. Str.,-0.573665984178774,Amygdala - Neuropil,Dendrite Structure,Amygdala
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,GABAergic,-0.813897761551805,Amygdala - Neuropil,GABAergic synapse,Amygdala
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Glutam. Syn.,-0.599473353571599,Amygdala - Neuropil,Glutamatergic synapse,Amygdala
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Ca+ Signal,-1.27392320522544,Amygdala - Neuropil,Calcium Signaling,Amygdala
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,MAPK Signal,-0.480462688533726,Amygdala - Neuropil,MAPK Signaling,Amygdala
+D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Seroto.,0.694323830572387,Amygdala - Neuropil,Serotonergic synapse,Amygdala
 D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,A2 Astro.,-0.0611427189237699,Amygdala - Neuropil,A2 Astrocyte,Amygdala
 D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,A1 Astro.,0.315217956567027,Amygdala - Neuropil,A1 Astrocyte,Amygdala
 D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Astro. Diff,1.09875334667792,Amygdala - Neuropil,Astrocyte Differentiation/Function,Amygdala
 D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Oligo. Diff,-0.0242413397143254,Amygdala - Neuropil,Oligodendrocyte Differentiation,Amygdala
 D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Act. Micro.,1.02972498207164,Amygdala - Neuropil,Activated Microglia,Amygdala
 D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,H. Micro.,1.27327789675502,Amygdala - Neuropil,Homeostatic Microglia,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Chrom. Mod,-0.618871539048761,Amygdala - Neuropil,Chromatin Modification,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,mRNA splice,-0.701178096860339,Amygdala - Neuropil,mRNA Splicing,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Dend. Str.,-0.573665984178774,Amygdala - Neuropil,Dendrite Structure,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Can. Signal,-0.791190400018229,Amygdala - Neuropil,Cannabinoid Signaling,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Dopamin.,-0.946754777319509,Amygdala - Neuropil,Dopaminergic synapse,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Ca+ Signal,-1.27392320522544,Amygdala - Neuropil,Calcium Signaling,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,Seroto.,0.694323830572387,Amygdala - Neuropil,Serotonergic synapse,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,GABAergic,-0.813897761551805,Amygdala - Neuropil,GABAergic synapse,Amygdala
-D5761.(3).|.048.|.DNA,23952.744140625,10462.9013671875,MAPK Signal,-0.480462688533726,Amygdala - Neuropil,MAPK Signaling,Amygdala
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Chrom. Mod,-0.277552637478285,Caudoputamen - Neuropil,Chromatin Modification,Caudoputamen
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,mRNA splice,-0.654668555445095,Caudoputamen - Neuropil,mRNA Splicing,Caudoputamen
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Can. Signal,-0.35807451075554,Caudoputamen - Neuropil,Cannabinoid Signaling,Caudoputamen
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Dend. Str.,-1.47181359165619,Caudoputamen - Neuropil,Dendrite Structure,Caudoputamen
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,GABAergic,-0.793776890220586,Caudoputamen - Neuropil,GABAergic synapse,Caudoputamen
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Glutam. Syn.,-0.691166147023783,Caudoputamen - Neuropil,Glutamatergic synapse,Caudoputamen
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Ca+ Signal,-0.818427492670455,Caudoputamen - Neuropil,Calcium Signaling,Caudoputamen
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,MAPK Signal,0.514239520035042,Caudoputamen - Neuropil,MAPK Signaling,Caudoputamen
+D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Seroto.,0.549689605720125,Caudoputamen - Neuropil,Serotonergic synapse,Caudoputamen
 D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,A2 Astro.,-0.30120261961683,Caudoputamen - Neuropil,A2 Astrocyte,Caudoputamen
 D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,A1 Astro.,1.04084350650244,Caudoputamen - Neuropil,A1 Astrocyte,Caudoputamen
 D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Astro. Diff,1.00545062537223,Caudoputamen - Neuropil,Astrocyte Differentiation/Function,Caudoputamen
 D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Oligo. Diff,0.563245059430884,Caudoputamen - Neuropil,Oligodendrocyte Differentiation,Caudoputamen
 D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Act. Micro.,0.372706275975817,Caudoputamen - Neuropil,Activated Microglia,Caudoputamen
 D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,H. Micro.,0.843803102196136,Caudoputamen - Neuropil,Homeostatic Microglia,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Chrom. Mod,-0.277552637478285,Caudoputamen - Neuropil,Chromatin Modification,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,mRNA splice,-0.654668555445095,Caudoputamen - Neuropil,mRNA Splicing,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Dend. Str.,-1.47181359165619,Caudoputamen - Neuropil,Dendrite Structure,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Can. Signal,-0.35807451075554,Caudoputamen - Neuropil,Cannabinoid Signaling,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Dopamin.,-0.54154782745789,Caudoputamen - Neuropil,Dopaminergic synapse,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Ca+ Signal,-0.818427492670455,Caudoputamen - Neuropil,Calcium Signaling,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,Seroto.,0.549689605720125,Caudoputamen - Neuropil,Serotonergic synapse,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,GABAergic,-0.793776890220586,Caudoputamen - Neuropil,GABAergic synapse,Caudoputamen
-D5761.(3).|.074.|.DNA,23949.630859375,15586.267578125,MAPK Signal,0.514239520035042,Caudoputamen - Neuropil,MAPK Signaling,Caudoputamen
+D5761.(3).|.052.|.DNA,6557,18797,Chrom. Mod,-0.29918953144838,Cortical layer VI - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,mRNA splice,-0.694675153809481,Cortical layer VI - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,Can. Signal,0.218098835754877,Cortical layer VI - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,Dend. Str.,0.487751338949986,Cortical layer VI - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,GABAergic,0.827354384383619,Cortical layer VI - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,Glutam. Syn.,0.365279404153315,Cortical layer VI - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,Ca+ Signal,-0.325685457456107,Cortical layer VI - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,MAPK Signal,0.00887039702392534,Cortical layer VI - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,Seroto.,1.04059474563266,Cortical layer VI - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,A2 Astro.,-0.0158826774053466,Cortical layer VI - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,A1 Astro.,0.581057489652588,Cortical layer VI - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,Astro. Diff,1.37679834493285,Cortical layer VI - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,Oligo. Diff,1.53360007905739,Cortical layer VI - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,Act. Micro.,0.886728476463178,Cortical layer VI - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.052.|.DNA,6557,18797,H. Micro.,0.726372092907754,Cortical layer VI - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Chrom. Mod,-0.286887422578988,Cortical layer V - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,mRNA splice,-0.804824049256355,Cortical layer V - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Can. Signal,0.873246555737392,Cortical layer V - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Dend. Str.,0.387203413491906,Cortical layer V - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,GABAergic,1.46157051625029,Cortical layer V - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Glutam. Syn.,1.20468858427415,Cortical layer V - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Ca+ Signal,-1.17560338655674,Cortical layer V - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,MAPK Signal,0.109815651591085,Cortical layer V - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Seroto.,1.13021333708932,Cortical layer V - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,A2 Astro.,-0.0361229923295291,Cortical layer V - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,A1 Astro.,0.488816819651404,Cortical layer V - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Astro. Diff,0.755212541643397,Cortical layer V - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Oligo. Diff,0.715240258367725,Cortical layer V - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,Act. Micro.,1.21683315532927,Cortical layer V - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.061.|.DNA,7995,21047,H. Micro.,0.982914875553948,Cortical layer V - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Chrom. Mod,-0.531286570669898,Cortical layer II/III - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,mRNA splice,-0.621939903932033,Cortical layer II/III - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Can. Signal,0.836849898113203,Cortical layer II/III - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Dend. Str.,0.116357131517563,Cortical layer II/III - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,GABAergic,1.40634654110364,Cortical layer II/III - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Glutam. Syn.,0.505772321853051,Cortical layer II/III - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Ca+ Signal,0.559520580369443,Cortical layer II/III - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,MAPK Signal,2.50556752605802,Cortical layer II/III - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Seroto.,1.28334037671426,Cortical layer II/III - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,A2 Astro.,-0.291930429361673,Cortical layer II/III - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,A1 Astro.,1.14248538056211,Cortical layer II/III - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Astro. Diff,0.359511626676245,Cortical layer II/III - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Oligo. Diff,0.964703271755055,Cortical layer II/III - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,Act. Micro.,1.63257463730554,Cortical layer II/III - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.069.|.DNA,10355,22958,H. Micro.,1.11645775134459,Cortical layer II/III - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Chrom. Mod,-0.485657468173273,Cortical layer V - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,mRNA splice,0.0486989375454268,Cortical layer V - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Can. Signal,0.691927127032152,Cortical layer V - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Dend. Str.,0.671224033515062,Cortical layer V - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,GABAergic,1.5039601634619,Cortical layer V - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Glutam. Syn.,0.533876072283341,Cortical layer V - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Ca+ Signal,0.663150654460857,Cortical layer V - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,MAPK Signal,1.19688037695834,Cortical layer V - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Seroto.,0.810468296562454,Cortical layer V - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,A2 Astro.,1.29596170432676,Cortical layer V - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,A1 Astro.,0.121292266323219,Cortical layer V - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Astro. Diff,-0.0317441618649929,Cortical layer V - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Oligo. Diff,1.74570742016862,Cortical layer V - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,Act. Micro.,1.16555427975761,Cortical layer V - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.071.|.DNA,10734,22083,H. Micro.,1.18283878419159,Cortical layer V - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Chrom. Mod,-0.662765953926978,Cortical layer II/III - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,mRNA splice,-0.537011481286351,Cortical layer II/III - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Can. Signal,-0.380182732623086,Cortical layer II/III - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Dend. Str.,0.0983370841910222,Cortical layer II/III - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,GABAergic,-0.246521091287553,Cortical layer II/III - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Glutam. Syn.,0.506326553312713,Cortical layer II/III - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Ca+ Signal,2.02828394987231,Cortical layer II/III - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,MAPK Signal,1.83751467159268,Cortical layer II/III - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Seroto.,1.2214935879273,Cortical layer II/III - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,A2 Astro.,-0.914818998146127,Cortical layer II/III - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,A1 Astro.,0.974927460948761,Cortical layer II/III - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Astro. Diff,0.91144536246264,Cortical layer II/III - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Oligo. Diff,0.882808824892042,Cortical layer II/III - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,Act. Micro.,1.81423910615867,Cortical layer II/III - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.049.|.DNA,5038,19845,H. Micro.,0.855304188314395,Cortical layer II/III - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Chrom. Mod,-0.861723591621092,Cortical layer VI - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,mRNA splice,-0.352589462562719,Cortical layer VI - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Can. Signal,-0.0280988670789078,Cortical layer VI - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Dend. Str.,-0.557436535289087,Cortical layer VI - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,GABAergic,0.66914386947133,Cortical layer VI - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Glutam. Syn.,1.06064009117161,Cortical layer VI - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Ca+ Signal,1.12089975329418,Cortical layer VI - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,MAPK Signal,1.1437873778002,Cortical layer VI - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Seroto.,1.24357123755858,Cortical layer VI - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,A2 Astro.,-1.25785844648734,Cortical layer VI - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,A1 Astro.,1.01476214558039,Cortical layer VI - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Astro. Diff,0.640772549943021,Cortical layer VI - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Oligo. Diff,1.26306784749618,Cortical layer VI - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,Act. Micro.,1.33389527892516,Cortical layer VI - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.062.|.DNA,8423,20530,H. Micro.,0.7886013981299,Cortical layer VI - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Chrom. Mod,-1.92391750473323,Cortical layer IV - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,mRNA splice,-1.30614920517692,Cortical layer IV - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Can. Signal,0.00303646972247216,Cortical layer IV - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Dend. Str.,-1.02669961857395,Cortical layer IV - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,GABAergic,1.31202197360539,Cortical layer IV - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Glutam. Syn.,0.298741800618573,Cortical layer IV - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Ca+ Signal,0.791668137662672,Cortical layer IV - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,MAPK Signal,-0.646088476893299,Cortical layer IV - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Seroto.,0.833342725673382,Cortical layer IV - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,A2 Astro.,-0.70511667691344,Cortical layer IV - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,A1 Astro.,1.9273701695899,Cortical layer IV - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Astro. Diff,-0.169349007510778,Cortical layer IV - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Oligo. Diff,0.81943667273076,Cortical layer IV - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,Act. Micro.,0.355064342728916,Cortical layer IV - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.050.|.DNA,5556,19538,H. Micro.,0.737202051432457,Cortical layer IV - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Chrom. Mod,-0.734422014933469,Cortical layer II/III - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,mRNA splice,-1.53727177507458,Cortical layer II/III - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Can. Signal,0.248518867239201,Cortical layer II/III - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Dend. Str.,-0.214715261030711,Cortical layer II/III - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,GABAergic,-0.624273891154345,Cortical layer II/III - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Glutam. Syn.,-0.358134536274667,Cortical layer II/III - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Ca+ Signal,1.29703228810339,Cortical layer II/III - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,MAPK Signal,-0.0446712580750164,Cortical layer II/III - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Seroto.,0.855824433687453,Cortical layer II/III - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,A2 Astro.,0.26234023215126,Cortical layer II/III - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,A1 Astro.,1.85403726235878,Cortical layer II/III - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Astro. Diff,0.624084768945983,Cortical layer II/III - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Oligo. Diff,-0.572925351490097,Cortical layer II/III - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,Act. Micro.,0.730720242024358,Cortical layer II/III - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.059.|.DNA,7386,21866,H. Micro.,1.05340726802732,Cortical layer II/III - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Chrom. Mod,-0.710198336710665,Cortical layer IV - Neuropil,Chromatin Modification,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,mRNA splice,-0.994044792378895,Cortical layer IV - Neuropil,mRNA Splicing,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Can. Signal,-0.00989880093282475,Cortical layer IV - Neuropil,Cannabinoid Signaling,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Dend. Str.,-1.41200355358918,Cortical layer IV - Neuropil,Dendrite Structure,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,GABAergic,0.37447132307273,Cortical layer IV - Neuropil,GABAergic synapse,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Glutam. Syn.,0.586064280323566,Cortical layer IV - Neuropil,Glutamatergic synapse,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Ca+ Signal,2.26086291696883,Cortical layer IV - Neuropil,Calcium Signaling,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,MAPK Signal,0.434060746594625,Cortical layer IV - Neuropil,MAPK Signaling,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Seroto.,0.856588176472097,Cortical layer IV - Neuropil,Serotonergic synapse,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,A2 Astro.,0.598940807274364,Cortical layer IV - Neuropil,A2 Astrocyte,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,A1 Astro.,0.698090131994408,Cortical layer IV - Neuropil,A1 Astrocyte,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Astro. Diff,0.750958265382862,Cortical layer IV - Neuropil,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Oligo. Diff,0.593214204675802,Cortical layer IV - Neuropil,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,Act. Micro.,1.17994145213964,Cortical layer IV - Neuropil,Activated Microglia,Cortex
+D5761.(3).|.070.|.DNA,10636,22526,H. Micro.,1.32149327518112,Cortical layer IV - Neuropil,Homeostatic Microglia,Cortex
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Chrom. Mod,-0.67066245283091,Amygdala - Neuropil,Chromatin Modification,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,mRNA splice,-0.6642883344961,Amygdala - Neuropil,mRNA Splicing,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Can. Signal,-0.362949525233111,Amygdala - Neuropil,Cannabinoid Signaling,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Dend. Str.,-0.704311851766366,Amygdala - Neuropil,Dendrite Structure,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,GABAergic,-0.290387639217872,Amygdala - Neuropil,GABAergic synapse,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Glutam. Syn.,0.517510816861721,Amygdala - Neuropil,Glutamatergic synapse,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Ca+ Signal,0.452705251944625,Amygdala - Neuropil,Calcium Signaling,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,MAPK Signal,0.382481946279649,Amygdala - Neuropil,MAPK Signaling,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Seroto.,0.534901703985694,Amygdala - Neuropil,Serotonergic synapse,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,A2 Astro.,1.10678555465324,Amygdala - Neuropil,A2 Astrocyte,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,A1 Astro.,0.906378179367325,Amygdala - Neuropil,A1 Astrocyte,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Astro. Diff,-0.429754813989703,Amygdala - Neuropil,Astrocyte Differentiation/Function,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Oligo. Diff,1.1482323666558,Amygdala - Neuropil,Oligodendrocyte Differentiation,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,Act. Micro.,0.732986296062455,Amygdala - Neuropil,Activated Microglia,Amygdala
+D5761.(3).|.058.|.DNA,24240.041015625,11883.404296875,H. Micro.,0.995983675833213,Amygdala - Neuropil,Homeostatic Microglia,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Chrom. Mod,-0.865741922026226,Amygdala - Neuropil,Chromatin Modification,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,mRNA splice,-0.570545448165599,Amygdala - Neuropil,mRNA Splicing,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Can. Signal,-0.221512901622474,Amygdala - Neuropil,Cannabinoid Signaling,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Dend. Str.,-0.581992839760705,Amygdala - Neuropil,Dendrite Structure,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,GABAergic,0.310675275777135,Amygdala - Neuropil,GABAergic synapse,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Glutam. Syn.,0.446586362859843,Amygdala - Neuropil,Glutamatergic synapse,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Ca+ Signal,0.841583090329926,Amygdala - Neuropil,Calcium Signaling,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,MAPK Signal,-0.518393718677576,Amygdala - Neuropil,MAPK Signaling,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Seroto.,1.64877417134899,Amygdala - Neuropil,Serotonergic synapse,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,A2 Astro.,0.935385492534868,Amygdala - Neuropil,A2 Astrocyte,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,A1 Astro.,0.392652295733563,Amygdala - Neuropil,A1 Astrocyte,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Astro. Diff,-0.615827936286706,Amygdala - Neuropil,Astrocyte Differentiation/Function,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Oligo. Diff,0.84077726699886,Amygdala - Neuropil,Oligodendrocyte Differentiation,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,Act. Micro.,0.728724958553534,Amygdala - Neuropil,Activated Microglia,Amygdala
+D5761.(3).|.068.|.DNA,23714.2265625,11241.9111328125,H. Micro.,1.16579264486907,Amygdala - Neuropil,Homeostatic Microglia,Amygdala
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Chrom. Mod,0.0418322431297858,Caudoputamen - NeuN+,Chromatin Modification,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,mRNA splice,0.631182193837797,Caudoputamen - NeuN+,mRNA Splicing,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Can. Signal,-1.06414269431021,Caudoputamen - NeuN+,Cannabinoid Signaling,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Dend. Str.,-0.898112118674547,Caudoputamen - NeuN+,Dendrite Structure,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,GABAergic,-1.2573334206788,Caudoputamen - NeuN+,GABAergic synapse,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Glutam. Syn.,-2.28703913176234,Caudoputamen - NeuN+,Glutamatergic synapse,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Ca+ Signal,-2.60375391038104,Caudoputamen - NeuN+,Calcium Signaling,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,MAPK Signal,-1.94726071746057,Caudoputamen - NeuN+,MAPK Signaling,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Seroto.,-0.652106407426893,Caudoputamen - NeuN+,Serotonergic synapse,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,A2 Astro.,-0.456837206957889,Caudoputamen - NeuN+,A2 Astrocyte,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,A1 Astro.,-0.444249262882837,Caudoputamen - NeuN+,A1 Astrocyte,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Astro. Diff,-0.995572219174163,Caudoputamen - NeuN+,Astrocyte Differentiation/Function,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Oligo. Diff,-1.48798808829124,Caudoputamen - NeuN+,Oligodendrocyte Differentiation,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,Act. Micro.,-1.7718200947737,Caudoputamen - NeuN+,Activated Microglia,Caudoputamen
+D5761.(3).|.074.|.NeuN+,23949.630859375,15586.267578125,H. Micro.,-1.11745421869259,Caudoputamen - NeuN+,Homeostatic Microglia,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Chrom. Mod,0.659162811187892,Caudoputamen - NeuN+,Chromatin Modification,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,mRNA splice,1.02905866669075,Caudoputamen - NeuN+,mRNA Splicing,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Can. Signal,-1.16518906398518,Caudoputamen - NeuN+,Cannabinoid Signaling,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Dend. Str.,-0.551824830632955,Caudoputamen - NeuN+,Dendrite Structure,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,GABAergic,-1.11280419646162,Caudoputamen - NeuN+,GABAergic synapse,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Glutam. Syn.,-2.14615432111049,Caudoputamen - NeuN+,Glutamatergic synapse,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Ca+ Signal,-0.687607461943279,Caudoputamen - NeuN+,Calcium Signaling,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,MAPK Signal,-0.833009343386948,Caudoputamen - NeuN+,MAPK Signaling,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Seroto.,-1.17912490285591,Caudoputamen - NeuN+,Serotonergic synapse,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,A2 Astro.,-0.539038336301698,Caudoputamen - NeuN+,A2 Astrocyte,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,A1 Astro.,-0.170462821020261,Caudoputamen - NeuN+,A1 Astrocyte,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Astro. Diff,0.237113803194217,Caudoputamen - NeuN+,Astrocyte Differentiation/Function,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Oligo. Diff,-1.15931955419134,Caudoputamen - NeuN+,Oligodendrocyte Differentiation,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,Act. Micro.,-1.15600467938216,Caudoputamen - NeuN+,Activated Microglia,Caudoputamen
+D5761.(3).|.073.|.NeuN+,24192.896484375,14239.904296875,H. Micro.,-1.20755887059926,Caudoputamen - NeuN+,Homeostatic Microglia,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Chrom. Mod,0.944917118687616,Caudoputamen - NeuN+,Chromatin Modification,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,mRNA splice,1.50479232028935,Caudoputamen - NeuN+,mRNA Splicing,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Can. Signal,-0.6667586224176,Caudoputamen - NeuN+,Cannabinoid Signaling,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Dend. Str.,0.357269016320419,Caudoputamen - NeuN+,Dendrite Structure,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,GABAergic,-0.798257724729941,Caudoputamen - NeuN+,GABAergic synapse,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Glutam. Syn.,-1.07901693434841,Caudoputamen - NeuN+,Glutamatergic synapse,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Ca+ Signal,-0.993739512143896,Caudoputamen - NeuN+,Calcium Signaling,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,MAPK Signal,-0.789560103971793,Caudoputamen - NeuN+,MAPK Signaling,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Seroto.,-1.34300743878281,Caudoputamen - NeuN+,Serotonergic synapse,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,A2 Astro.,-0.718161627539671,Caudoputamen - NeuN+,A2 Astrocyte,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,A1 Astro.,-1.44044709612011,Caudoputamen - NeuN+,A1 Astrocyte,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Astro. Diff,-0.209244542218801,Caudoputamen - NeuN+,Astrocyte Differentiation/Function,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Oligo. Diff,-1.16066733916478,Caudoputamen - NeuN+,Oligodendrocyte Differentiation,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,Act. Micro.,-0.960376994507629,Caudoputamen - NeuN+,Activated Microglia,Caudoputamen
+D5761.(3).|.075.|.NeuN+,24140.10546875,13193.1123046875,H. Micro.,-1.56545116868828,Caudoputamen - NeuN+,Homeostatic Microglia,Caudoputamen
+D5761.(3).|.069.|.NeuN+,10355,22958,Chrom. Mod,1.23386353244729,Cortical layer II/III - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,mRNA splice,1.15584599039379,Cortical layer II/III - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,Can. Signal,0.992112965886672,Cortical layer II/III - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,Dend. Str.,1.23400105154972,Cortical layer II/III - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,GABAergic,0.661629421270739,Cortical layer II/III - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,Glutam. Syn.,0.478619532595415,Cortical layer II/III - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,Ca+ Signal,0.644892818365006,Cortical layer II/III - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,MAPK Signal,0.30908271307342,Cortical layer II/III - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,Seroto.,-0.0128289534924845,Cortical layer II/III - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,A2 Astro.,-1.9083397080058,Cortical layer II/III - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,A1 Astro.,-1.22913746642258,Cortical layer II/III - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,Astro. Diff,-1.12186764784892,Cortical layer II/III - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,Oligo. Diff,-1.05199039779075,Cortical layer II/III - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,Act. Micro.,-0.668685111240154,Cortical layer II/III - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.069.|.NeuN+,10355,22958,H. Micro.,-0.674558685948767,Cortical layer II/III - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Chrom. Mod,1.38961201122739,Cortical layer VI - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,mRNA splice,1.20079307795256,Cortical layer VI - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Can. Signal,0.753495517538141,Cortical layer VI - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Dend. Str.,0.914326382700831,Cortical layer VI - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,GABAergic,0.142760771658591,Cortical layer VI - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Glutam. Syn.,0.511624443403955,Cortical layer VI - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Ca+ Signal,-0.316542507864035,Cortical layer VI - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,MAPK Signal,0.0154305012489374,Cortical layer VI - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Seroto.,-0.774861512240598,Cortical layer VI - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,A2 Astro.,-1.07753152537467,Cortical layer VI - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,A1 Astro.,-1.58760595718164,Cortical layer VI - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Astro. Diff,-0.52031952929414,Cortical layer VI - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Oligo. Diff,-0.859515148337536,Cortical layer VI - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,Act. Micro.,-0.968064308672567,Cortical layer VI - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.062.|.NeuN+,8423,20530,H. Micro.,-1.30058555751123,Cortical layer VI - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Chrom. Mod,0.799613811466343,Cortical layer V - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,mRNA splice,1.05919889493021,Cortical layer V - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Can. Signal,0.785771874914818,Cortical layer V - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Dend. Str.,1.05004375007847,Cortical layer V - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,GABAergic,0.377247018052561,Cortical layer V - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Glutam. Syn.,0.678227681357647,Cortical layer V - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Ca+ Signal,0.378983585396457,Cortical layer V - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,MAPK Signal,0.464068990227884,Cortical layer V - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Seroto.,-0.97413237782664,Cortical layer V - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,A2 Astro.,-0.6821471328072,Cortical layer V - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,A1 Astro.,-1.03007089146954,Cortical layer V - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Astro. Diff,-1.0500520028506,Cortical layer V - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Oligo. Diff,-0.52347344019362,Cortical layer V - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,Act. Micro.,-0.606572522478161,Cortical layer V - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.071.|.NeuN+,10734,22083,H. Micro.,-1.02419443609537,Cortical layer V - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Chrom. Mod,1.21158095845521,Cortical layer VI - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,mRNA splice,1.05881639257704,Cortical layer VI - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Can. Signal,0.670686757270051,Cortical layer VI - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Dend. Str.,1.01685377747272,Cortical layer VI - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,GABAergic,0.754814754867274,Cortical layer VI - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Glutam. Syn.,0.407165513081973,Cortical layer VI - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Ca+ Signal,0.903862564863017,Cortical layer VI - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,MAPK Signal,0.282914714111756,Cortical layer VI - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Seroto.,-0.286145938996951,Cortical layer VI - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,A2 Astro.,-0.360474882770862,Cortical layer VI - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,A1 Astro.,-1.04162218122769,Cortical layer VI - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Astro. Diff,-0.287921938217403,Cortical layer VI - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Oligo. Diff,-0.503555314385337,Cortical layer VI - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,Act. Micro.,-0.916532719442931,Cortical layer VI - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.072.|.NeuN+,10907,21517,H. Micro.,-0.822160921239017,Cortical layer VI - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Chrom. Mod,0.869393484878475,Cortical layer V - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,mRNA splice,0.541756538994146,Cortical layer V - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Can. Signal,0.90087735168968,Cortical layer V - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Dend. Str.,0.965650098161779,Cortical layer V - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,GABAergic,0.534710554606162,Cortical layer V - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Glutam. Syn.,0.714665514529367,Cortical layer V - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Ca+ Signal,-1.14625363926736,Cortical layer V - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,MAPK Signal,0.392371609942487,Cortical layer V - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Seroto.,-0.154610488689823,Cortical layer V - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,A2 Astro.,-1.14924472894929,Cortical layer V - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,A1 Astro.,-0.390486452353053,Cortical layer V - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Astro. Diff,-0.703391468110957,Cortical layer V - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Oligo. Diff,-0.740900898438889,Cortical layer V - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,Act. Micro.,-0.562939111749435,Cortical layer V - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.061.|.NeuN+,7995,21047,H. Micro.,-0.950830687076691,Cortical layer V - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Chrom. Mod,1.25005110407624,Cortical layer VI - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,mRNA splice,1.26357561593463,Cortical layer VI - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Can. Signal,1.4066592370821,Cortical layer VI - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Dend. Str.,0.94863451475509,Cortical layer VI - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,GABAergic,1.15032471139396,Cortical layer VI - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Glutam. Syn.,1.45017049431059,Cortical layer VI - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Ca+ Signal,-0.272479989818744,Cortical layer VI - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,MAPK Signal,0.299396442811461,Cortical layer VI - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Seroto.,0.478737168578384,Cortical layer VI - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,A2 Astro.,-0.579400574496316,Cortical layer VI - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,A1 Astro.,-1.43592338694226,Cortical layer VI - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Astro. Diff,-0.993740097182975,Cortical layer VI - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Oligo. Diff,-0.0923774998828508,Cortical layer VI - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,Act. Micro.,-0.790953474527003,Cortical layer VI - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.052.|.NeuN+,6557,18797,H. Micro.,-1.06904066352306,Cortical layer VI - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Chrom. Mod,1.35350748397003,Cortical layer II/III - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,mRNA splice,0.807839758998873,Cortical layer II/III - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Can. Signal,1.24532828878317,Cortical layer II/III - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Dend. Str.,1.31478018446634,Cortical layer II/III - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,GABAergic,0.575505417502286,Cortical layer II/III - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Glutam. Syn.,0.612911940725809,Cortical layer II/III - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Ca+ Signal,0.309717387173568,Cortical layer II/III - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,MAPK Signal,0.849335326450272,Cortical layer II/III - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Seroto.,0.324848645079094,Cortical layer II/III - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,A2 Astro.,-0.62522098999827,Cortical layer II/III - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,A1 Astro.,-1.13870392031327,Cortical layer II/III - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Astro. Diff,-1.31956753183124,Cortical layer II/III - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Oligo. Diff,-1.0785269884868,Cortical layer II/III - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,Act. Micro.,-0.535068045507134,Cortical layer II/III - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.049.|.NeuN+,5038,19845,H. Micro.,-0.489026281854336,Cortical layer II/III - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Chrom. Mod,0.708599989174449,Cortical layer V - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,mRNA splice,0.941160127399394,Cortical layer V - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Can. Signal,1.10484649793286,Cortical layer V - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Dend. Str.,1.03456295873784,Cortical layer V - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,GABAergic,1.03116501079753,Cortical layer V - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Glutam. Syn.,0.7364977101181,Cortical layer V - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Ca+ Signal,-0.0584911855327937,Cortical layer V - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,MAPK Signal,0.347466561465041,Cortical layer V - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Seroto.,-0.0428145694869289,Cortical layer V - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,A2 Astro.,-0.42264763875214,Cortical layer V - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,A1 Astro.,-1.01238445103662,Cortical layer V - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Astro. Diff,-0.481891359524006,Cortical layer V - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Oligo. Diff,-0.782713178686855,Cortical layer V - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,Act. Micro.,-0.978198708280575,Cortical layer V - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.051.|.NeuN+,5997,19241,H. Micro.,-0.640852658379838,Cortical layer V - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Chrom. Mod,1.14008264380245,Cortical layer II/III - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,mRNA splice,0.904776940297668,Cortical layer II/III - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Can. Signal,1.0606001832575,Cortical layer II/III - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Dend. Str.,1.53007321896961,Cortical layer II/III - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,GABAergic,0.493309421102365,Cortical layer II/III - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Glutam. Syn.,0.948866760718721,Cortical layer II/III - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Ca+ Signal,-0.439832175310407,Cortical layer II/III - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,MAPK Signal,0.73643682212868,Cortical layer II/III - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Seroto.,0.132888465321913,Cortical layer II/III - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,A2 Astro.,-0.58382001393294,Cortical layer II/III - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,A1 Astro.,-1.24987163740642,Cortical layer II/III - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Astro. Diff,-0.665946985382281,Cortical layer II/III - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Oligo. Diff,-0.750818542645294,Cortical layer II/III - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,Act. Micro.,-0.449480980362796,Cortical layer II/III - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.059.|.NeuN+,7386,21866,H. Micro.,-0.831576709934292,Cortical layer II/III - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Chrom. Mod,0.695510417917701,Cortical layer IV - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,mRNA splice,0.793749875790872,Cortical layer IV - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Can. Signal,-0.22312957261864,Cortical layer IV - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Dend. Str.,0.371857755611573,Cortical layer IV - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,GABAergic,0.294385742144285,Cortical layer IV - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Glutam. Syn.,-0.397055885423325,Cortical layer IV - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Ca+ Signal,0.847747536580234,Cortical layer IV - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,MAPK Signal,-0.0760510743997244,Cortical layer IV - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Seroto.,-0.777577267760108,Cortical layer IV - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,A2 Astro.,0.219779350242653,Cortical layer IV - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,A1 Astro.,0.070783412418555,Cortical layer IV - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Astro. Diff,-1.60220885567725,Cortical layer IV - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Oligo. Diff,-1.30312815036004,Cortical layer IV - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,Act. Micro.,-1.31069754773787,Cortical layer IV - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.070.|.NeuN+,10636,22526,H. Micro.,-0.691388895257641,Cortical layer IV - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Chrom. Mod,0.818737845534546,Amygdala - NeuN+,Chromatin Modification,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,mRNA splice,0.534428302300592,Amygdala - NeuN+,mRNA Splicing,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Can. Signal,0.184269016380828,Amygdala - NeuN+,Cannabinoid Signaling,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Dend. Str.,0.721636933546257,Amygdala - NeuN+,Dendrite Structure,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,GABAergic,-0.586284324099318,Amygdala - NeuN+,GABAergic synapse,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Glutam. Syn.,-0.265378040801707,Amygdala - NeuN+,Glutamatergic synapse,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Ca+ Signal,0.54816139737804,Amygdala - NeuN+,Calcium Signaling,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,MAPK Signal,-0.81529026481343,Amygdala - NeuN+,MAPK Signaling,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Seroto.,-0.141205514017351,Amygdala - NeuN+,Serotonergic synapse,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,A2 Astro.,-0.40906964463418,Amygdala - NeuN+,A2 Astrocyte,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,A1 Astro.,-1.13033803183057,Amygdala - NeuN+,A1 Astrocyte,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Astro. Diff,-1.37825875038271,Amygdala - NeuN+,Astrocyte Differentiation/Function,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Oligo. Diff,-1.12185851789835,Amygdala - NeuN+,Oligodendrocyte Differentiation,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,Act. Micro.,-0.855053084358917,Amygdala - NeuN+,Activated Microglia,Amygdala
+D5761.(3).|.058.|.NeuN+,24240.041015625,11883.404296875,H. Micro.,-1.31223059376594,Amygdala - NeuN+,Homeostatic Microglia,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Chrom. Mod,0.560500369862214,Amygdala - NeuN+,Chromatin Modification,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,mRNA splice,0.454480166070862,Amygdala - NeuN+,mRNA Splicing,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Can. Signal,0.629256748992203,Amygdala - NeuN+,Cannabinoid Signaling,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Dend. Str.,0.466905159137967,Amygdala - NeuN+,Dendrite Structure,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,GABAergic,-0.344766916242304,Amygdala - NeuN+,GABAergic synapse,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Glutam. Syn.,0.0118097143613782,Amygdala - NeuN+,Glutamatergic synapse,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Ca+ Signal,0.469609157796609,Amygdala - NeuN+,Calcium Signaling,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,MAPK Signal,-0.173769258334348,Amygdala - NeuN+,MAPK Signaling,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Seroto.,-0.955967467908065,Amygdala - NeuN+,Serotonergic synapse,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,A2 Astro.,-0.256431484507941,Amygdala - NeuN+,A2 Astrocyte,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,A1 Astro.,-0.874748230189862,Amygdala - NeuN+,A1 Astrocyte,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Astro. Diff,-1.00420188380329,Amygdala - NeuN+,Astrocyte Differentiation/Function,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Oligo. Diff,-0.845464729178123,Amygdala - NeuN+,Oligodendrocyte Differentiation,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,Act. Micro.,-0.357569782592623,Amygdala - NeuN+,Activated Microglia,Amygdala
+D5761.(3).|.068.|.NeuN+,23714.2265625,11241.9111328125,H. Micro.,-1.08099459499803,Amygdala - NeuN+,Homeostatic Microglia,Amygdala
+D5761.(3).|.050.|.NeuN+,5556,19538,Chrom. Mod,0.456319668558142,Cortical layer IV - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,mRNA splice,0.566263699935071,Cortical layer IV - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,Can. Signal,0.0907648001125894,Cortical layer IV - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,Dend. Str.,0.671919835029958,Cortical layer IV - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,GABAergic,-0.320739303830897,Cortical layer IV - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,Glutam. Syn.,0.722458472079617,Cortical layer IV - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,Ca+ Signal,0.0950145826699485,Cortical layer IV - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,MAPK Signal,-0.465164573986444,Cortical layer IV - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,Seroto.,-0.318151820395954,Cortical layer IV - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,A2 Astro.,1.58950709045915,Cortical layer IV - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,A1 Astro.,-0.16162035241692,Cortical layer IV - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,Astro. Diff,0.0258836277090269,Cortical layer IV - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,Oligo. Diff,-0.486513521219926,Cortical layer IV - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,Act. Micro.,-1.06878016547735,Cortical layer IV - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.050.|.NeuN+,5556,19538,H. Micro.,-0.838461829320297,Cortical layer IV - NeuN+,Homeostatic Microglia,Cortex
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Chrom. Mod,0.404384823911955,Amygdala - NeuN+,Chromatin Modification,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,mRNA splice,0.577334554004773,Amygdala - NeuN+,mRNA Splicing,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Can. Signal,0.60933425415362,Amygdala - NeuN+,Cannabinoid Signaling,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Dend. Str.,0.255593373423127,Amygdala - NeuN+,Dendrite Structure,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,GABAergic,0.154922259551292,Amygdala - NeuN+,GABAergic synapse,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Glutam. Syn.,-0.322068672385475,Amygdala - NeuN+,Glutamatergic synapse,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Ca+ Signal,-1.26731295963148,Amygdala - NeuN+,Calcium Signaling,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,MAPK Signal,-1.60938888771382,Amygdala - NeuN+,MAPK Signaling,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Seroto.,-0.943090670070681,Amygdala - NeuN+,Serotonergic synapse,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,A2 Astro.,0.404533316428768,Amygdala - NeuN+,A2 Astrocyte,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,A1 Astro.,-0.516593011353617,Amygdala - NeuN+,A1 Astrocyte,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Astro. Diff,-0.808971929414478,Amygdala - NeuN+,Astrocyte Differentiation/Function,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Oligo. Diff,-0.708130043263069,Amygdala - NeuN+,Oligodendrocyte Differentiation,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,Act. Micro.,-0.905501271722347,Amygdala - NeuN+,Activated Microglia,Amygdala
+D5761.(3).|.048.|.NeuN+,23952.744140625,10462.9013671875,H. Micro.,-0.916936927014542,Amygdala - NeuN+,Homeostatic Microglia,Amygdala
+D5761.(3).|.060.|.NeuN+,7692,21379,Chrom. Mod,1.07434608771,Cortical layer IV - NeuN+,Chromatin Modification,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,mRNA splice,0.963535389385404,Cortical layer IV - NeuN+,mRNA Splicing,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,Can. Signal,-0.499333746610789,Cortical layer IV - NeuN+,Cannabinoid Signaling,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,Dend. Str.,0.227656281394809,Cortical layer IV - NeuN+,Dendrite Structure,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,GABAergic,-0.733014830038852,Cortical layer IV - NeuN+,GABAergic synapse,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,Glutam. Syn.,-0.227723854615972,Cortical layer IV - NeuN+,Glutamatergic synapse,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,Ca+ Signal,-0.907901705740253,Cortical layer IV - NeuN+,Calcium Signaling,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,MAPK Signal,-1.08199481570196,Cortical layer IV - NeuN+,MAPK Signaling,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,Seroto.,-0.890352309024178,Cortical layer IV - NeuN+,Serotonergic synapse,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,A2 Astro.,1.24884510637745,Cortical layer IV - NeuN+,A2 Astrocyte,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,A1 Astro.,-0.285027901438355,Cortical layer IV - NeuN+,A1 Astrocyte,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,Astro. Diff,-0.658552717381615,Cortical layer IV - NeuN+,Astrocyte Differentiation/Function,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,Oligo. Diff,-0.572217380078218,Cortical layer IV - NeuN+,Oligodendrocyte Differentiation,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,Act. Micro.,-1.25204532500183,Cortical layer IV - NeuN+,Activated Microglia,Cortex
+D5761.(3).|.060.|.NeuN+,7692,21379,H. Micro.,-0.624334833498374,Cortical layer IV - NeuN+,Homeostatic Microglia,Cortex

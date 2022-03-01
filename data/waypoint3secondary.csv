@@ -1,4 +1,4 @@
-clust_id,X_position,Y_position,Genes Detected,x_axis,PrimaryLocation,SecondaryLocation,CorticalLayer,type
+clust_id,X_position,Y_position,Genes Detected,x_axis,PrimaryLocation,SecondaryLocation,Cortical Layer,type
 14,10739.47266,15384.36133,6304,13.68892641,Thalamus,TVPN,,Thalamic ventral posteromedial nucleus
 10,14737,17249,10708,10.27435944,Epithalamus,Medial habenula,,Medial habenula
 10,16115,17239,12052,10.17169248,Epithalamus,Medial habenula,,Medial habenula
