@@ -703,7 +703,7 @@
                 "y": {
                     "field": "Ighm Expression",
                     "type": "quantitative",
-                    "title": "Normalized Ighm Expression"
+                    "title": "Ighm Normalized Expression"
                 },
                 "color": {
                     "field": "cortex_layer",
@@ -768,7 +768,7 @@
                 "y": {
                     "field": "Drd2 Expression",
                     "type": "quantitative",
-                    "title": "Drd2 Expression"
+                    "title": "Drd2 Normalized Expression"
                 },
                 "shape": {
                     "field": "Layer", 
