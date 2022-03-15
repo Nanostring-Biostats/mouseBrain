@@ -210,7 +210,7 @@
         }
         }, 
         {
-            "Name": "Spatial mapping of Segmented ROIs", 
+            "Name": "Spatial Mapping of Segmented ROIs", 
             "Description": "Whole transcriptome profiling using GeoMx DSP allows us to spatially map functional gene pathways and gene sets in addition to individual genes. This heatmap of the single-sample gene set enrichment analysis (ssGSEA) scores shows the relative expression of related gene sets in the NeuN+ and neuropil segments in the cortex, caudoputamen, and amygdala with a notable enrichment of glial cell gene sets in the NeuN- neuropil. The enrichment of genes related to chromatin modification and mRNA splicing in NeuN+ segments also supports reported differences in DNA methylation patterns [**(Kessler et al. 2016)**](https://doi.org/10.1093/hmg/ddv459), histone modifications [**(Zhu et al. 2021)**](https://doi.org/10.1038/s41592-021-01060-3), and alternative splicing [**(Zhang et al. 2014)**](https://doi.org/10.1523/JNEUROSCI.1860-14.2014) between neuronal and non-neuronal cells in both mouse and human brains. Glutamatergic and GABAergic synapse-related gene sets show enrichment in both NeuN+ and neuropil AOIs, with the strongest expression in the cortex. By contrast, genes related to serotonergic synapse modulation are clearly enriched in neuropil AOIs compared to the NeuN+ somata.",
             "Footer": "Hint:\n* Select a single column of the heatmap to spot the corresponding ROI in the SOA image.", 
             "Arrows": [], 
@@ -339,8 +339,8 @@
                 {
                 "data": {
                     "values":[
-                        {"bar": "two", "order": "A", "segmentation": "Neuoropil", "type": "Cortical layer IV - Neuropil", "percentage": 0.5},
-                        {"bar": "two", "order": "B", "segmentation": "NeuN+", "type": "Cortical layer II/III - NeuN+,Caudoputamen - NeuN+,Cortical layer V - NeuN+,Cortical layer IV - NeuN+,Cortical layer VI - NeuN+,Amygdala - NeuN+", "percentage": 0.5}
+                        {"bar": "two", "order": "A", "segmentation": "Neuoropil", "type": "Cortical layer II/III - Neuropil,Cortical layer IV - Neuropil,Cortical layer IV - Neuropil,Cortical layer V - Neuropil,Cortical layer VI - Neuropil,Amygdala - Neuropil,Caudoputamen - Neuropil", "percentage": 0.5},
+                        {"bar": "two", "order": "B", "segmentation": "NeuN+", "type": "Cortical layer II/III - NeuN+,Caudoputamen - NeuN+,Cortical layer V - NeuN+,Cortical layer IV - NeuN+,Cortical layer VI - NeuN+,Amygdala - NeuN+,Caudoputamen - NeuN+", "percentage": 0.5}
                     ]
                 },
                 "mark": {
