@@ -89,7 +89,7 @@
                 },
             "tooltip": [
                 {"field": "Genes Detected", "type": "quantitative"},
-                {"field": "type", "type": "nominal", "title": "ROI cateogry"}
+                {"field": "type", "type": "nominal", "title": "ROI category"}
             ]
             }
         }
@@ -259,7 +259,7 @@
                             "ticks": false
                         }
                     },
-                    "tooltip": {"field": "type", "type": "nominal", "title": "ROI Cateogry"},
+                    "tooltip": {"field": "type", "type": "nominal", "title": "ROI category"},
                     "color": {
                         "field": "name",
                         "type": "nominal",
@@ -639,7 +639,7 @@
                 },
                 "tooltip": [
                     {"field": "Ighm Expression", "type": "quantitative", "format": ".0f"},
-                    {"field": "type", "type": "nominal", "title": "ROI cateogry"}
+                    {"field": "type", "type": "nominal", "title": "ROI category"}
                 ]
             }
         }
@@ -718,7 +718,7 @@
                 },
                 "tooltip": [
                     {"field": "Drd2 Expression", "type": "quantitative", "format": ".0f"},
-                    {"field": "type", "type": "nominal", "title": "ROI cateogry"}
+                    {"field": "type", "type": "nominal", "title": "ROI category"}
                 ]
             }
         }
