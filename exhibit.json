@@ -96,7 +96,7 @@
         }, 
         {
             "Name": "Global Cell Type Deconvolution", 
-            "Description": "Here we are measuring the relative abundance of different cell types within each ROI using a cell type deconvolution algorithm to align our spatial data with single-cell RNA-seq from a comparable microdissection experiment. The cell-type descriptions are adapted from the source data [**(Saunders et al.)**](https://doi.org/10.1016/j.cell.2018.07.028). In this graph, each row is a single area of illumination (AOI), and each brain structure (ROI category, shown on the left column of each row) has a unique composition of cell types (shown by cell type-specific colors in each row). As expected, choroid plexus AOIs show markedly distinct cell composition compared to AOIs within the parenchyma. ROIs placed in the white matter corticospinal tract show enrichment of oligodendrocytes and polydendrocytes (NG2 cells), while NeuN+ segments show clear enrichment of neurons across all regions segmented.\n\nThe deconvolution matrix was constructed as described in the R-package referenced in the paper [**Danaher P, Kim Y et al.**](https://www.nature.com/articles/s41467-022-28020-5) using the [**Saunders et al.**](https://doi.org/10.1016/j.cell.2018.07.028) data.", 
+            "Description": "Here we are measuring the relative abundance of different cell types within each ROI using a cell type deconvolution algorithm to align our spatial data with single-cell RNA-seq from a comparable microdissection experiment. The cell-type descriptions are adapted from the source data [**(Saunders et al.)**](https://doi.org/10.1016/j.cell.2018.07.028). In this graph, each row is a single area of illumination (AOI), and each brain structure (ROI category, shown on the left column of each row) has a unique composition of cell types (shown by cell type-specific colors in each row). As expected, choroid plexus AOIs show markedly distinct cell composition compared to AOIs within the parenchyma. ROIs placed in the white matter corticospinal tract show enrichment of oligodendrocytes and polydendrocytes (NG2 cells), while NeuN+ segments show clear enrichment of neurons across all regions segmented.\n\nThe deconvolution matrix is in the R-package referenced in the paper [**Danaher P, Kim Y et al**](https://www.nature.com/articles/s41467-022-28020-5).", 
             "Footer": "Hint:\n* Select a single row of the figure to spot the corresponding ROI in the SOA image.",
             "Arrows": [], 
             "Overlays": [], 
@@ -146,66 +146,44 @@
                      
             },
             {
-            "data": {
-                "values": [
-                    {"Sample_ID": "ROI", "order": "X", "type": "Choroid plexus", "percentage": 0.0566, "name": "Choroid plexus"},
-                    {"Sample_ID": "ROI", "order": "W", "type": "Corticospinal tract", "percentage": 0.0566, "name": "Corticospinal tract"},
-                    {"Sample_ID": "ROI", "order": "V", "type": "Hippocampus CA1", "percentage": 0.0377, "name": "Hippocampus CA1"},
-                    {"Sample_ID": "ROI", "order": "U", "type": "Hippocampus CA2", "percentage": 0.019, "name": "Hippocampus CA2"},
-                    {"Sample_ID": "ROI", "order": "T", "type": "Hippocampus CA3", "percentage": 0.0566, "name": "Hippocampus CA3"},
-                    {"Sample_ID": "ROI", "order": "S", "type": "Hippocampus dentate gyrus", "percentage": 0.0566, "name": "Hippocampus dentate gyrus"},
-                    {"Sample_ID": "ROI", "order": "R", "type": "Amygdala", "percentage": 0.0566, "name": "Amygdala"},
-                    {"Sample_ID": "ROI", "order": "Q", "type": "Amygdala - NeuN+", "percentage": 0.0566, "name": "NeuN+"},
-                    {"Sample_ID": "ROI", "order": "P", "type": "Amygdala - Neuropil", "percentage": 0.0566, "name": "Neuropil"},
-                    {"Sample_ID": "ROI", "order": "O", "type": "Caudoputamen", "percentage": 0.0566, "name": "Caudoputamen"},
-                    {"Sample_ID": "ROI", "order": "N", "type": "Caudoputamen - NeuN+", "percentage": 0.0566, "name": "NeuN+"},
-                    {"Sample_ID": "ROI", "order": "M", "type": "Caudoputamen - Neuropil", "percentage": 0.0566, "name": "Neuropil"},
-                    {"Sample_ID": "ROI", "order": "L", "type": "Hypothalamus", "percentage": 0.0566, "name": "Hypothalamus"},
-                    {"Sample_ID": "ROI", "order": "K", "type": "Ventromedial hypothalamic nucleus", "percentage": 0.0377, "name": "Ventromedial hypothalamic nucleus"},
-                    {"Sample_ID": "ROI", "order": "J", "type": "Thalamus", "percentage": 0.0566, "name": "Thalamus"},
-                    {"Sample_ID": "ROI", "order": "I", "type": "Mediodorsal thalamus", "percentage": 0.0566, "name": "Mediodorsal thalamus"},
-                    {"Sample_ID": "ROI", "order": "H", "type": "Thalamic paraventricular nucleus", "percentage": 0.0377, "name": "Thalamic paraventricular nucleus"},
-                    {"Sample_ID": "ROI", "order": "G", "type": "Thalamic ventral posteromedial nucleus", "percentage": 0.0566, "name": "Thalamic ventral posteromedial nucleus"},
-                    {"Sample_ID": "ROI", "order": "F", "type": "Lateral habenula", "percentage": 0.0377, "name": "Lateral habenula"},
-                    {"Sample_ID": "ROI", "order": "E", "type": "Medial habenula", "percentage": 0.0377, "name": "Medial habenula"}
-                ]},
-                    "mark": {"type": "bar", "xOffset": -7},
-                    "width": 7,
-                    "height": 1060,
-                    "encoding": {
-                        "y": {
-                                "field": "percentage", 
-                                "type": "quantitative",
-                                "axis": {
-                                "labels": false,
-                                "ticks": false
-                                },
-                                "title": null
+            "data": {"url": "data/global_cell_type_deconvolution_annotations.csv"},
+            "mark": {"type": "bar", "xOffset": -7},
+            "width": 7,
+            "height": 1060,
+            "encoding": {
+                "y": {
+                        "field": "percentage", 
+                        "type": "quantitative",
+                        "axis": {
+                        "labels": false,
+                        "ticks": false
                         },
-                        "x": {
-                                "field": "Sample_ID", 
-                                "type": "nominal",     
-                                "title": null,
-                                "axis": {
-                                "labels": false,
-                                "ticks": false
-                                }
-                            },
-                        "color": {
-                            "field": "name", 
-                            "type": "nominal",
-                            "sort": null,
-                            "legend": {"orient": "bottom", "direction": "vertical", "title": "ROI Category"},
-                            "scale": {
-                                "domain": ["Choroid plexus", "Corticospinal tract", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Amygdala", "NeuN+", "Neuropil",  "Caudoputamen", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Thalamus", "Mediodorsal thalamus", "Thalamic paraventricular nucleus", "Thalamic ventral posteromedial nucleus", "Lateral habenula", "Medial habenula"],
-                                "range": ["#fdae70", "#323232", "#b9f9e8", "#00ffba", "#009e73", "#01513b", "#5c581d", "#f0e442", "#d55e00", "#a34902", "#beb532", "#fff9ad", "#fec4e4", "#be719c", "#784a64", "#f093c7", "#737373", "#cbcbcb"]}
-                        },
-                        "tooltip": {
-                            "field": "type", "type":"nominal"
-                        },         
-                        "order": {"field": "order"}
-                    }
-            }],
+                        "title": null
+                },
+                "x": {
+                        "field": "bar", 
+                        "type": "nominal",     
+                        "title": null,
+                        "axis": {
+                        "labels": false,
+                        "ticks": false
+                        }
+                    },
+                "color": {
+                    "field": "name", 
+                    "type": "nominal",
+                    "sort": null,
+                    "legend": {"orient": "bottom", "direction": "vertical", "title": "ROI Category"},
+                    "scale": {
+                        "domain": ["Choroid plexus", "Corticospinal tract", "Hippocampus CA1", "Hippocampus CA2", "Hippocampus CA3", "Hippocampus dentate gyrus", "Amygdala", "NeuN+", "Neuropil",  "Caudoputamen", "Hypothalamus", "Ventromedial hypothalamic nucleus", "Thalamus", "Mediodorsal thalamus", "Thalamic paraventricular nucleus", "Thalamic ventral posteromedial nucleus", "Lateral habenula", "Medial habenula"],
+                        "range": ["#fdae70", "#323232", "#b9f9e8", "#00ffba", "#009e73", "#01513b", "#5c581d", "#f0e442", "#d55e00", "#a34902", "#beb532", "#fff9ad", "#fec4e4", "#be719c", "#784a64", "#f093c7", "#737373", "#cbcbcb"]}
+                },
+                "tooltip": {
+                    "field": "type", "type":"nominal"
+                },         
+                "order": {"field": "order"}
+            }
+          }],
           "resolve": {"scale": {"color": "independent"}}
         }
         }, 
@@ -256,43 +234,7 @@
                 }
             },
             {
-                "data": {
-                    "values":[
-                        {"bar": "one", "order": "1", "name": "Cortical layer IV", "type": "Cortical layer IV - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "2", "name": "Caudoputamen", "type": "Caudoputamen - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "3", "name": "Cortical layer V", "type": "Cortical layer V - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "4", "name": "Caudoputamen", "type": "Caudoputamen - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "5", "name": "Cortical layer VI", "type": "Cortical layer VI - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "6", "name": "Amygdala", "type": "Amygdala - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "7", "name": "Caudoputamen", "type": "Caudoputamen - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "8", "name": "Cortical layer VI", "type": "Cortical layer VI - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "9", "name": "Cortical layer V", "type": "Cortical layer V - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "A", "name": "Cortical layer II/III", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "B", "name": "Cortical layer V", "type": "Cortical layer V - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "C", "name": "Cortical layer II/III", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "D", "name": "Cortical layer VI", "type": "Cortical layer VI - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "E", "name": "Cortical layer IV", "type": "Cortical layer IV - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "F", "name": "Cortical layer II/III", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "G", "name": "Cortical layer IV", "type": "Cortical layer IV - Neuropil", "percentage": 0.0277},
-                        {"bar": "one", "order": "H", "name": "Amygdala", "type": "Amygdala - Neuropil", "percentage": 0.056},
-                
-                        {"bar": "one", "order": "I", "name": "Caudoputamen", "type": "Caudoputamen - NeuN+", "percentage": 0.0833},
-                        {"bar": "one", "order": "J", "name": "Cortical layer II/III", "type": "Cortical layer II/III - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "K", "name": "Cortical layer VI", "type": "Cortical layer VI - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "L", "name": "Cortical layer V", "type": "Cortical layer V - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "M", "name": "Cortical layer VI", "type": "Cortical layer VI - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "N", "name": "Cortical layer V", "type": "Cortical layer V - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "O", "name": "Cortical layer VI", "type": "Cortical layer VI - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "P", "name": "Cortical layer II/III", "type": "Cortical layer II/III - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "Q", "name": "Cortical layer V", "type": "Cortical layer V - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "R", "name": "Cortical layer II/III", "type": "Cortical layer II/III - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "S", "name": "Cortical layer IV", "type": "Cortical layer IV - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "T", "name": "Amygdala", "type": "Amygdala - NeuN+", "percentage": 0.0556},
-                        {"bar": "one", "order": "U", "name": "Cortical layer IV", "type": "Cortical layer IV - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "V", "name": "Amygdala", "type": "Amygdala - NeuN+", "percentage": 0.0277},
-                        {"bar": "one", "order": "W", "name": "Cortical layer IV", "type": "Cortical layer IV - NeuN+", "percentage": 0.0277}
-                    ]
-                },
+                "data": {"url": "data/wpt4_pathway_heatmap_annotation.csv"},
                 "height": 10,
                 "mark": {
                     "type": "bar",
@@ -508,58 +450,43 @@
                      
             },
             {
-            "data": {
-                "values": [
-                    {"Sample_ID": "ROI", "order": "M", "name": "Cortical layer I", "type": "Cortical layer I", "percentage": 0.052632},
-                    {"Sample_ID": "ROI", "order": "L", "name": "Cortical layer II/III", "type": "Cortical layer II/III", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "K", "name": "NeuN+", "type": "Cortical layer II/III - NeuN+", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "J", "name": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "I", "name": "Cortical layer IV", "type": "Cortical layer IV", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "H", "name": "NeuN+", "type": "Cortical layer IV - NeuN+", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "G", "name": "Neuropil", "type": "Cortical layer IV - Neuropil", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "F", "name": "Cortical layer V", "type": "Cortical layer V", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "E", "name": "NeuN+", "type": "Cortical layer V - NeuN+", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "D", "name": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "C", "name": "Cortical layer VI", "type": "Cortical layer VI", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "B", "name": "NeuN+", "type": "Cortical layer VI - NeuN+", "percentage": 0.078947},
-                    {"Sample_ID": "ROI", "order": "A", "name": "Neuropil", "type": "Cortical layer VI - Neuropil", "percentage": 0.078947}
-                ]},
-                    "mark": {"type": "bar", "xOffset": -7},
-                    "width": 7,
-                    "height": 760,
-                    "encoding": {
-                        "y": {
-                                "field": "percentage", 
-                                "type": "quantitative",
-                                "axis": {
-                                "labels": false,
-                                "ticks": false
-                                },
-                                "title": null
+            "data": {"url": "data/wpt7_cortex_decon_annotations.csv"},
+            "mark": {"type": "bar", "xOffset": -7},
+            "width": 7,
+            "height": 760,
+            "encoding": {
+                "y": {
+                        "field": "percentage", 
+                        "type": "quantitative",
+                        "axis": {
+                        "labels": false,
+                        "ticks": false
                         },
-                        "x": {
-                                "field": "Sample_ID", 
-                                "type": "nominal",     
-                                "title": null,
-                                "axis": {
-                                "labels": false,
-                                "ticks": false
-                                }
-                            },
-                        "color": {
-                            "field": "name", 
-                            "type": "nominal",
-                            "sort": null,
-                            "legend": {"orient": "bottom", "direction": "vertical", "title": "Histological Structure"},
-                            "scale": {"domain": ["NeuN+", "Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI"], 
-                                "range": ["#f0e442", "#d55e00", "#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48"]}
-                        },
-                        "tooltip": {
-                            "field": "type", "type":"nominal"
-                        },         
-                        "order": {"field": "order"}
-                    }
-            }],
+                        "title": null
+                },
+                "x": {
+                        "field": "bar", 
+                        "type": "nominal",     
+                        "title": null,
+                        "axis": {
+                        "labels": false,
+                        "ticks": false
+                        }
+                    },
+                "color": {
+                    "field": "name", 
+                    "type": "nominal",
+                    "sort": null,
+                    "legend": {"orient": "bottom", "direction": "vertical", "title": "Histological Structure"},
+                    "scale": {"domain": ["NeuN+", "Neuropil", "Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical layer VI"], 
+                        "range": ["#f0e442", "#d55e00", "#ccf2f7", "#90cef0", "#37a7e5", "#005b8e", "#002e48"]}
+                },
+                "tooltip": {
+                    "field": "type", "type":"nominal"
+                },         
+                "order": {"field": "order"}
+            }
+           }],
           "resolve": {"scale": {"color": "independent"}}
         }
         }, 
@@ -618,15 +545,7 @@
                 }
             },
         {
-            "data": {
-                "values":[
-                    {"bar": "one", "order": "A", "type": "Cortical layer I", "percentage": 0.14256},
-                    {"bar": "one", "order": "B", "type": "Cortical layer II/III", "percentage": 0.21429},
-                    {"bar": "one", "order": "C", "type": "Cortical layer IV", "percentage": 0.21429},
-                    {"bar": "one", "order": "D", "type": "Cortical layer V", "percentage": 0.21429},
-                    {"bar": "one", "order": "E", "type": "Cortical layer VI", "percentage": 0.21429}
-                ]
-            },
+            "data": {"url": "data/gene_heatmap_fullRoi_cortex_annotations.csv"},
             "mark": {
                 "type": "bar",
                 "yOffset": 998

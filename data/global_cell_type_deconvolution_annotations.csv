@@ -1,0 +1,54 @@
+bar,X_position,Y_position,type,name,order,percentage
+two,15346,18206,Choroid plexus,Choroid plexus,Zr,0.01886
+two,22414,16800,Choroid plexus,Choroid plexus,Zq,0.01886
+two,7861,16010,Choroid plexus,Choroid plexus,Zp,0.01886
+two,9486.367188,13342.67188,Corticospinal tract,Corticospinal tract,Zo,0.01886
+two,9974.688477,12617.37012,Corticospinal tract,Corticospinal tract,Zn,0.01886
+two,10664.08398,11884.8877,Corticospinal tract,Corticospinal tract,Zm,0.01886
+two,12584.85938,20066.13086,Hippocampus CA1,Hippocampus CA1,Zl,0.01886
+two,11679.68262,20200.37109,Hippocampus CA1,Hippocampus CA1,Zk,0.01886
+two,9429.947266,19084.17969,Hippocampus CA2,Hippocampus CA2,Zj,0.01886
+two,10081.37207,18230.1875,Hippocampus CA3,Hippocampus CA3,Zi,0.01886
+two,9553.245117,18085.44141,Hippocampus CA3,Hippocampus CA3,Zh,0.01886
+two,9016.265625,18132.21484,Hippocampus CA3,Hippocampus CA3,Zg,0.01886
+two,12858,18452,Hippocampus dentate gyrus,Hippocampus dentate gyrus,Zf,0.01886
+two,12493,18144,Hippocampus dentate gyrus,Hippocampus dentate gyrus,Ze,0.01886
+two,13621,18031,Hippocampus dentate gyrus,Hippocampus dentate gyrus,Zd,0.01886
+two,6662.168945,11542.29688,Amygdala,Amygdala,Zc,0.01886
+two,6499.962891,12343.28027,Amygdala,Amygdala,Zb,0.01886
+two,6324.195313,13104.14258,Amygdala,Amygdala,Za,0.01886
+two,23952.74414,10462.90137,Amygdala - NeuN+,NeuN+,Z,0.01886
+two,24240.04102,11883.4043,Amygdala - NeuN+,NeuN+,Y,0.01886
+two,23714.22656,11241.91113,Amygdala - NeuN+,NeuN+,X,0.01886
+two,23952.74414,10462.90137,Amygdala - Neuropil,Neuropil,W,0.01886
+two,24240.04102,11883.4043,Amygdala - Neuropil,Neuropil,V,0.01886
+two,23714.22656,11241.91113,Amygdala - Neuropil,Neuropil,U,0.01886
+two,6489.658203,15720.38184,Caudoputamen,Caudoputamen,T,0.01886
+two,6297.04248,14623.95508,Caudoputamen,Caudoputamen,S,0.01886
+two,6993.421387,14016.47559,Caudoputamen,Caudoputamen,R,0.01886
+two,24192.89648,14239.9043,Caudoputamen - NeuN+,NeuN+,Q,0.01886
+two,23949.63086,15586.26758,Caudoputamen - NeuN+,NeuN+,P,0.01886
+two,24140.10547,13193.1123,Caudoputamen - NeuN+,NeuN+,O,0.01886
+two,24192.89648,14239.9043,Caudoputamen - Neuropil,Neuropil,N,0.01886
+two,23949.63086,15586.26758,Caudoputamen - Neuropil,Neuropil,M,0.01886
+two,24140.10547,13193.1123,Caudoputamen - Neuropil,Neuropil,L,0.01886
+two,12675.2002,11086.74805,Hypothalamus,Hypothalamus,K,0.01886
+two,13118.2373,10416.78809,Hypothalamus,Hypothalamus,J,0.01886
+two,13712.55664,9908.916016,Hypothalamus,Hypothalamus,I,0.01886
+two,14588,9138,Ventromedial hypothalamic nucleus,Ventromedial hypothalamic nucleus,H,0.01886
+two,16618,9454,Ventromedial hypothalamic nucleus,Ventromedial hypothalamic nucleus,G,0.01886
+two,12758.08887,15969.85938,Thalamus,Thalamus,F,0.01886
+two,12903.71094,14974.77734,Thalamus,Thalamus,E,0.01886
+two,13316.30664,14198.12695,Thalamus,Thalamus,D,0.01886
+two,14661.28906,14280.1377,Mediodorsal thalamus,Mediodorsal thalamus,C,0.01886
+two,14050.40234,15162.5293,Mediodorsal thalamus,Mediodorsal thalamus,B,0.01886
+two,14891.02441,15063.32617,Mediodorsal thalamus,Mediodorsal thalamus,A,0.01886
+two,14934,16070,Thalamic paraventricular nucleus,Thalamic paraventricular nucleus,9,0.01886
+two,15981,16089,Thalamic paraventricular nucleus,Thalamic paraventricular nucleus,8,0.01886
+two,10739.47266,15384.36133,Thalamic ventral posteromedial nucleus,Thalamic ventral posteromedial nucleus,7,0.01886
+two,11131.97852,14634.99316,Thalamic ventral posteromedial nucleus,Thalamic ventral posteromedial nucleus,6,0.01886
+two,11771.09668,14092.95605,Thalamic ventral posteromedial nucleus,Thalamic ventral posteromedial nucleus,5,0.01886
+two,14345,16694,Lateral habenula,Lateral habenula,4,0.01886
+two,16494,16755,Lateral habenula,Lateral habenula,3,0.01886
+two,14737,17249,Medial habenula,Medial habenula,2,0.01886
+two,16115,17239,Medial habenula,Medial habenula,1,0.01886

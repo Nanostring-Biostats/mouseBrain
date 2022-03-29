@@ -1,0 +1,37 @@
+bar,order,X_position,Y_position,type,name,percentage
+one,1,7692,21379,Cortical layer IV - Neuropil,Cortical layer IV,0.027775
+one,2,24192.89648,14239.9043,Caudoputamen - Neuropil,Caudoputamen,0.027775
+one,3,5997,19241,Cortical layer V - Neuropil,Cortical layer V,0.027775
+one,4,24140.10547,13193.1123,Caudoputamen - Neuropil,Caudoputamen,0.027775
+one,5,10907,21517,Cortical layer VI - Neuropil,Cortical layer VI,0.027775
+one,6,23952.74414,10462.90137,Amygdala - Neuropil,Amygdala,0.027775
+one,7,23949.63086,15586.26758,Caudoputamen - Neuropil,Caudoputamen,0.027775
+one,8,6557,18797,Cortical layer VI - Neuropil,Cortical layer VI,0.027775
+one,9,7995,21047,Cortical layer V - Neuropil,Cortical layer V,0.027775
+one,A,10355,22958,Cortical layer II/III - Neuropil,Cortical layer II/III,0.027775
+one,B,10734,22083,Cortical layer V - Neuropil,Cortical layer V,0.027775
+one,C,5038,19845,Cortical layer II/III - Neuropil,Cortical layer II/III,0.027775
+one,D,8423,20530,Cortical layer VI - Neuropil,Cortical layer VI,0.027775
+one,E,5556,19538,Cortical layer IV - Neuropil,Cortical layer IV,0.027775
+one,F,7386,21866,Cortical layer II/III - Neuropil,Cortical layer II/III,0.027775
+one,G,10636,22526,Cortical layer IV - Neuropil,Cortical layer IV,0.027775
+one,H,24240.04102,11883.4043,Amygdala - Neuropil,Amygdala,0.027775
+one,I,23714.22656,11241.91113,Amygdala - Neuropil,Amygdala,0.027775
+one,J,23949.63086,15586.26758,Caudoputamen - NeuN+,Caudoputamen,0.027775
+one,K,24192.89648,14239.9043,Caudoputamen - NeuN+,Caudoputamen,0.027775
+one,L,24140.10547,13193.1123,Caudoputamen - NeuN+,Caudoputamen,0.027775
+one,M,10355,22958,Cortical layer II/III - NeuN+,Cortical layer II/III,0.027775
+one,N,8423,20530,Cortical layer VI - NeuN+,Cortical layer VI,0.027775
+one,O,10734,22083,Cortical layer V - NeuN+,Cortical layer V,0.027775
+one,P,10907,21517,Cortical layer VI - NeuN+,Cortical layer VI,0.027775
+one,Q,7995,21047,Cortical layer V - NeuN+,Cortical layer V,0.027775
+one,R,6557,18797,Cortical layer VI - NeuN+,Cortical layer VI,0.027775
+one,S,5038,19845,Cortical layer II/III - NeuN+,Cortical layer II/III,0.027775
+one,T,5997,19241,Cortical layer V - NeuN+,Cortical layer V,0.027775
+one,U,7386,21866,Cortical layer II/III - NeuN+,Cortical layer II/III,0.027775
+one,V,10636,22526,Cortical layer IV - NeuN+,Cortical layer IV,0.027775
+one,W,24240.04102,11883.4043,Amygdala - NeuN+,Amygdala,0.027775
+one,X,23714.22656,11241.91113,Amygdala - NeuN+,Amygdala,0.027775
+one,Y,5556,19538,Cortical layer IV - NeuN+,Cortical layer IV,0.027775
+one,Z,23952.74414,10462.90137,Amygdala - NeuN+,Amygdala,0.027775
+one,Za,7692,21379,Cortical layer IV - NeuN+,Cortical layer IV,0.027775
